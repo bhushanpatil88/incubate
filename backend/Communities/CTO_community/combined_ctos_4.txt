@@ -1,4 +1,4 @@
-CTO/Dheeraj Gupttaa.txt CTO/SS Saravanan.txt CTO/Yash Kumar.txt CTO/Mahadev Punekar.txt CTO/Sachin Dubey.txt CTO/Paolo A.txt CTO/Mahendra Moghe.txt CTO/Jay Pillai.txt CTO/Steve Vedang.txt CTO/Hardik Acharya.txt
+Dheeraj Gupttaa,SS Saravanan,Yash Kumar,Mahadev Punekar,Sachin Dubey,Paolo A,Mahendra Moghe,Jay Pillai,Steve Vedang,Hardik Acharya
  
  
 Contact

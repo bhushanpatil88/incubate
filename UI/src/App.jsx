@@ -14,13 +14,21 @@ function App() {
     result:false,
   });
   const [isLoading,setIsLoading] = useState(false);
+  const [results,setResults] = useState();
 
-  
-  const [results,setResults] = useState({});
+
 
   const handleSubmit = ()=>{
     setIsLoading(true);
-    fetch(`http://127.0.0.1:5000/${idea}/111`).then(res =>{
+    let address = "";
+    if(roles.includes('CEO'))address   += '1';
+    else address += '0';
+    if(roles.includes('CTO'))address += '1';
+    else address += '0';
+    if(roles.includes('CMO')) address += '1';
+    else address += '0';
+    console.log(address);
+    fetch(`http://127.0.0.1:5000/${idea}/${address}`).then(res =>{
       return res.json();
     }).then(data => 
       {

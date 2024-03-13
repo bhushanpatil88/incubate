@@ -1,4 +1,4 @@
-CTO/Vara Prasad PVenkata.txt CTO/Bahman Koohestani.txt CTO/Tina Buop.txt CTO/Annamarie Burke.txt CTO/William Jacob.txt CTO/Raghunandan S.txt CTO/Ishita Sharma.txt CTO/Siddharth Jogia.txt CTO/Tushar Pathare.txt CTO/Will Villanueva.txt
+Vara Prasad PVenkata,Bahman Koohestani,Tina Buop,Annamarie Burke,William Jacob,Raghunandan S,Ishita Sharma,Siddharth Jogia,Tushar Pathare,Will Villanueva
  
  
 Contact

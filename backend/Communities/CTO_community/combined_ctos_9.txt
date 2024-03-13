@@ -1,4 +1,4 @@
-CTO/Shikhar Goel.txt CTO/Michael Han.txt CTO/Jason Urso.txt CTO/Ishan Mahajan.txt CTO/Ajay Kumar.txt CTO/Eric B.txt CTO/Anup Nivargi.txt CTO/Prince Bhalani.txt CTO/Yash Kumar.txt CTO/Nilesh Shinolikar.txt
+Shikhar Goel,Michael Han,Jason Urso,Ishan Mahajan,Ajay Kumar,Eric B,Anup Nivargi,Prince Bhalani,Yash Kumar,Nilesh Shinolikar
  
  
 Contact

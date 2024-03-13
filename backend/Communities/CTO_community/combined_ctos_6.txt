@@ -1,4 +1,4 @@
-CTO/Kalyan A.txt CTO/Vikash Kumar.txt CTO/Saurabh Nigam.txt CTO/Vara Prasad PVenkata.txt CTO/Shashibhushan Kolhe.txt CTO/Yash Kumar.txt CTO/Siddharth Jogia.txt CTO/Aniket Tambavekar.txt CTO/Saiprasad Shankar.txt CTO/Gaurav Sule.txt
+Kalyan A,Vikash Kumar,Saurabh Nigam,Vara Prasad PVenkata,Shashibhushan Kolhe,Yash Kumar,Siddharth Jogia,Aniket Tambavekar,Saiprasad Shankar,Gaurav Sule
  
  
 Contact

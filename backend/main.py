@@ -19,23 +19,26 @@ def getDesignations(designation):
     return designations
     
 def test(idea, designation):
-    designations = getDesignations(designation)
+    # designations = getDesignations(designation)
     
-    res = {}
+    # res = {}
     
-    for role in designations:
-        print(role)
-        file = open(f"./resources/Ideas/{idea}/{idea}_{role}.txt", "r")
-        res[role] = file.read()
+    # for role in designations:
+    #     print(role)
+    #     file = open(f"./resources/Ideas/{idea}/{idea}_{role}.txt", "r")
+    #     res[role] = file.read()
     
-    print(res)
+    # print(res)
 
-    name = "PRAMOD GAIKWAD"
-    with open(f'./Profile/ceo/{name}.txt', 'r', encoding="utf-8") as f:
-            profile = f.read()
-            profile  = profile.replace("\n"," ")
-            linkedin = re.search(r'Contact\s(.*?)\s\(LinkedIn\)', profile.strip()).group(1).replace(" ","")
-            print(linkedin)
+    # name = "PRAMOD GAIKWAD"
+    # with open(f'./Profile/ceo/{name}.txt', 'r', encoding="utf-8") as f:
+    #         profile = f.read()
+    #         profile  = profile.replace("\n"," ")
+    #         linkedin = re.search(r'Contact\s(.*?)\s\(LinkedIn\)', profile.strip()).group(1).replace(" ","")
+    #         print(linkedin)
+    role = "ceo"
+    wmd = WMD("123",f"./Communities/{role}_community")
+    wmd.wmd_community(role)
 
 @app.route('/<idea>/<designation>')
 def hello(idea, designation):
@@ -52,6 +55,7 @@ def hello(idea, designation):
     # WMD Working
     final = {}
     for role,data in res.items():
+        # for person profiles
         wmd = WMD(data, f"./Profile/{role}")
         top_5_profiles = wmd.wmd()
         results = {}
@@ -68,6 +72,20 @@ def hello(idea, designation):
             csvwriter.writerow(fields)
             for name, value in results.items():
                 csvwriter.writerow([name, value[0],value[1]])
+        # for community
+        wmd = WMD(data,f"./Communities/{role}_community")
+        top_community = wmd.wmd_community(role)
+        community_csv = f'{role}_community.csv'
+        fields = ["Name","Linkedin"]
+        print(top_community)
+        with open(community_csv, "w", encoding="utf-8") as f:
+            csvwriter = csv.writer(f)
+            csvwriter.writerow(fields)
+            for arr in top_community[1]:
+                for k,v in arr.items():
+                    csvwriter.writerow([k,v])
+        final[f'{role}_community'] = top_community
+    print(final)
     return jsonify(final)
 
 if __name__ == "__main__":

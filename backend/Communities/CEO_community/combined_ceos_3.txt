@@ -1,4 +1,4 @@
-CEO/Anjali Nar.txt CEO/Amit Arole.txt CEO/Satyam Chaturvedi.txt CEO/Aravind Gajjela.txt CEO/Rithwik G.txt CEO/Mayank Arora.txt CEO/Sadhana Kajalepatil.txt CEO/Sujit Jadhav.txt CEO/raghunath ravula.txt CEO/SAINT PAUL EDEH.txt
+Anjali Nar,Amit Arole,Satyam Chaturvedi,Aravind Gajjela,Rithwik G,Mayank Arora,Sadhana Kajalepatil,Sujit Jadhav,raghunath ravula,SAINT PAUL EDEH
  
  
 Contact

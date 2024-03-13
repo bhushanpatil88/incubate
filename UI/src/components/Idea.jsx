@@ -7,16 +7,34 @@ const IdeaSelector = ({
 
   const ideas = [
     
-    "Zombie Defense iPhone App",
-    "Subtitles in Miro - Translations and Support for the Hearing Impaired",
-    "New, jaw-dropping website for the biggest podcasts catalog in Poland - podcast.pl",
-    "Sight Unseen: A new online magazine that lets you peek inside the lives of creatives",
+    "Offline Wikipedia Phone app",
+    "Casemates a wine community site with direct vineyard deals",
+    "OSMO-DRAIN - the subsurface irrigation system",
+    "EMPREKIDS - School Entrepreneurship Platform",
+    "Fit Immersion The VR Headset for your Exercise Bike",
+    "Amerra Connect",
+    "Car Crash Emergency Response Smart App",
+    "Cutting Board Custom Design and Personalization Application",
+    "DIY gamepad module with Arduino",
+    "ECO-Friendly Living Design",
+    "headspace - Improving mental wellbeing by connecting people",
+    "ioTracker - LoRa GPS tracker without the hassle of charging",
+    "Nightcrawl - The Film Noir Tabletop Role-Playing Game",
+    "PC build and virtual benchmark simulator",
     "podcast",
-    "Idea Text 6",
-    "Idea Text 7",
-    "Idea Text 8",
-    "Idea Text 9",
-    "Idea Text 10",
+    "sight unseen magazine",
+    "subtitles in miro",
+    "Travel Guide booking App",
+    "Tweetsourcing",
+    "Zombie Defence",
+
+
+
+
+
+
+
+
   ];
   const handleChange = (event) => {
     setIdea(event.target.value);

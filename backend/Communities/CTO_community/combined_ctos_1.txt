@@ -1,4 +1,4 @@
-CTO/Ankit Godara.txt CTO/Ishita Sharma.txt CTO/Saurabh Nigam.txt CTO/Linshad Latheef.txt CTO/Sachin Kurlekar.txt CTO/Blair Newman.txt CTO/Oleg Taranov.txt CTO/Arvind Khanna.txt CTO/Sachin Lanke.txt CTO/Tushar Pathare.txt
+Ankit Godara,Ishita Sharma,Saurabh Nigam,Linshad Latheef,Sachin Kurlekar,Blair Newman,Oleg Taranov,Arvind Khanna,Sachin Lanke,Tushar Pathare
  
  
 Contact

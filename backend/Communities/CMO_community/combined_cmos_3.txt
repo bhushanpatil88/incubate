@@ -1,4 +1,4 @@
-CMO/Abirbhav kumar.txt CMO/Prasad Kothare.txt CMO/Mayur Hola.txt CMO/Rajesh Singh.txt CMO/Manisha Khadge.txt CMO/Alok Kumar.txt CMO/Vivek Singh.txt CMO/Pramod Jain.txt CMO/Arjun S.txt CMO/Alisha Verma.txt
+Abirbhav kumar,Prasad Kothare,Mayur Hola,Rajesh Singh,Manisha Khadge,Alok Kumar,Vivek Singh,Pramod Jain,Arjun S,Alisha Verma
  
  
 Contact

@@ -1,4 +1,4 @@
-CEO/GIRISH KRINAL damagatla.txt CEO/Suraj Thool.txt CEO/Pavan Galada.txt CEO/Sushant K.txt CEO/Lalit Nanaware.txt CEO/Venkat Tushar B.txt CEO/Mohammad Alam.txt CEO/Nagaraja S.txt CEO/Salil Parekh.txt CEO/AshVin WW.txt
+GIRISH KRINAL damagatla,Suraj Thool,Pavan Galada,Sushant K,Lalit Nanaware,Venkat Tushar B,Mohammad Alam,Nagaraja S,Salil Parekh,AshVin WW
  
  
 Contact

@@ -1,4 +1,4 @@
-CEO/Mahesh Dharmavat.txt CEO/sateeshkumartalupuri.txt CEO/Raghavendra Prasad.txt CEO/Gokulakrishnan Venkatesan.txt CEO/Yasmeen Siddiqui.txt CEO/Prateek Nagras.txt CEO/Pradnya Rekha.txt CEO/Pavithra Prasad.txt CEO/tushar patil.txt CEO/Deekshith MS.txt
+Mahesh Dharmavat,sateeshkumartalupuri,Raghavendra Prasad,Gokulakrishnan Venkatesan,Yasmeen Siddiqui,Prateek Nagras,Pradnya Rekha,Pavithra Prasad,tushar patil,Deekshith MS
  
  
 Contact

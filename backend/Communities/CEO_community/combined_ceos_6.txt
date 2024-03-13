@@ -1,4 +1,4 @@
-CEO/Pavan Galada.txt CEO/Vishal Banarase.txt CEO/Preeti Markan.txt CEO/Jeetendra Bhandari.txt CEO/Princeya Jose.txt CEO/Arif Ali.txt CEO/Ashish Shinde.txt CEO/Shaunak Agarkhedkar.txt CEO/Jignesh Patel.txt CEO/Sudip Singh.txt
+Pavan Galada,Vishal Banarase,Preeti Markan,Jeetendra Bhandari,Princeya Jose,Arif Ali,Ashish Shinde,Shaunak Agarkhedkar,Jignesh Patel,Sudip Singh
  
  
 Contact

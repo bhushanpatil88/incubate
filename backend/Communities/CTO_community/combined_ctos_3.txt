@@ -1,4 +1,4 @@
-CTO/Amit Verma.txt CTO/Torin Kampa.txt CTO/Virupaksh Hiremath.txt CTO/Rohit Kumar.txt CTO/Prathamesh Shinde.txt CTO/Janak S.txt CTO/Ted Gaubert.txt CTO/Amol Mohite.txt CTO/Kaishu Sahu.txt CTO/Radhakrishnan Mudliar.txt
+Amit Verma,Torin Kampa,Virupaksh Hiremath,Rohit Kumar,Prathamesh Shinde,Janak S,Ted Gaubert,Amol Mohite,Kaishu Sahu,Radhakrishnan Mudliar
  
  
 Contact

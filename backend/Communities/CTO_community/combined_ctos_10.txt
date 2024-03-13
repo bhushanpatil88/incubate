@@ -1,4 +1,4 @@
-CTO/Aarti Hirve.txt CTO/Si P.txt CTO/Kalyan A.txt CTO/Udo Waibel.txt CTO/Vinayak Lele.txt CTO/Mahesh Ghatge.txt CTO/Aashish Singla.txt CTO/Gaurav Sule.txt CTO/Prof. Amol Goje.txt CTO/Camilo Villagonzalo.txt
+Aarti Hirve,Si P,Kalyan A,Udo Waibel,Vinayak Lele,Mahesh Ghatge,Aashish Singla,Gaurav Sule,Prof. Amol Goje,Camilo Villagonzalo
  
  
 Contact
