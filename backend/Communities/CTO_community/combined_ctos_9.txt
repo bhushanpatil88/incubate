@@ -1,0 +1,1116 @@
+CTO/Shikhar Goel.txt CTO/Michael Han.txt CTO/Jason Urso.txt CTO/Ishan Mahajan.txt CTO/Ajay Kumar.txt CTO/Eric B.txt CTO/Anup Nivargi.txt CTO/Prince Bhalani.txt CTO/Yash Kumar.txt CTO/Nilesh Shinolikar.txt
+ 
+ 
+Contact
+www.linkedin.com/in/shikhar-
+goel-6186798b (LinkedIn)
+Top Skills
+Cross-functional Team Leadership
+Amazon Web Services (AWS)
+NoSQL
+Certifications
+Developing ASP.NET Applications
+Shikhar Goel
+CTO @GeeksforGeeks
+Noida, Uttar Pradesh, India
+Summary
+I have spearheaded diverse projects which include User
+Authentication and Profile, In-house Content Writing Platform, etc.
+For this, I have set up the necessary infrastructure & architecture
+and the teams.
+I have developed the Ads monetization setup to increase revenue
+to 4x as compared to the existing setup and managed necessary
+business requirements like compliances, cyber law changes (like
+GDPR, CPPA), third-party relations, policies, etc. 
+Delivering massive projects both on scale and execution, which
+extend to multiple quarters, and managing cross-functional teams
+has been one of my primary responsibilities for GeeksforGeeks.
+Passionate about enhancing India's tech education, I have
+successfully tackled major projects, addressing the gap between
+produced engineers and employability. My drive stems from the
+belief that quality education should be accessible without burning a
+hole in the pocket.
+Experience
+GeeksforGeeks
+8 years 3 months
+Chief Technology Officer
+April 2018 - Present (6 years)
+Web Developer
+April 2016 - March 2018 (2 years)
+Noida, Uttar Pradesh, India
+Web Development Intern
+January 2016 - March 2016 (3 months)
+Noida, Uttar Pradesh, India
+ 
+Page 1 of 2
+ 
+ 
+Education
+Jaypee Institute Of Information Technology
+Bachelor of Technology (B.Tech.), Computer Science
+Engineering · (2011 - 2015)
+ 
+Page 2 of 2
+ 
+ 
+Contact
+www.linkedin.com/in/mikehan23
+(LinkedIn)
+zocial.io (Company)
+Top Skills
+Blockchain
+Software Development
+Information Security
+Michael Han
+CTO & Co-Founder at Zocial
+United States
+Summary
+I have over 20 years of experience developing software applications,
+including architecting and commercializing Blockchain solutions.
+I have had the role of CTO, senior or lead engineer on multiple
+projects, including first-generation enterprise applications and
+platform development.  I have a passion for innovation, solving
+complex problems and building world-class software products.
+Experience
+Zocial
+CTO
+January 2020 - Present (4 years 3 months)
+As the CTO and co-founder, I am responsible for the design, architecture,
+and development of the blockchain, fintech, and cryptocurrency platform.
+Responsibilities include:
+* Led software development team in building digital cryptocurrency wallet,
+Fintech platform, smart contracts, and DApps.
+* Work experience in blockchain platforms including Hyperledger, Ethereum,
+Ripple, Stellar, and Corda.
+* Defined Ethereum specs for ledger, consensus methods (PoW, PoS, etc.),
+data security, decentralized architecture, and ERC20 tokens for Ethereum
+Virtual Machine.
+* Worked on cryptography, including asymmetric (public and private key),
+symmetric, hash functions, and encryption/signatures.
+* Wrote, revised, and reviewed Solidity codes for Smart Contracts.
+* Built and maintained Linux network infrastructure and managed both the front
+and back ends of the Fintech platform.
+* Demoed Fintech products, helped raised funds, and interfaced with investors.
+First Management
+Chief Technologist
+August 2002 - December 2019 (17 years 5 months)
+San Jose, CA
+ 
+Page 1 of 3
+ 
+ 
+As the Chief Technologist, I was in charge of information technology strategy
+and implementation, including blockchain, IoT, and AI technologies.  I did
+research on DLT (Distributed Ledger Technology), developed and tested pilots
+and Proof of Concepts using blockchain technology, worked with distributed
+databases, and had hands-on experience with Open Source technologies.
+In addition to overseeing the hardware, software and data that help all
+departments to perform their jobs effectively.  I also research new technologies
+and strategize how they can provide business values and address the risks
+associated with digital information. 
+* Set up mining rig with GPU cards to mine Bitcoins and other
+cryptocurrencies.
+* Set objectives and strategies for the information technology for the company
+* Select and implement suitable technology to streamline all internal operations
+and help optimize their strategic benefits
+* Design and customize technological systems and platforms to improve the
+entire company experience
+* Plan the implementation of new systems and provide guidance to IT
+professionals and other staff within the organization
+* Approve purchases of technological equipment and software and establish
+partnerships with IT providers
+* Oversee the technological infrastructure (networks and computer systems) in
+the organization to ensure optimal performance
+* Direct and organize IT-related projects
+* Monitor changes and advancements in technology to discover ways the
+company can gain competitive advantage
+* Analyze the costs, values and risks of information technology to advise
+management and suggest actions
+Golinq, Inc
+CTO
+June 1999 - May 2002 (3 years)
+San Jose, CA
+BrightStreet, Inc
+Senior Software Engineer Project Lead
+February 1998 - April 1999 (1 year 3 months)
+Aerojet, Inc
+Software Engineer
+May 1996 - December 1997 (1 year 8 months)
+Folsom, CA
+ 
+Page 2 of 3
+ 
+ 
+ 
+Page 3 of 3
+ 
+ 
+Contact
+www.linkedin.com/in/jason-
+urso-96768913 (LinkedIn)
+Top Skills
+Engineering Management
+Process Automation
+Process Engineering
+Jason Urso
+Vice President and Chief Technology Officer
+Houston, Texas, United States
+Experience
+Honeywell
+19 years 3 months
+Chief Technology Officer
+January 2018 - Present (6 years 3 months)
+Houston TX
+Vice President R&D and Chief Technology Officer responsible for design,
+development and introduction of industrial automation and sensing offerings.
+Vice President and General Manager
+August 2014 - Present (9 years 8 months)
+Leader of global industrial Measurement and Control business within
+Honeywell Process Solutions.  P&L responsibility and oversight of all aspect of
+business operations and strategy
+Vice President and Chief Technology Officer
+January 2008 - August 2014 (6 years 8 months)
+Leader of global Honeywell Process Solutions R&D organization.  Responsible
+for 2,000 engineers, program managers, and support staff with charter
+to enable business growth by delivering best in the industry new product
+introductions
+Director Marketing
+January 2005 - May 2008 (3 years 5 months)
+Global marketing director for Honeywell process automation systems.
+Responsible for strategic and product marketing for Honeywell's project and
+lifecycle services businesses.  
+ 
+Page 1 of 1
+ 
+ 
+Contact
+www.linkedin.com/in/ishan-
+mahajan-2a2885212 (LinkedIn)
+Ishan Mahajan
+Chief Technology Officer at IQGE
+Chandigarh, India
+Experience
+IQGE
+Chief Technology Officer
+ 
+Page 1 of 1
+ 
+ 
+Contact
+www.linkedin.com/in/kumar-away
+(LinkedIn)
+Top Skills
+IT Service Management
+Hybrid Cloud
+Business-to-Business (B2B)
+Ajay Kumar
+Chief Technical Officer
+Noida, Uttar Pradesh, India
+Experience
+Zoylee
+Chief Technology Officer
+January 2020 - Present (4 years 3 months)
+Noida, Uttar Pradesh, India
+Sagenext Infotech LLC
+Information Technology Specialist
+March 2010 - August 2020 (10 years 6 months)
+India
+ 
+Page 1 of 1
+ 
+ 
+Contact
+www.linkedin.com/in/ericbrowy
+(LinkedIn)
+www.wired.com/2016/04/magic-
+leap-vr/ (Other)
+Top Skills
+Optics
+Matlab
+Physics
+Eric B.
+Chief Technology Officer
+Boise, Idaho, United States
+Summary
+I am somewhere between an inch wide and a mile deep, and an
+inch deep and a mile wide. I really enjoy helping people of many
+disciplines communicate with each other and fill the gaps from
+a technical perspective. Cross-domain thinking, with record of
+providing meaningful solutions to complicated problems and finding
+new ways forward.
+Experience
+Stealth Startup
+Chief Technology Officer
+August 2022 - Present (1 year 8 months)
+Boise Metropolitan Area
+Microsoft
+1 year 7 months
+Sr. Director of Systems Engineering and TPM
+March 2022 - August 2022 (6 months)
+United States
+Lead team of TPMs, System Engineers, and Product Security for DOD MR
+product 
+-Interface for customer and business units 
+-Worked with team to define next generation architecture for critical program
+-Translated customer needs to technical action
+Principal Systems Engineer
+February 2021 - March 2022 (1 year 2 months)
+Boise, Idaho, United States
+- TPM and System Engineer working to align multiple teams to customer
+objectives 
+- Helped define process to enable success of IVAS product. 
+- Took over product cybersecurity enabling a successful ATO of DOD product.
+AnaVation LLC
+ 
+Page 1 of 5
+ 
+ 
+Chief Engineer
+June 2020 - March 2022 (1 year 10 months)
+Meridian, Idaho, United States
+Technical Advisor for:
+Optical Systems (sensors and displays) 
+Applied Machine Learning (System and Data) 
+Technology roadmap
+Magic Leap
+5 years 5 months
+Pathfinding
+November 2018 - June 2020 (1 year 8 months)
+Boise, Idaho Area
+-Created system architecture for next generation system within organization
+-Worked through entire organization acquiring buy-in and support for new
+architecture
+-Built program plan to include: WBS, resources, budget, milestone dates, and
+technical guiding principles
+-Leveraged cross-functional credibility to converge many silos into a single
+plan, creating a unified approach when presented to C-staff
+-Worked as part of the Office of the CTO to generate ideas, solve problems,
+and file IP
+Product Architect- Horizons (Government arm of Magic Leap)
+December 2017 - November 2018 (1 year)
+Plantation, Florida
+- Worked with Government partners to develop an integrated system
+increasing situational awareness while decreasing cognitive load
+- Defined product requirements, technical requirements, and specifications for
+a complex Spatial Computing architecture
+- Developed cost model, program plan, hiring plan, and business plan to
+accomplish an aggressive timeline for Government program
+- Represented technical and programmatic voice of the customer internally to
+ensure all requirements were agreed upon
+Lead Optical Systems and Prototype Engineer
+February 2015 - December 2017 (2 years 11 months)
+Dania Beach, Florida
+-End-to-end optical system integration, and  troubleshooting 
+-Rapid Prototyping and Development of Magic Leap Optical Systems
+ 
+Page 2 of 5
+ 
+ 
+-Development of low uncertainty optical tests for near-eye displays and sub-
+components
+-Interfacing with multi-disciplinary team to introduce new product features and
+solutions 
+-Partnered with contract manufacturing company in order to productize device
+-Developed software for unified quantification of optical parameters
+UNC Charlotte
+4 years 10 months
+Research Assistant
+May 2012 - December 2014 (2 years 8 months)
+Center for Precision Metrology
+NSF funded: Characterization of diamond tool wear on a binary Cu-Ni alloy
+system
+Advisor: Dr. Christopher Evans
+-Programmed and operated Precitech Nanoform 350 Diamond Turning
+Machine (DTM)
+-Conducted metrology with Scanning White Light Interferometer (SWLI) 
+-Developed tool edge-recession measurement method using SWLI and
+MatLab based data reduction
+-Measured surfaces with Fizeau Interferometer
+-Used Scanning Electron Microscope and EDX to characterize samples and
+diamond tool wear
+Research Assistant
+May 2012 - August 2013 (1 year 4 months)
+Center for Precision Metrology
+Industry Funded diamond turning and Magneto Rheological Finishing (MRF) of
+proprietary IR crystal
+Advisor:Dr. Christopher Evans
+-Determined ductile-to-brittle transition of material
+-Evaluated diamond tool wear while turning IR crystal
+-Characterized the material removal rate with the QED Q22-XE MRF machine 
+-Conducted metrology on IR crystals
+Reasearch Assistant - DARPA
+August 2011 - June 2012 (11 months)
+Charecterization of broad-area laser diodes using grating out-couplers
+Advisor: Dr. Oleg Smolski
+-Trained in clean room operations and procedures
+-Lapped and Polished GaAs wafers
+ 
+Page 3 of 5
+ 
+ 
+-Developed otpical systems to test parameters of grated coupling surface
+emitting lasers (GCSEL)
+-Conducted array of experiments and design on surface emitting lasers
+Research Assistant
+March 2010 - August 2011 (1 year 6 months)
+UNC Charlotte
+During my time as an undergraduate research assistant and early entry to
+graduate school I worked on two projects simultaneously. 
+Photogrammetry of diffractive grids to determine precision location of origin
+Advisors: Dr. Brigid Mulllany and Dr. Angela Davies
+-Designed and implemented optical system to remove speckle
+-Developed metrics and wrote software to take automated measurments and
+quantify speckle
+-Implemented speckle removing subsystem to increase the accuracy and
+repeatability of system as a whole
+Vibration Attenuation in Pitch Polishing 
+Advisor: Dr. Brigid Mullany
+-Designed and Fabricated a precision bench top test-bed
+-Polished Fused Silica with an overarm polisher
+-Conducted numerous forms of metrology on workpieces
+-Fabricated pitch tools and made flats out of spherical workpieces
+Lawrence Livermore National Laboratory
+Student Scholar, Defensive Technologies Engineering Directorate
+March 2013 - August 2014 (1 year 6 months)
+Livermore,Ca
+• Developed metrology method for measuring sensitive materials in enclosure
+• Quantified measurement errors and measurement uncertainty in metrology
+method
+• Documented procedures and best practices for future users of equipment
+• Used Matlab automate measurement of features in system
+US Army
+Cavalry Scout
+June 2002 - December 2006 (4 years 7 months)
+Deployed March 2003 - March 2004
+November 2005 - March 2006
+ 
+Page 4 of 5
+ 
+ 
+Education
+University of North Carolina at Charlotte
+Master's Degree, Optical Science and Engineering · (2012 - 2014)
+University of North Carolina at Charlotte
+Bachelor of Science (BS), Mechanical Engineering · (2007 - 2011)
+University of North Carolina at Charlotte
+Bachelor of Science (BS), Physics · (2007 - 2011)
+ 
+Page 5 of 5
+ 
+ 
+Contact
+www.linkedin.com/in/anupnivargi
+(LinkedIn)
+Top Skills
+Ruby on Rails
+Ruby
+Git
+Anup Nivargi
+CTO at Memory | Director at Memory India
+Pune, Maharashtra, India
+Experience
+Memory
+Chief Technology Officer
+December 2015 - Present (8 years 4 months)
+Red Hat
+Senior Software Engineer
+July 2012 - December 2016 (4 years 6 months)
+MangoSpring
+Software Engineer
+March 2010 - June 2012 (2 years 4 months)
+Thinkdry Technologies
+Software Developer
+September 2008 - March 2010 (1 year 7 months)
+Ruby, Rails Developer
+Education
+Savitribai Phule Pune University
+Master's degree, Masters · (2003 - 2009)
+ 
+Page 1 of 1
+ 
+ 
+Contact
+www.linkedin.com/in/princebhalani
+(LinkedIn)
+Top Skills
+Cybersecurity
+Technology Strategy & Execution
+Data Science & Analytics
+Languages
+Marathi (Limited Working)
+Gujarati (Native or Bilingual)
+Hindi (Native or Bilingual)
+English (Professional Working)
+Marvadi (Professional Working)
+Certifications
+Python (Basic)
+Introduction to AI
+Nano Tips to Sharpen Your Critical
+Thinking
+Ethical Hacking; Network- Based
+Attacks
+SQL (Advanced)
+Prince Bhalani
+Experienced CTO Driving Digital Transformation and Cyber Security
+Initiatives for Businesses
+Pune, Maharashtra, India
+Summary
+Prince is a highly experienced Chief Technology Officer (CTO) with a
+proven track record of over 12 years in driving transformative change
+across diverse industries. Specialising in cybersecurity and cyber
+forensics, Prince excels in guiding businesses from traditional brick-
+and-mortar setups to thriving online startups.
+Experience
+Group of Oceaninfo
+Founder
+January 2007 - Present (17 years 3 months)
+Pune, Maharashtra, India
+As the founder of the Group of Oceaninfo, Prince has spearheaded cutting-
+edge cyber forensics and cybersecurity solutions, ensuring businesses'
+resilience in today's digital landscape. Leveraging expertise in cyber security,
+technology strategy & execution, data science & analytics, and website
+development, He empowers small businesses to embrace technology for
+sustainable growth.
+Sanctor Digital
+Chief Technology Officer
+January 2014 - January 2024 (10 years 1 month)
+Prince set the vision for technological utilization within the company in this
+pivotal role, effectively managing multi-million dollar budgets and leading
+cross-functional teams. He enhanced the company's digital capabilities
+with expertise in cyber security, data science & analytics, and website
+development, driving innovation and growth.
+K-Tech International
+Project Manager
+April 2011 - December 2013 (2 years 9 months)
+Pune, Maharashtra, India
+ 
+Page 1 of 2
+ 
+ 
+As a project manager, Prince demonstrated proficiency in cyber security,
+data science & analytics, and technology strategy & execution. He effectively
+managed project objectives, provided on-site leadership, and contributed to
+the organization's success through strategic planning and proactive problem-
+solving.
+Education
+Indian Institute of Management Bangalore
+Descriptive Statistics, Statistics for Business · (July 2015 - August 2015)
+Indian Institute of Management Bangalore
+IT Management, Innovation and Information Technology Management · (July
+2015 - September 2015)
+Rajasthan Technical University
+Bachelor of Technology - BTech, Information Technology · (April 2007 - April
+2011)
+Gujarat State Technical Examination Board
+Higher Secondary School, Mathematics and Computer Science · (April
+2006 - April 2007)
+Gujarat State Technical Examination Board
+Secondary School, Computer Science · (April 2004 - April 2005)
+ 
+Page 2 of 2
+ 
+ 
+Contact
+www.linkedin.com/in/yash-
+kumar-0b6a8b125 (LinkedIn)
+Top Skills
+Competitive Programming
+Data Structures
+Algorithms
+Languages
+Hindi (Native or Bilingual)
+English (Native or Bilingual)
+Honors-Awards
+ACM ICPC 2017 World Finalist
+TCS Codevita 2017 Finalist
+Hackerearth Collegiate Cup 2016
+Finalist
+TCS Codevita 2018 Winner
+Yash Kumar
+Co-Founder & CTO @ Pettle ACM ICPC World Finalist 2017, TCS
+Codevita 2018 Winner
+Ahmedabad, Gujarat, India
+Summary
+Experience in building scalable and distributed backend systems.
+Skilled in C++, Java, SQL, Data Structures and Algorithms.
+Experience
+Pettle
+Chief Technology Officer
+August 2023 - Present (8 months)
+Bengaluru, Karnataka, India
+RelicX
+Founding Engineer
+April 2021 - April 2022 (1 year 1 month)
+Rippling
+Software Engineer
+September 2019 - March 2021 (1 year 7 months)
+Bengaluru Area, India
+Directi
+1 year 9 months
+Software Development Engineer 2
+July 2019 - September 2019 (3 months)
+Mumbai Area, India
+Back-end engineer at Zeta. Building payment systems.
+Software Development Engineer 1
+July 2018 - June 2019 (1 year)
+Mumbai Area, India
+Software Development Intern
+January 2018 - June 2018 (6 months)
+Mumbai, India
+ 
+Page 1 of 2
+ 
+ 
+Sprinklr
+Software Development Intern
+May 2017 - July 2017 (3 months)
+Gurgaon, India
+Education
+Dhirubhai Ambani Institute of Information and Communication
+Technology
+Bachelor of Technology (BTech), Information Technology · (2014 - 2018)
+ 
+Page 2 of 2
+ 
+ 
+Contact
+www.linkedin.com/in/nilesh-
+shinolikar-b0061351 (LinkedIn)
+coderize.in/ (Company)
+Top Skills
+Geographic Information Systems
+(GIS)
+Project Management
+Project Planning
+Nilesh Shinolikar
+CTO at CodeRize Technologies Private Ltd
+Pune, Maharashtra, India
+Summary
+With over 16 years of industry experience, I am a GIS and IT leader
+who currently serves as the CTO at CodeRize Technologies, a
+company that provides innovative solutions for various domains. As
+a creative solution architect and consultant, I leverage my expertise
+in GIS and other technologies to oversee all technical aspects of the
+organization and help our clients achieve their goals.
+Beyond my professional work, I am passionate about making a
+positive impact on society and empowering the next generation
+of innovators. I am the founder and president of the Chhaya
+Foundation, an NGO that envisions an India where suicides are
+prevented, missing cases are resolved, and families find the
+support they need to heal and move forward. I am also a mentor at
+Startup India, Maharashtra State Innovation Society, and Symbiosis
+Incubation Centre, where I guide budding entrepreneurs in the
+constantly evolving technological landscape. Additionally, I have
+trained and mentored over 4,000 students in the GIS and IT domains
+as a visiting professor at Symbiosis Institute of Geoinformatics and
+the University of Pune.
+Experience
+CodeRize Technologies
+Chief Technology Officer | Transinnovate Spatially
+April 2019 - Present (5 years)
+Pune Area, India
+As a forward-thinking Chief Technology Officer (CTO) for a GIS-focused
+company, I am passionate about driving innovation and technological
+advancements in the geospatial industry. With a strong background in GIS
+technology and an unwavering commitment to staying at the forefront of
+emerging trends, I lead dynamic teams in delivering cutting-edge solutions that
+empower organizations to harness the power of location intelligence.
+ 
+Page 1 of 14
+ 
+ 
+Strategic Leadership: Spearheading technology vision and strategy, aligning
+GIS innovations with organizational goals for sustainable growth.
+GIS Expertise: Leveraging extensive GIS knowledge to pioneer geospatial
+solutions that address complex challenges across industries.
+Innovation Champion: Encouraging a culture of innovation, research, and
+development to deliver GIS products that set industry standards.
+Product Development: Overseeing end-to-end product development lifecycle,
+from conceptualization to market launch, ensuring excellence at every stage.
+Team Empowerment: Building high-performance teams of GIS professionals,
+fostering collaboration, and nurturing talent to drive technology excellence.
+GIS Architecture: Defining and implementing scalable GIS architectures that
+support large-scale geospatial data processing and analysis.
+Technology Partnerships: Establishing strategic alliances and partnerships to
+leverage emerging technologies for GIS innovation.
+R&D Investment: Allocating resources to continuous research and
+development, pushing the boundaries of GIS capabilities.
+GIS Integration: Facilitating seamless integration of GIS solutions into existing
+enterprise systems, optimizing data flow and utilization.
+Global Reach: Expanding the company's global footprint, fostering
+relationships with clients and stakeholders worldwide.
+Security and Compliance: Ensuring robust cybersecurity measures and
+compliance standards for GIS data protection.
+Ramkrishna More College 
+SME and Member of Board of Studies at Ramkrushna More College
+June 2023 - Present (10 months)
+Pune/Pimpri-Chinchwad Area
+I am privileged to serve as a Subject Matter Expert and member of the Board
+of Studies at Ramkrushna More College, Akurdi, Pune, Maharashtra, India.an
+institution committed to academic excellence and innovation.With over 15
+years of experience in Training and GIS Corporate world, I bring specialized
+knowledge and a passion for advancing education. My role as a Subject Matter
+Expert as BOS Member involves shaping and enhancing academic programs
+to meet industry trends and empower students with cutting-edge knowledge.
+Together with the Board of Studies, we are on a mission to:
+Enhance Curriculum: We continuously refine programs to keep them aligned
+with emerging fields and industry demands.
+Empower Students: Our goal is to equip students with skills and knowledge for
+a rapidly evolving world.
+ 
+Page 2 of 14
+ 
+ 
+Quality Assurance: We maintain the highest standards of educational delivery,
+ensuring students receive a world-class education.
+Chhaya Foundation
+Founder & President at Chhaya Foundation
+January 2023 - Present (1 year 3 months)
+Pune, Maharashtra, India
+I am deeply honoured to serve as both the Founder and President of
+The Chhaya Foundation—The Shades of hope. We wanted to foster a
+compassionate India where we prevent suicides, address missing cases
+effectively, and provide vital support to families on their healing journey.
+Join us in creating a more inclusive society, advocating for mental health,
+and championing the rights of every individual. Together, we can make a
+difference. 
+Our Vision & Mission 
+Vision: We envision an India where suicides are prevented, missing cases are
+resolved, and families find the support they need to heal and move forward.
+Mission: To achieve this, we're dedicated to reducing suicides, missing cases,
+and mental health challenges through awareness, resources, advocacy,
+addressing root causes, fostering inclusivity, education, intervention, and
+community collaboration.
+Our Services 
+Crisis Intervention: Immediate support during crises.
+Mental Health Services: Professional guidance for mental health challenges.
+Support Groups: Building unity and resilience.
+Resources and Information: Equipping individuals and families.
+Community Outreach: Spreading awareness and support.
+Training and Education: Empowering with knowledge and skills.
+Research: Ensuring evidence-based programs.
+Advocacy: Breaking down stigmas and barriers.
+Visit us at: https://chhaya.org.in/
+Startup India
+Empowering the Next Generation of Innovators, Mentor at Startup India
+ 
+Page 3 of 14
+ 
+ 
+January 2021 - Present (3 years 3 months)
+Delhi, India
+As a mentor, I guide budding entrepreneurs at Startup India. I share insights,
+offer encouragement, and facilitate valuable connections. My role involves
+navigating the complexities of startups, promoting adaptability, fostering
+innovation, and emphasizing broader success metrics. It's a fulfilling journey of
+giving back and shaping India's startup ecosystem.
+Guiding Startups: I provide practical guidance, drawing from my own
+experiences, to help startups navigate the intricate terrain of entrepreneurship.
+From market analysis to fundraising strategies, I support them in building
+strong foundations.
+Inspiring Resilience: Entrepreneurship can be a challenging journey. I offer
+encouragement and share inspirational stories, emphasizing that setbacks
+are opportunities for growth. This emotional support is vital for maintaining
+motivation.
+Building Networks: My extensive network of fellow mentors, investors, experts,
+and successful entrepreneurs is a valuable resource. I connect startups
+with the right people for funding, partnerships, and specialized mentorship,
+accelerating their growth.
+Cultivating Adaptability: Startups must be agile and responsive to market
+dynamics. I teach the art of adaptation, helping entrepreneurs recognize when
+to pivot, refine strategies, or seize new opportunities.
+Fostering Innovation: Startup India thrives on innovation. I encourage creative
+thinking, disruption, and innovative problem-solving, contributing to both
+individual startup growth and broader societal advancement.
+Broader Success Metrics: While financial success is important, I stress the
+significance of community impact, sustainability, and ethical practices. These
+values elevate a startup's reputation and contribute to a better future.
+A Fulfilling Journey: Mentoring at Startup India is a rewarding experience.
+Each entrepreneur brings a unique vision, and it's a privilege to be part of their
+growth story. Together, we shape India's startup ecosystem.
+Fruitly Agro Solutions
+ 
+Page 4 of 14
+ 
+ 
+CEO at Fruitly Agro Solutions
+December 2021 - Present (2 years 4 months)
+Pune, Maharashtra, India
+I am honoured to serve as the CEO of Fruitly Agro Solutions, where
+we proudly hold the distinction of being the largest sellers of premium
+pomegranates in Maharashtra, Gujarat, and Rajasthan. Our commitment to
+excellence in agriculture and sustainable practices has allowed us to lead the
+way in nourishing our world with this remarkable fruit.
+At our agriculture company, we're dedicated to transforming the farming
+landscape. We work hand in hand with farmers, offering comprehensive
+support from the initial sowing to the final sale of their produce. Our mission is
+simple yet powerful: to help farmers increase their yields, profits, and overall
+agricultural success.
+Comprehensive Support
+We provide farmers with the tools, knowledge, and resources they need to
+thrive:
+Sustainable Practices: We advocate for and implement sustainable farming
+techniques to preserve the environment and ensure long-term success.
+Expert Guidance: Our team of agricultural experts offers personalized advice
+and solutions tailored to each farmer's unique needs.
+Increased Productivity: Through innovative approaches, we help farmers boost
+their yields, ensuring that their hard work pays off.
+Improved Profits: Our strategies focus on optimizing resources, reducing costs,
+and maximizing revenue, ultimately leading to greater profitability.
+Fostering Prosperity
+Our commitment to agriculture goes beyond business. We believe that when
+farmers thrive, communities thrive. By supporting farmers in their journey from
+sowing to selling, we contribute to the economic growth and food security of
+the regions we serve.
+Maharashtra State Innovation Society
+ 
+Page 5 of 14
+ 
+ 
+Empowering the Next Generation of Innovators, Mentor at Maharashtra
+State Innovation Society(MSINS)
+January 2020 - Present (4 years 3 months)
+Mumbai, Maharashtra, India
+As a mentor, I guide budding entrepreneurs at Startup India. I share insights,
+offer encouragement, and facilitate valuable connections. My role involves
+navigating the complexities of startups, promoting adaptability, fostering
+innovation, and emphasizing broader success metrics. It's a fulfilling journey of
+giving back and shaping India's startup ecosystem.
+Guiding Startups: I provide practical guidance, drawing from my own
+experiences, to help startups navigate the intricate terrain of entrepreneurship.
+From market analysis to fundraising strategies, I support them in building
+strong foundations.
+Inspiring Resilience: Entrepreneurship can be a challenging journey. I offer
+encouragement and share inspirational stories, emphasizing that setbacks
+are opportunities for growth. This emotional support is vital for maintaining
+motivation.
+Building Networks: My extensive network of fellow mentors, investors, experts,
+and successful entrepreneurs is a valuable resource. I connect startups
+with the right people for funding, partnerships, and specialized mentorship,
+accelerating their growth.
+Cultivating Adaptability: Startups must be agile and responsive to market
+dynamics. I teach the art of adaptation, helping entrepreneurs recognize when
+to pivot, refine strategies, or seize new opportunities.
+Fostering Innovation: Startup India thrives on innovation. I encourage creative
+thinking, disruption, and innovative problem-solving, contributing to both
+individual startup growth and broader societal advancement.
+Broader Success Metrics: While financial success is important, I stress the
+significance of community impact, sustainability, and ethical practices. These
+values elevate a startup's reputation and contribute to a better future.
+A Fulfilling Journey: Mentoring at Startup India is a rewarding experience.
+Each entrepreneur brings a unique vision, and it's a privilege to be part of their
+growth story. Together, we shape India's startup ecosystem.
+ 
+Page 6 of 14
+ 
+ 
+Symbiosis Institute of Geoinformatics
+Adjunct Professor
+June 2013 - Present (10 years 10 months)
+Pune,India
+Experienced GIS Instructor at SIG, specializing in:
+GIS Application Design
+GIS Application Development
+Facilities and Utilities Management
+Enterprise GIS
+Proficient in teaching the following GIS technologies and programming
+languages:
+ArcObjects
+Arcpy
+Python
+JavaScript
+Key Achievements:
+Developed and delivered comprehensive courses on GIS Application Design
+and Development, equipping students with practical skills essential for real-
+world projects.
+Guided students in mastering ArcObjects, empowering them to create custom
+GIS applications and extensions tailored to their needs.
+Instructed students on harnessing Arcpy and Python to automate GIS
+workflows, driving increased efficiency and productivity in their projects.
+Crafted engaging curriculum materials and interactive lessons, fostering a
+deep understanding of GIS concepts and tools among students.
+Provided hands-on support and mentorship to students, facilitating their
+success and nurturing a strong foundation in GIS technology.
+Earned praise from students for my teaching approach, characterized by an
+emphasis on problem-solving and active learning.
+Maintained up-to-date knowledge of the latest developments in GIS
+technology, seamlessly integrating them into the curriculum to ensure students
+are well-prepared for the evolving industry landscape.
+Actively contributed as a member of the Syllabus Restructuring Committee,
+collaborating with colleagues to enhance the overall quality and relevance
+of GIS education at SIG, fostering a dynamic and innovative learning
+environment.
+Savitribai Phule Pune University
+Adjunct Professor
+January 2013 - October 2019 (6 years 10 months)
+ 
+Page 7 of 14
+ 
+ 
+Pune,India
+Experienced GIS Instructor at University of Pune, specializing in:
+--GIS Application Development
+--Enterprise GIS
+Proficient in teaching the following GIS technologies and programming
+languages:
+--ArcObjects
+--Arcpy
+--Python
+--JavaScript
+Key Achievements:
+Developed and delivered comprehensive courses on GIS Application Design
+and Development, equipping students with practical skills essential for real-
+world projects.
+Guided students in mastering ArcObjects, empowering them to create custom
+GIS applications and extensions tailored to their needs.
+Instructed students on harnessing Arcpy and Python to automate GIS
+workflows, driving increased efficiency and productivity in their projects.
+Crafted engaging curriculum materials and interactive lessons, fostering a
+deep understanding of GIS concepts and tools among students.
+Provided hands-on support and mentorship to students, facilitating their
+success and nurturing a strong foundation in GIS technology.
+Earned praise from students for my teaching approach, characterized by an
+emphasis on problem-solving and active learning.
+Maintained up-to-date knowledge of the latest developments in GIS
+technology, seamlessly integrating them into the curriculum to ensure students
+are well-prepared for the evolving industry landscape.
+Actively contributed as a member of the Syllabus Restructuring Committee,
+collaborating with colleagues to enhance the overall quality and relevance
+of GIS education at SIG, fostering a dynamic and innovative learning
+environment.
+CyberTech Systems and Software, Inc
+7 years 1 month
+Seasoned GIS Project Manager 
+June 2017 - March 2018 (10 months)
+Pune Area, India
+As a seasoned GIS Project Manager with extensive experience in the
+government sector, I specialize in spearheading and delivering complex
+geospatial projects. My expertise lies in leveraging GIS technology to address
+ 
+Page 8 of 14
+ 
+ 
+government-specific challenges, optimize operations, and drive data-driven
+decision-making. I thrive in managing cross-functional teams, ensuring project
+success, and providing strategic GIS solutions to government agencies.
+Government Sector Focus: Extensive background in managing GIS projects
+tailored for government agencies, addressing their unique needs and
+requirements.
+Project Leadership: Successfully led a variety of GIS initiatives, from initial
+planning and requirements gathering to execution and delivery.
+Cross-Functional Teams: Proficient in assembling and managing cross-
+functional teams, including GIS analysts, developers, and data scientists, to
+ensure seamless project execution.
+Data-Driven Decision-Making: Implement GIS solutions that empower
+government clients to make informed, data-driven decisions, improving public
+service delivery.
+Compliance and Regulations: In-depth understanding of government
+compliance, regulations, and standards, ensuring projects adhere to all
+necessary legal requirements.
+Stakeholder Engagement: Engage with government stakeholders, including
+department heads and officials, to align project goals with agency objectives.
+Geospatial Infrastructure: Oversee the development and maintenance
+of geospatial infrastructure, including GIS databases, servers, and web
+applications.
+Quality Assurance: Implement rigorous quality assurance processes to ensure
+data accuracy and project reliability.
+Risk Management: Identify and mitigate project risks, ensuring on-time and on-
+budget project completion.
+Technical Documentation: Create comprehensive technical documentation and
+reports for stakeholders and regulatory bodies.
+Seasoned Technical Lead | ESRI Premium Support Services
+January 2017 - May 2017 (5 months)
+Thane
+Experienced Tech Lead specializing in ESRI ArcGIS products, delivering
+tailored solutions and technical leadership to ensure premium client success.
+Expertise in ArcGIS mastery, API integration, and advanced problem-solving
+for optimized geospatial workflows.
+Expert ESRI Product Support: Seasoned Tech Lead providing exceptional
+support services to ESRI 
+premium clients, specializing in ArcGIS products.
+ 
+Page 9 of 14
+ 
+ 
+Technical Leadership: Lead a team of GIS professionals, offering guidance
+and expertise in troubleshooting, issue resolution, and technical support.
+ArcGIS Mastery: Extensive proficiency in ArcGIS products, including ArcGIS
+Desktop, ArcGIS Pro, ArcGIS Server, ArcGIS Online, and related technologies.
+Customized Solutions: Craft tailored solutions to resolve complex geospatial
+challenges, ensuring premium clients maximize the benefits of ArcGIS
+technology.
+Advanced Problem-Solving: Apply advanced problem-solving skills to tackle
+intricate technical issues, delivering efficient and effective resolutions.
+Problem Escalation Handling: Skillfully manage problem escalations, ensuring
+swift resolution and client satisfaction.
+API Expertise: Deep understanding of ArcGIS APIs, such as ArcObjects,
+ArcPy, and ArcGIS REST API, to facilitate seamless integration and
+development.
+GIS Best Practices: Promote GIS best practices, data management, and
+spatial analysis techniques to enhance premium client workflows.
+Cross-Functional Collaboration: Collaborate across departments to align
+technical support with client needs, fostering successful GIS implementations.
+Knowledge Transfer: Facilitate knowledge transfer through training sessions,
+documentation, and mentorship to empower clients and team members.
+Experienced Technical Trainer | GIS and ESRI Specialist | ESRI
+Premium Support Services
+November 2012 - May 2017 (4 years 7 months)
+Thane,India
+Expert ArcGIS Trainer: Proficient in training individuals and teams in a variety
+of ArcGIS products, including ArcGIS JS API, ArcObjects, Arcpy, and other
+relevant tools and technologies.
+Curriculum Development: Designed and developed comprehensive training
+materials and curricula tailored to different skill levels, ensuring effective
+learning outcomes.
+Hands-On Workshops: Conducted interactive and hands-on training sessions,
+enabling participants to gain practical experience in working with ArcGIS tools
+and APIs.
+Customized Training: Tailored training programs to meet specific
+organizational needs, addressing real-world challenges and project
+requirements.
+Technical Documentation: Created user-friendly technical documentation and
+tutorials to supplement training materials and facilitate self-paced learning.
+Advanced GIS Concepts: Delivered in-depth training on advanced GIS
+concepts, spatial analysis, and geoprocessing using ArcGIS tools.
+ 
+Page 10 of 14
+ 
+ 
+API Mastery: Provided specialized training in ArcGIS JavaScript API,
+empowering participants to develop web mapping applications and geospatial
+solutions.
+ArcObjects Expertise: Instructed students on the intricacies of ArcObjects,
+enabling them to build custom desktop applications and extensions for ArcGIS.
+Python Scripting: Taught Python scripting with Arcpy for automating geospatial
+workflows, enhancing efficiency, and streamlining GIS processes.
+GIS Best Practices: Promoted industry best practices in GIS data
+management, analysis, and visualization during training sessions.
+Troubleshooting Guidance: Equipped trainees with troubleshooting skills to
+identify and resolve common GIS-related issues effectively.
+Certification Preparation: Assisted individuals in preparing for ArcGIS
+certification exams, providing guidance and practice resources.
+Subject Matter Expert (SME) | ESRI Premium Support Services
+March 2011 - December 2016 (5 years 10 months)
+Thane,India
+As an adept GIS professional, I specialize in offering top-notch support
+services to premium clients. My track record in solving intricate geospatial
+challenges with various ESRI technologies highlights my expertise. I excel
+in ArcObjects, .NET development, and diverse ArcGIS APIs, ensuring
+exceptional premium support tailored to unique client needs.
+Premium Support Services: I bring extensive experience in delivering
+specialized GIS support services to premium clients, crafting customized
+solutions to meet their unique geospatial requirements.
+Subject Matter Expertise (SME): My core strength lies in GIS, with a focus
+on ArcObjects, .NET development, and a broad spectrum of ArcGIS APIs,
+guaranteeing premium clients receive top-tier technical guidance.
+Technical Versatility: I am proficient in a versatile toolset, encompassing
+ArcGIS for SharePoint, ArcGIS Runtime for WPF, Python scripting, ArcGIS
+Operations Dashboard, Collector apps, and Windows Mobile applications.
+API Mastery: My skills extend to effectively utilizing various Web APIs for
+server development, including ArcGIS Server JavaScript API, Silverlight API,
+and Flex API, ensuring seamless integration and optimized functionality.
+Data Management: Proficiently managing diverse facets of ArcSDE,
+raster data, geocoding, geoprocessing, and network analysis using .NET
+technologies.
+ArcGIS Ecosystem: I am experienced in working seamlessly within the entire
+ArcGIS ecosystem, from ArcGIS Online services and Explorer for ArcGIS to
+ArcGIS.com and ArcGIS Pro.
+ 
+Page 11 of 14
+ 
+ 
+Problem Solving: Known for my creative problem-solving and innovative
+thinking when addressing GIS-related challenges, ensuring efficient and
+effective solutions for premium clients.
+Continuous Learning: I consistently stay updated with the latest advancements
+in GIS technology to provide cutting-edge solutions and maintain a competitive
+edge while serving premium clients.
+EOS  Software Technologies
+Software Developer | Crafting Innovative Solutions
+June 2010 - March 2011 (10 months)
+Pune,India
+Software Development: Proficient in designing, developing, and maintaining
+software applications using the .NET framework.
+C# Programming: Skilled in C# programming, leveraging its capabilities for
+building robust and efficient applications.
+ASP.NET: Extensive experience in developing web applications using
+ASP.NET, including ASP.NET Core, ASP.NET MVC, and ASP.NET Web
+Forms.
+Database Integration: Expertise in integrating databases with .NET
+applications, including SQL Server, MySQL, and NoSQL databases like
+MongoDB.
+API Development: Developed RESTful and SOAP APIs using ASP.NET
+Web API and WCF, facilitating seamless communication between different
+components of applications.
+Front-End Technologies: Proficient in front-end technologies such as HTML,
+CSS, JavaScript, and frameworks like Angular or React to build interactive and
+responsive user interfaces.
+Testing and Debugging: Skilled in unit testing, integration testing, and
+debugging techniques to ensure the reliability and quality of software products.
+Version Control: Proficient in using version control systems like Git to manage
+code repositories and collaborate effectively with development teams.
+Security: Knowledgeable about security best practices and experienced in
+implementing security measures to protect applications from vulnerabilities.
+Performance Optimization: Able to optimize application performance through
+code refactoring, database tuning, and caching mechanisms.
+Agile Methodologies: Worked in Agile development environments, participating
+in sprint planning, daily stand-ups, and sprint retrospectives.
+Troubleshooting: Proficient in identifying and resolving technical issues,
+ensuring the smooth operation of software applications.
+ 
+Page 12 of 14
+ 
+ 
+Continuous Learning: Committed to staying updated with the latest .NET
+technologies and trends through ongoing learning and professional
+development.
+Tata Business Support Services
+Technical Support Engineer | Delivering Tech Assistance
+July 2007 - October 2009 (2 years 4 months)
+Pune,India
+Technical Expertise: Demonstrated mastery of technical products and
+services, with an in-depth understanding of their functionalities and
+configurations.
+Advanced Troubleshooting: Proficient in diagnosing complex technical issues,
+providing swift and accurate resolutions to premium clients.
+Product Knowledge: Deep understanding of various technical products,
+including hardware, software, and associated accessories.
+Firmware and Software Updates: Experienced in performing updates and
+ensuring seamless integration of new features and improvements for technical
+products.
+Remote Assistance: Expertise in providing remote technical support, guiding
+clients through troubleshooting steps, and resolving issues efficiently.
+Hardware Maintenance: Skilled in handling hardware-related problems,
+including component replacements, ensuring minimal downtime for premium
+clients.
+Software Configuration: Proficient in configuring software settings, optimizing
+performance, and resolving software-related glitches promptly.
+Multichannel Communication: Effective communication via various channels
+(phone, chat, email) to assist clients, providing clear instructions and solutions.
+Quality Assurance: Ensured the quality and reliability of technical product
+services by conducting thorough testing and verification processes.
+Performance Metrics: Consistently met or exceeded key performance
+indicators (KPIs) for response time, issue resolution, and client satisfaction.
+Handling Escalation Calls: Successfully managed escalation calls from
+premium clients, providing effective solutions and ensuring client satisfaction.
+Call Auditing: Conducted call audits to maintain service quality standards and
+identify areas for improvement.
+Problem Solving: Displayed strong problem-solving skills, often coming up with
+innovative solutions to unique technical challenges.
+Emergency Support: Provided 24/7 emergency technical support to ensure
+uninterrupted services for premium clients.
+ 
+Page 13 of 14
+ 
+ 
+Education
+Welingkar Institute of Management
+Master of Business Administration - MBA, Information Technology Project
+Management · (2015 - 2017)
+S K Somaiya Vidyavihars College of Arts Science & Commerce
+Vidyavihar Mumbai 400 077
+Master of computer Science, Computer Science · (2010 - 2012)
+V V Vidyalaya
+High School 
+ 
+Page 14 of 14

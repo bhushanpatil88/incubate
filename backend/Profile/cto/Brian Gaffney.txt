@@ -1,0 +1,171 @@
+ 
+ 
+Contact
+www.linkedin.com/in/bgaffney314
+(LinkedIn)
+www.hotschedules.com (Company)
+Top Skills
+Cloud Computing
+Agile Methodologies
+Software as a Service (SaaS)
+Languages
+English (Native or Bilingual)
+Certifications
+Developing Your Leadership
+Philosophy
+Writing with Impact
+Developing Executive Presence
+Measuring Business Performance
+Brian Gaffney
+Chief Technology Officer
+San Francisco Bay Area
+Summary
+Software executive with over 15+ years in global sales, product
+development, operations, and solution delivery to enterprise markets.
+Experienced in building, leading and managing global teams.
+Confident in bringing new solutions to market and selling into the
+companies of all sizes. Equally at home in front of a code editor
+writing software or on stage giving a sales presentation and live
+demo of a solution. Proven track record in both product delivery for
+venture-backed companies and custom software solutions for private
+clients. 
+Experience
+Greenlight Guru
+Chief Technology Officer
+January 2022 - Present (2 years 3 months)
+Indianapolis, Indiana, United States
+Parsable
+Chief Technology Officer, Chief Information Security Officer
+November 2019 - January 2022 (2 years 3 months)
+San Francisco Bay Area
+Develops the technical vision for Parsable’s software that empowers industrial
+workers with modern digital tools and measurably increases productivity,
+quality and safety across their operations. Scales the technical operations of
+our SaaS platform for some of the largest industrial enterprises in the world.
+Oversees a span that includes system architecture, software development,
+SaaS and IT operations, as well as the data security and privacy functions. 
+HotSchedules
+5 years 11 months
+Chief Technology Officer
+January 2018 - September 2019 (1 year 9 months)
+San Francisco Bay Area
+ 
+Page 1 of 4
+ 
+ 
+Created the R&D vision for delivering innovative and integrated labor
+management and back-office products to restaurateurs and franchise
+operators around the globe. The role included an executive design component
+focused on identification & selection of technology; an operational component
+focused on optimizing and aligning the technology investments with business
+goals; an M&A component focused on product and technology due diligence.
+Drove a successful acquisition with Marlin Equity Partners and subsequent
+merger with Fourth.
+Senior Vice President, Head of Engineering
+August 2016 - January 2018 (1 year 6 months)
+San Francisco Bay Area
+Owned the product development and SaaS operations across the company’s
+total technology product portfolio. He was responsible for $28MM budget and
+three product lines with delivery teams spread across multiple development
+hubs including San Francisco, Austin, Atlanta, Sydney, South Africa,
+Russia, Ukraine, Colombia, Vietnam. Aligned our internal staff and contract
+engineering teams to continuously deliver high-quality software and ensure
+constantly reliable service.
+Vice President, Product Development
+November 2013 - August 2016 (2 years 10 months)
+Led the product management & development and SaaS Operations of the
+company's multi-tenant development platform and the Internet of Things (IoT)
+middleware purpose-built for the Restaurant Industry. The work included
+creating the technology as well as the processes and mindset required of a
+modern SaaS development team. Brought Business Intelligence and Inventory
+Management applications to market. Designed and built an extensible in-store
+agent technology for collecting data from smart kitchen devices and Point of
+Sale (POS) Systems.
+Emotive, Inc.
+Vice President, Solutions Architect
+January 2012 - November 2013 (1 year 11 months)
+Oakland CA
+Led the pre-sales evangelism and solution delivery on our Mobile Backend as
+a Service Platform. Created our online web tools and language specific SDK's.
+Managed multiple work streams with prospects and customers through the
+entire solution development lifecycle.
+Symplified, Inc.
+ 
+Page 2 of 4
+ 
+ 
+Principal Systems Engineer
+October 2010 - January 2012 (1 year 4 months)
+Boulder Colorado
+Lead the presales of our Cloud Identity and Access Mangement (IAM) platform
+for the western half of the United States. Developed technical marketing and
+sales collateral. Managed global technical due diligence of our Symantec
+partnership and technical relationships with worldwide distributors and
+resellers. 
+AppDynamics Inc
+Principal Systems Engineer
+March 2010 - October 2010 (8 months)
+San Francisco Bay Area
+First field engineer joining the company as part of the initial sales team for the
+company's Application Performance Management (APM) software. Managed
+all domestic pre-sales opportunities and professional services engagements
+as well as technical aspects or of our international partner relationships. Hired
+and trained the first field engineering teams. Configured and extended the core
+systems software to work with customer architectures. Consulted on "live fire"
+production performance analysis and resolution for customers and prospects.
+AmberPoint Inc.
+Senior Systems Engineer
+May 2006 - April 2010 (4 years)
+Oakland, California
+Managed the technical business of the company’s SOA Monitoring &
+Management Suite in the Western US and partner relationship with Microsoft.
+Provided specific technical solutions and expertise to counterparts across
+North America in the areas of security, embedded agent technology, and
+application/service network architecture. Developed SDK for building and
+extending the companies embedded JVM and .Net agent technology.
+Booz Allen Hamilton
+Associate, Software Architect
+February 2002 - May 2006 (4 years 4 months)
+Columbia, Maryland
+Served as software engineering lead and technical advisor in the firm’s Global
+Information Technology business. Lead full-lifecycle development of large-
+scale SIGINT and ELINT systems blending commercial and open source
+technologies. Introduced modern software engineering practices to Intelligence
+ 
+Page 3 of 4
+ 
+ 
+Community clients. Participated in the firm’s business development activities
+and presented during sales and marketing proposals.
+Independent Consulting
+Independent Contractor, Software Engineer
+May 2001 - February 2002 (10 months)
+Overhauled the relational model and processing logic of a legacy
+commissioning system for a private client. The product was delivered, tested,
+documented, and went into production.
+Statusphere
+Software Engineer
+March 2001 - December 2001 (10 months)
+Software Engineer with a venture backed software start-up focused on
+creating an online network management portal. This position exposed him
+to agile software development methods, software engineering patterns, and
+Java/JEE software components. Participated and presented in architectural
+discussions, project management meetings, and departmental code reviews.
+He contributed major portions of the teams automated software build and
+deployment tools.
+Network Access Solutions
+Web Application Development Lead
+July 1999 - March 2001 (1 year 9 months)
+Grew from summer intern to manager of the application and web development
+group. Developed and operated the companyJ's initial business applications,
+web presence, and reporting tools. Participated in the requirements and
+architectural specification of the company'Js next generation suite of
+enterprise applications architecture focusing specifically on middleware
+software.
+Education
+University of Notre Dame
+B.S, Mathematics · (August 1995 - May 1999)
+The Johns Hopkins University
+M.S., Computer Science · (2003 - 2005)
+ 
+Page 4 of 4

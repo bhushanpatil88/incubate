@@ -1,0 +1,106 @@
+ 
+ 
+Contact
+www.linkedin.com/in/daivakshah
+(LinkedIn)
+Top Skills
+Mobile Devices
+Scalability
+Agile Methodologies
+Daivak S.
+Chief Technology Officer at Pacaso
+San Francisco Bay Area
+Summary
+Passionate product engineering leader, successfully led and
+managed cross-functional teams. Partnered with business, product
+& design leaders to define vision and develop engaging b2c and b2b
+product experiences starting from ideation.
+Released highly scalable, innovative and connected consumer &
+enterprise software products on diverse technology stack – Java,
+iOS, Android, Web, AWS technologies etc.
+Experience building highly engaged multi-location engineering
+teams, defining tech/product strategy and identifying appropriate
+development methodology such as agile, kanban, etc. as per the
+business needs and phase in the release life cycle.
+Experience
+Pacaso
+Chief Technology Officer
+March 2020 - Present (4 years 1 month)
+San Francisco Bay Area
+Enriching lives by making second home ownership possible and enjoyable for
+more people.
+Zillow Group
+Vice President Of Engineering
+September 2012 - March 2020 (7 years 7 months)
+San Francisco Bay Area
+Head the engineering organization for transaction technology, working towards
+the Zillow Group mission of providing a seamless experience for buying and
+selling of real estate.
+Cogarden
+Advisor & Investor
+March 2016 - June 2019 (3 years 4 months)
+ 
+Page 1 of 3
+ 
+ 
+San Francisco, California, United States
+Cogarden is a platform empowering food entrepreneurs to discover new local
+markets and connecting community food enthusiasts with passionate food
+producers around them.
+dotloop (acquired by Zillow Group)
+Vice President of Engineering
+September 2012 - August 2015 (3 years)
+San Francisco Bay Area
+Head the engineering organization for dotloop, working towards the Zillow
+Group mission of building the largest, most trusted and vibrant Real Estate
+Market Place.
+Yahoo
+8 years 4 months
+Sr. Engineering Manager (Mobile Products)
+February 2007 - September 2012 (5 years 8 months)
+Sunnyvale Ca
+Managed end to end life cycle of products for tablets and mobile devices
+right from their conception phase: Livestand (livestand.com), Homepage
+(m.yahoo.com) and oneSearch 
+- Lead and manage multiple teams developing Yahoo!’s next generation
+Content Experience. Native iOS & Android apps, web - HTML 5/CSS3/
+Javascript and backend infrastructure 
+- Hands on engineering leader driving design and architecture of critical
+components.
+Engineering Lead (Mobile Products)
+June 2004 - January 2007 (2 years 8 months)
+VerdiSoft was a startup acquired by Yahoo!
+- Built a stateless Data Gateway using PHP/Apache to provide normalized
+content like news, driving directions etc. for various Yahoo! Go clients and
+widgets like iPhone stock/weather.
+- Coordinate different engineering development tasks between various Yahoo
+and partner teams across the globe.
+- Tech design and development of Connected Life server providing sync
+functionality for personal user content. It was built using Java/J2EE, JBoss and
+MySQL.
+IBM Germany (Boeblingen Lab)
+ 
+Page 2 of 3
+ 
+ 
+Software Engineer
+February 2003 - February 2004 (1 year 1 month)
+- Analyzed Architectural alternatives for Web Sphere Process Choreographer
+(WPC). Which was also the thesis subject for my Masters
+- Worked part time developing different tools for performance analysis and
+configuration of WPC.
+Mastek Ltd.
+Software Developer
+August 2001 - August 2002 (1 year 1 month)
+- Developed Insurance record management software using OO programming
+principles, RDBMS - Oracle8i, SQL and Java/J2EE technologies in a fast
+paced high-pressure environment.
+- Responsibilities included server side development, client side development
+and R&D related to the project.
+Education
+Hochschule Esslingen - University of Applied Sciences
+MSc, Information Technology & Automation Systems
+University of Mumbai
+Bachelors, Electronics
+ 
+Page 3 of 3

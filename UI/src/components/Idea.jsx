@@ -6,11 +6,12 @@ const IdeaSelector = ({
 }) => {
 
   const ideas = [
-    "Tweetsourcing",
+    
     "Zombie Defense iPhone App",
     "Subtitles in Miro - Translations and Support for the Hearing Impaired",
     "New, jaw-dropping website for the biggest podcasts catalog in Poland - podcast.pl",
     "Sight Unseen: A new online magazine that lets you peek inside the lives of creatives",
+    "podcast",
     "Idea Text 6",
     "Idea Text 7",
     "Idea Text 8",
@@ -45,8 +46,11 @@ const IdeaSelector = ({
 const Idea = ({
   idea,
   setIdea,
-  setIsSelected
+  setIsSelected,
+  handleSubmit,
+  roles,
 }) => {
+  console.log(roles);
 
   return (
     <>
@@ -77,7 +81,8 @@ const Idea = ({
             </div>
             <div>
               <button
-                onClick={()=>setIsSelected(prev => {console.log('clicked'); return {...prev,result : true } })}
+                disabled={roles.length===0}
+                onClick={handleSubmit}
                 value="incubate"
                 style={{ backgroundColor: "#FF8991", color: "#FFFFFF" }}
                 className="rounded-md py-2 px-4"

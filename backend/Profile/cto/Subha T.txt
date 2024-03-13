@@ -1,0 +1,151 @@
+ 
+ 
+Contact
+www.linkedin.com/in/subha-
+t-45a133 (LinkedIn)
+www.greenlineindex.com
+(Company)
+Top Skills
+SDLC
+Program Management
+Cross-functional Team Leadership
+Languages
+English (Native or Bilingual)
+Hindi (Native or Bilingual)
+Subha T.
+Chief Technology Officer at Wipro Limited
+San Francisco Bay Area
+Experience
+Wipro Limited
+Chief Technology Officer
+March 2021 - Present (3 years 1 month)
+San Francisco Bay Area
+Stripes 
+Advisor
+July 2023 - Present (9 months)
+New York City Metropolitan Area
+Sierra Ventures
+Advisor
+March 2022 - Present (2 years 1 month)
+Palo Alto, California, United States
+OpenSSF
+Governing Board Member OpenSSF
+February 2022 - Present (2 years 2 months)
+Mountain View, California, United States
+Sedai.io
+Advisor - Customer Success
+May 2020 - Present (3 years 11 months)
+San Francisco Bay Area
+Walmart
+Sr.Director Technology Commercialization
+May 2020 - March 2021 (11 months)
+San Francisco Bay Area
+PayPal
+10 years 3 months
+Head of Product, Data Platform & Infrastructure
+June 2017 - May 2020 (3 years)
+ 
+Page 1 of 4
+ 
+ 
+Lead Product and Strategy for Data Platforms at PayPal. Leading platform
+transformation journey to build scalable, API driven interoperable platforms
+FROM a siloed, service, ticketing and manual work oriented group.
+Our mission is to create maximum agility and accelerate innovation for our
+businesses via 
+1. Increase data discoverability
+2. Decrease Data Latency
+3. Increased Data access (and standardized access patterns) via Data
+framework layer
+4. A powerful interactive Data development environment providing context
+based Data Applications development platform (also reducing TTM) 
+Portfolio of Products include:
+ML/AI platform powered by Notebooks running on variable compute ( Hadoop,
+Spark and HPC), Data Stores as a Service, Data Integration Platforms - Batch
+and Streaming solutions to move data at scale across PayPal entities, Work
+Flow as a Service that provides abstraction over open source and Off the Shelf
+Scheduling products,  Enterprise Data  Catalog and first time at PayPal Data
+ALM that enables the guard rails to develop, test and deploy data applications
+and Models at scale.
+Director Cloud,Platforms and Frameworks
+April 2016 - June 2017 (1 year 3 months)
+San Jose
+Led the Horizontal functions: Quality Engineering, Program Management,
+Business Operations and Analytics for the 'Cloud, Infrastructure and Developer
+Platform' team at PayPal. 
+The Cloud Infrastructure and Developer Platform team's mission is to maintain
+and run PayPal site and build developer environments for PP's 4000+
+developer community. 
+Director, Planning & Operations - Data and Analytics
+October 2015 - March 2016 (6 months)
+San Jose
+ 
+Page 2 of 4
+ 
+ 
+Led separation of eBay’s and PayPal’s data and analytics infrastructure,
+building a separate business capability for PayPal, within a span of 4 short
+months. 
+- Migrated 1.5 PB data, 82,000 tables, 80,000 jobs, and 4,000 user accounts to
+the new Analytics and BI Infrastructure.
+- One of the largest cutovers with no downtime. Called out as one of the most
+successful cutovers for such a large Analytics eco-system
+Data Programs, Data Technology
+March 2010 - October 2015 (5 years 8 months)
+San Jose
+Responsible for managing PayPal's Data portfolio of self serving analytics
+tools and Data wherehouse platforms, with a team of Technical Program
+Managers to deliver on PayPal’s Data and Analytical needs in a highly
+complex and dynamic environment.
+Built a robust Program Management team from ground up including people,
+processes and platforms as resources to address changing landscape of
+PayPal Data world and to cater to the fast paced delivery environment and
+PayPal's data analysts community.
+CliMetrics, Inc.
+Advisor
+January 2011 - September 2013 (2 years 9 months)
+CliMetrics, Inc.
+Co-founder and Director, Product and Services
+February 2009 - March 2010 (1 year 2 months)
+Co-founded and facilitated a successful exit for CliMetrics, Inc
+Responsible for complete product architecture and product life-cycle from
+requirements through launch. Managed cross-functional teams to deliver new
+services.
+Managed partner integrations to deliver new service offerings, product
+roadmap, sales support and business development
+Abbott Laboratories
+Management Consultant
+2008 - 2009 (1 year)
+ 
+Page 3 of 4
+ 
+ 
+Fannie Mae
+Management Consultant
+October 2006 - October 2007 (1 year 1 month)
+Responsible for planning and managing the execution of full project lifecycle
+from inception to closure, for Single Family and Multi Family work streams.
+Single Family GAGO and Multi Family GAGO are Valuation Models that
+determine the Fair Value of loans at the end of an accounting period.
+BearingPoint
+Senior Consultant
+October 2000 - September 2006 (6 years)
+Successful career growth within the organization  over a span of 6 years
+leading client engagements to successful completion.
+Technical Manager responsible for maintaining, upgrading and deploying
+business workflow systems for various Financial and Federal clients
+AOL
+Software Engineer
+1999 - 2000 (1 year)
+Developer AOL TV 
+Developed an automated system to check for the status of several Unix
+servers and of the various processes running on those servers. Used UNIX
+system calls (sockets, pipes, mail, fork) and synchronization methodologies for
+writing to files.
+Education
+George Mason University
+MS, Computer Science · (1999)
+Delhi University
+BS  · (1996)
+ 
+Page 4 of 4

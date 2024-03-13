@@ -1,0 +1,191 @@
+ 
+ 
+Contact
+www.linkedin.com/in/
+rangaraajrajagopalan (LinkedIn)
+Top Skills
+Architecture
+Operating Systems
+Kernel
+Ranga Rajagopalan
+CMO @ Druva
+Santa Clara, California, United States
+Summary
+Experienced product leader broad expertise in product management,
+engineering management, business development and managing
+technology alliances.
+Specialties
+- Experienced in bringing new Data Protection and Disaster
+Recovery (RaaS) products to market
+- Managed products across all stages of product lifecycle, from
+concept to launch to sunset
+- 10+ years of experience in leading geo-distributed product
+management and engineering teams
+- Well versed in managing products through waterfall as well as agile
+development methodologies
+- Technical expertise in Data Protection, Clustered Storage, Data
+Management, High Availability & Disaster Recovery
+Experience
+Druva
+Chief Marketing Officer
+June 2023 - Present (10 months)
+Santa Clara, California, United States
+Commvault
+SVP of Products
+July 2019 - June 2023 (4 years)
+Santa Clara, CA
+Head of Product Management & User Experience for Commvault portfolio of
+data protection software, Metallic SaaS and HyperScale X appliance
+Manage inbound and outbound product management activities across all
+aspects of product development and GTM – roadmap development, backlog
+planning, pricing, packaging, etc.
+Mentor and grow a geographically-distributed team of Product Managers with
+varying levels of industry experience
+ 
+Page 1 of 5
+ 
+ 
+Lead strategic vision and portfolio discussions with technology analysts,
+thought leaders and media professionals
+Drive the organic and inorganic growth strategy including acquisitions,
+partnerships and strategic investments
+Dell Technologies
+3 years 6 months
+Senior Director, Strategy and Operations, Data Protection
+December 2018 - June 2019 (7 months)
+Santa Clara, CA
+Business strategy, planning and operations for Dell EMC’s Data Protection
+Division, consisting of market-leading products across Purpose Built Backup
+Appliances (PBBA), Integrated Appliances and Backup & Recovery software.
+• Manage a business analytics team to track the health of the business and
+plan to performance through KPI’s
+• Partner with Finance, Sales, Product Management and Market Intelligence
+to lead the development of Annual Operating Plan (AOP) and multi-quarter
+demand planning
+• Define the strategy and orchestrate cross-functional strategic initiatives to
+drive Business Acceleration and to improve GTM effectiveness for in-market
+and new products (NPI) 
+• Maintain ‘pulse of the business’ through business governance forums such
+as Run The Business, Quarterly Business Reviews and cross-functional
+executive interlocks
+• Support analysis and orchestration of M&A, partnership opportunities and
+special projects
+Sr. Director, Product Management, Data Domain & IDPA
+January 2016 - December 2018 (3 years)
+Santa Clara
+Head of Product Management for Data Protection Appliances (Data Domain
+and Integrated Data Protection Appliance), with $2B+ annual revenues
+Lead the strategy, go to market and roadmap for Data Domain to maintain
+position as market leader in PBBA market
+Manage and grow geographically-distributed team of Product Managers
+Launched Dell EMC Integrated Data Protection Appliance (IDPA & DP4400) as
+the first product in Dell EMC's Integrated Appliances portfolio
+Veritas Technologies LLC (formerly Symantec)
+ 
+Page 2 of 5
+ 
+ 
+Director, Product Management
+January 2014 - January 2016 (2 years 1 month)
+Launched an innovative IT Service Continuity solution to deliver Recovery as a
+Service (RaaS) across data centers, private and public clouds
+Created new market opportunities in the rapidly growing cloud-based recovery
+segment
+Championed mind-shift from traditional product delivery to delivering software
+as a cloud-hosted service
+Enabled rapid delivery of value to customers and partners through agile
+development methodologies
+Built a high performing geo-distributed product management team with strong
+technical roots
+Violin Memory
+Director, Product Management
+July 2012 - December 2013 (1 year 6 months)
+Santa Clara, CA
+Product roadmap, marketing strategy, partner engagement and field
+enablement for core array software and appliances.
+- Created new software product line with independent pricing and licensing
+strategy
+- Introduced new software for scale-out management of 100's of storage arrays
+- Managed partner relations to ensure faster time to market for software
+functionality
+- Provided business due diligence and technology integration for the GridIron
+integration
+- Handled all go-to-market and analyst activities for software launch, leading
+up to IPO
+Symantec
+3 years 9 months
+Principal Product Manager
+September 2010 - July 2012 (1 year 11 months)
+Mountain View, CA
+Product management and marketing strategy for Symantec's High Availability
+and Disaster Recovery (HA/DR) products, with specific emphasis on Veritas
+Cluster Server (VCS) and Veritas Replicator (VR)
+ 
+Page 3 of 5
+ 
+ 
+- Diversified into Service Continuity market segment through introduction of
+new software capabilities
+- Enabled greater attach of Availability products to x86 virtualization through
+complementary approach
+- Introduced new file-based replication to meet content distribution use cases
+as an independent SKU
+- Partnered with Sales, Support, Marketing and Engineering to ensure all-
+round coverage for products
+Senior Manager, Development
+November 2008 - September 2010 (1 year 11 months)
+Mountain View, CA
+- Managed global team of 10+ senior engineers for development of Cluster
+Volume Manager and Veritas Volume Replicator
+- Introduced several new concepts/features to enable scale-out deployment
+models for shared storage
+- Directly managed top-50 customers for Volume Replicator to ensure total
+customer satisfaction
+- Enabled new analytics-based data-driven approach to measuring pre-release
+quality and establishing gate-oriented approach to tracking delivery readiness
+Symantec
+Manager, VxFS on HP-UX
+August 2006 - November 2007 (1 year 4 months)
+* Management and  technical leadership for team of 15 kernel engineers,
+tasked with delivery of Veritas File System (VxFS) releases on HP-UX
+operating system.
+* Build an effective alliance with HP, driving collaboration with HP's
+engineering teams for OEM of JFS and ServiceGuard
+Symantec (formerly Veritas)
+Senior Software Engineer, Clustered storage
+December 2002 - July 2006 (3 years 8 months)
+Pune, India
+* Kernel engineer in the Veritas File System (VxFS) development team, with
+specific expertise on HP-UX operating system
+* Key engineer for development of VxFS component in Portable Data
+Containers (PDC) - a technology for data migration from any to any platform.
+ 
+Page 4 of 5
+ 
+ 
+Hewlett-Packard
+Software Engineer
+August 2001 - November 2002 (1 year 4 months)
+* Software Engineer in Platform Software Architecture Lab (PSAL) of HP,
+based in Richardson, Texas.
+* Part of the modularity oriented re-archicture of machine dependent virtual
+memory code, including Virtual Hash Page Table (VHPT), Translation Look-
+Aside Buffer (TLB) and Page Deallocation Table (PDT) code segments
+* Developed and automated test suites for exerciser (simulator) based testing
+of machine dependent virtual memory modules.
+DSQ Software
+Member of Technical Staff
+July 1998 - August 1999 (1 year 2 months)
+* Development of Online Student Registration System for a leading university
+in Thailand
+Education
+University of California, Berkeley - Walter A. Haas School of
+Business
+MBA, Marketing and General Management · (2010 - 2013)
+The Ohio State University
+MS, Computer Engineering · (1999 - 2001)
+University of Madras
+Bachelor of Engineering (BEng), Electronics & Communication
+Engineering · (1994 - 1998)
+ 
+Page 5 of 5

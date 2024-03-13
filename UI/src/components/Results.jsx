@@ -1,5 +1,8 @@
 import profile from '../assets/profile.png'
-const Results = () =>{
+const Results = ({
+    results,
+}) =>{
+    console.log(results)
     return (
         <div>
             <h1>Search Results</h1>

@@ -1,0 +1,252 @@
+ 
+ 
+Contact
+www.linkedin.com/in/shyam-
+kukreja--50919317 (LinkedIn)
+Top Skills
+Linux
+Cloud Computing
+Solution Architecture
+Certifications
+RedHat Certified Engineer
+Honors-Awards
+Pat on Back Award
+Shyam Kukreja
+Founder & Chief Executive Officer (CEO) at Cloud Champions
+Ventures
+Pune, Maharashtra, India
+Summary
+Experienced Cloud Architect with a demonstrated history of working
+in the computer software industry. Skilled in Amazon Web Services
+(AWS), Solution Architecture, DevOps, Linux and Replication.
+Strong operations professional with a Bachelor's degree focused
+in Electrical, Electronics and Communications Engineering from
+Pravara Engineering College Loni. 
+Experience
+Cloud Champions Ventures
+Founder & Chief Executive Officer
+October 2022 - Present (1 year 6 months)
+Pune/Pimpri-Chinchwad Area
+NetServ
+AWS Solution Architect
+April 2020 - November 2022 (2 years 8 months)
+Pune, Maharashtra, India
+Here I manage Client in Health Domain and I am helping them migrate legacy
+workloads on Multi Cloud Environment.I also manage a team of 3 members for
+POC.
+My responsibilities in this project includes:
+1. Coordinating with Client to understand the migration requirement.
+2. Study the migration patterns and Isolate to prepare work strategy.
+3. Implementing and managing AWS Landing zone.
+4. Writing Service Control Policies (SCP's) for Landing Zone.
+5. Suggesting Appstream 2.0 as a solution to Stake holders looking for
+managed Streaming applications.
+6. Identifying the servers to be decommissioned.
+7. Identifying servers for lift & shift approach.
+8. Exploring migration tools like CloudEndure, Cloudamize & Migration Hub.
+9. Coordinating with teams for gathering the required Server & application info.
+ 
+Page 1 of 7
+ 
+ 
+10. Identifying servers for re-architecture and planning out implementation
+strategies.
+Particle41
+Technical Lead & Solution Architect
+November 2019 - April 2020 (6 months)
+Here I managed a new Client who wanted to get established as an
+Media Streaming Platform Company and looked after the R&D, design &
+Implementation of infrastructure. This was an individual contributor role and I
+had to report to CTO while collabrating with Developers. CI-CD implementation
+was also part of my job role.
+My responsibilities in this project included:
+1. Coordinating with CTO & Client to prepare the road-map as per the
+requirement.
+2. Suggesting architecture changes in current project.
+3. Research over the upcoming AWS technologies like Landing Zone, Control
+Tower, appsync etc.
+4. Working with Developers to plan the workflow & features.
+5. Work with QA team to automate the cases.
+6. Implementing CI-CD automation on test & Prod environment using AWS
+Code-pipeline.
+Shell scripts for Automation:
+ Wrote shell script to update build.yml parameters for appsync & aws.
+ Wrote shell script to create QA environment for testing automation.
+ Wrote Lambda function to trigger scripts to prepare QA Environment.
+ Wrote terraform script to build the infrastructure stack.
+TIBCO Software Inc.
+Cloud Operations Principal Architect
+December 2014 - November 2019 (5 years)
+Pune Area, India
+Here I manage Tibco Spotfire enterprise & Cloud Product support. Being the
+only Ops member in
+India I got a chance to recruit & build entire team of 15 members. I also worked
+on 4 different
+Projects / products simultaneously and added the hired members into these
+products.
+ 
+Page 2 of 7
+ 
+ 
+My responsibilities in this project include:
+1. Coordinating with Product Stake holders & respective Support teams.
+2. Suggesting architecture for few projects.
+3. Managing Tibco Spotfire Enterprise Product & Cloud environment.
+4. Helping India QA team with the pre-production environment for testing.
+5. Training & leading the team to handle 4-projects.
+6. Arranging workshops over new AWS / Azure services for a Team of 15
+members.
+7. Coordinating production deployment & hot-fixes.
+8. Exploring new tools & technologies e.g Data-dog, Appdynamics.
+Shell scripts for Automation:
+ Wrote cost-optimization python script with the help of team to save on AWS
+resources.
+ Wrote shell script to extract the AWS running instances and shut it down.
+ Wrote shell script to extract free EIP and release those.
+ Wrote Lambda function to trigger important scripts.
+ Wrote terraform script to build a stack.
+ Wrote CF template to automate Icinga Server Installation.
+Synechron
+Sr. System Engineer
+June 2012 - November 2014 (2 years 6 months)
+Pune Area, India
+My responsibilities in this project included:
+1. Managing linux media servers farms and provide application support.
+2. Patching Linux physical and xen boxes.
+3. Creating Satellite channels on Satellite server.
+4. Automation via shell scripting and mysql DB support.
+5. Troubleshooting the customized applications.
+TSYS
+System Engineer
+January 2012 - June 2012 (6 months)
+Here my responsibility was to provide access to the users on RHDS &
+application servers.
+It also included providing access to users on dev/prod VDI servers. Handling
+mysql database and
+shell scripting to automate the tasks.
+ 
+Page 3 of 7
+ 
+ 
+My responsibilities in this project included:
+1. Requirements and Analysis: Understanding the requirements of the project
+and planning
+the environment and the access required.
+2. Implementing mysql replication over linux servers.
+3. Fine tuning the existing applications.
+4. Testing & debugging the scripts for any errors.
+iGATE
+Sr System Engineer
+November 2009 - December 2011 (2 years 2 months)
+CPI is a Maintenance Project that caters to maintenance/enhancements of
+different applications,
+which are a part of Genworth Imaging Solutions. It has different applications
+that process the
+scanned Insurance documents sent from different Providers and stores the
+information in Oracle
+Database and images in P8 Filenet. It has multiple applications to generate
+reports to be sent to
+providers.
+Administration Support:
+ Providing support to the L1 engineers.
+ Monitoring P8 Filenet application.
+ Handling Tickets raised by the users.
+ Administration of the 10 Linux Proxy servers and mysql servers.
+ Implementing mysql replication.
+ Checking the logs of the sites visited by the users and the data downloaded.
+Application Support:
+ To make sure that the customer applications like eProcess, Trexo are
+working fine.
+ To make sure all the customized filenet instances are working fine.
+ Writing scripts to automate few of the applications.
+Mysq l / Oracle / SQL Support:
+ Preparing SQL queries for the client users.
+ Handling Oracle database.
+ Testing insert, select, update queries over servers and deploying over
+production.
+ 
+Page 4 of 7
+ 
+ 
+ Handling the bugs raised by the users.
+ Implementing mysql replication over linux servers.
+ Taking database backup through mysql dump.
+T & M Services Pvt Ltd.
+Sr. Associate (Linux Admin) with 5.6 yrs exp. in Linux, mysql, shell
+scripting.
+July 2008 - October 2009 (1 year 4 months)
+Mumbai Area, India
+Our primary objective was to provide login based internet access to all the
+employees of Reliance
+Industries Ltd. in India and abroad (London, Singapore). We implemented
+different ACL’s to allow
+/block the various sites and providing DNS, SMTP and FTP support.
+My responsibilities in this project included:
+Administration Support :
+ Administration of the 44 Linux Proxy, 2 FTP, 2 DNS, 2 SMTP servers. ( HP
+DL 320 g5 and
+380 g6 Servers)
+ Administration & Hardening of the servers through the console (ILO).
+ Managing DNS & SMTP servers.
+Automation of the tasks through scripts and cron utility.
+ Fine-tune systems and re-allocate resources, if necessary.
+ Monitoring logs to detect for any security breach.
+My-Sql Database Administration :
+ Optimizing the server for performance which includes, disk & memory
+management,
+and diagnosing problems.
+ Disaster prevention and recovery including creating consistent backups and
+restoring
+databases in case of network, application, or hardware failure.
+ Mysql replication implementation on 44 linux proxy servers.
+Shell scripts for Automation:
+ Wrote shell script to extract the logs of the user including the sites accessed
+and the
+ 
+Page 5 of 7
+ 
+ 
+ date accessed on which was successfully deployed over Production Proxy
+servers.
+CMC LTD
+Linux Engineer
+January 2008 - June 2008 (6 months)
+Mumbai Area, India
+Our primary objective was to provide login based internet access to all the
+employees of Reliance
+Industries Ltd. in India and abroad (London, Singapore). We implemented
+different ACL’s to allow
+/block the various sites and providing DNS, SMTP and FTP support.
+My responsibilities in this project included:
+Administration Support :
+ Administration of the 44 Linux Proxy, 2 FTP, 2 DNS, 2 SMTP servers. ( HP
+DL 320 g5 and
+380 g6 Servers)
+ Administration & Hardening of the servers through the console (ILO).
+ Managing DNS & SMTP servers.
+Automation of the tasks through scripts and cron utility.
+ Fine-tune systems and re-allocate resources, if necessary.
+ Monitoring logs to detect for any security breach.
+My-Sql Database Administration :
+ Optimizing the server for performance which includes, disk & memory
+management,
+and diagnosing problems.
+ Disaster prevention and recovery including creating consistent backups and
+restoring
+databases in case of network, application, or hardware failure.
+ Mysql replication implementation on 44 linux proxy servers.
+Shell scripts for Automation:
+ Wrote shell script to extract the logs of the user including the sites accessed
+and the
+ date accessed on which was successfully deployed over Production Proxy
+servers.
+ 
+Page 6 of 7
+ 
+ 
+Education
+Pravara Engineering College Loni
+Bachelor's degree, Electrical, Electronics and Communications
+Engineering · (2002 - 2007)
+ 
+Page 7 of 7

@@ -1,0 +1,912 @@
+CTO/Amit Verma.txt CTO/Torin Kampa.txt CTO/Virupaksh Hiremath.txt CTO/Rohit Kumar.txt CTO/Prathamesh Shinde.txt CTO/Janak S.txt CTO/Ted Gaubert.txt CTO/Amol Mohite.txt CTO/Kaishu Sahu.txt CTO/Radhakrishnan Mudliar.txt
+ 
+ 
+Contact
+www.linkedin.com/in/vermaamitit
+(LinkedIn)
+Top Skills
+Multithreading
+Core Java
+Design Patterns
+Certifications
+Presenting to Senior Executives
+Learning React.js
+Azure Machine Learning
+Development: 2 Learning ML Studio
+Building Accountability into Your
+Culture
+Introduction to NFTs: Non-fungible
+Tokens
+Amit Verma
+CTO at HT Digital | Ex- Microsoft
+Delhi, India
+Summary
+I am the Chief Technology Officer of HT Digital and have over 16
+years of experience in engineering leadership, stream processing,
+databases, and agile methodologies. I am passionate about building
+scalable, reliable, and user-friendly technology solutions that
+enhance the digital experience and create value for customers and
+stakeholders.
+Before joining HT Digital in 2022, I was an Engineering Leader at
+Microsoft, where I led the Search Discovery and Playlist crews for
+Microsoft Stream, a cloud-based video service that integrates with
+Office 365. I was responsible for making videos searchable and
+discoverable across the suite and enabling users to organize videos
+and audios efficiently using playlists. 
+I also worked as the General Manager of Engineering at Paytm,
+where I built and managed the next-generation payment gateway
+that processed millions of transactions a day, improved the payment
+success rate, increased the system availability, and scaled the
+payment gateway 8x to handle increased traffic. I have multiple
+certifications in Java, interviewing techniques, and performance-
+based hiring, and I enjoy mentoring and coaching other engineers
+and aspiring leaders.
+Experience
+HT Digital Streams
+Chief Technology Officer
+August 2022 - Present (1 year 8 months)
+Delhi, India
+Microsoft
+Engineering Leader at Microsoft
+December 2020 - August 2022 (1 year 9 months)
+Noida, Uttar Pradesh, India
+ 
+Page 1 of 3
+ 
+ 
+Led Stream's Search & Discovery and Playlist crews that make Videos
+searchable and discoverable across Office 365 and enables customers to
+seamlessly organize videos/audios in an efficient way using Playlists.
+Paytm
+General Manager Engineering
+September 2016 - December 2020 (4 years 4 months)
+Noida Area, India
+Worked as General Manager Engineering at Paytm and took care of the next
+generation payment gateway.
+• Handled team of 150+ backend and frontend engineers to build next
+generation payment gateway that processes millions of transactions a day
+• Improved payment success rate by doing continuous analysis on user
+behaviour, banks success rate, and improving card routing logic.
+• Increased system availability by improving monitoring and alerting in the
+system, scaling systems, and automating failover of all components.
+• Scaled Payment Gateway 8x to handle increased traffic
+ION Trading
+Lead Software Engineer
+January 2011 - August 2016 (5 years 8 months)
+Noida Area, India
+*  Led re-architecture of Pricing engine  to enable more flexible and dynamic
+rules
+• Speed up the pricing calculation of bonds creating a multithreaded graph
+calculation layer.
+• Designed the in house ORM framework
+• Involved in increasing the performance of the application by using profiling
+tools.
+AGNITY,Inc
+Member Technical Staff
+April 2010 - January 2011 (10 months)
+Worked on Sip Server and was involved in designing and server side
+implementation of a product for Healthcare vertical.
+Technologies Using:Core Java,Spring,Hibernate,Servlets and GWT
+Protocols Used:SIP,SMTP
+Dell Perot Systems
+ 
+Page 2 of 3
+ 
+ 
+Software Engineer
+October 2007 - January 2010 (2 years 4 months)
+Worked as Java/J2ee developer for Finance and Aeronautical vertical.
+Technologies Used:Core Java,Spring,Hibernate,EJB,Struts,JSP
+Education
+Guru Gobind Singh Indraprastha University
+B.Tech, IT · (2003 - 2007)
+ 
+Page 3 of 3
+ 
+ 
+Contact
+www.linkedin.com/in/torinkampa
+(LinkedIn)
+Top Skills
+Xbox 360
+PS3
+Game Development
+Torin Kampa
+Chief Technology Officer at Unbroken Studios
+Los Angeles, California, United States
+Experience
+Unbroken Studios
+Chief Technology Officer
+August 2017 - Present (6 years 8 months)
+El Segundo, CA
+Harry Potter: Quidditch Champions
+Suicide Squad: Kill the Justice League
+Fractured Lands
+Pound Sand
+Technical Director
+November 2013 - August 2017 (3 years 10 months)
+El Segundo, CA
+Unannounced Multiplayer PC/Console Shooter -
+Built a level manager that streams and connects independent levels at
+arbitrary transforms with full networking. Modified engine code and shaders
+to support runtime translation/rotation of level light-maps and light-probes.
+Created a table-driven frontend for players to trade resources and modify level
+configurations, as well as the corresponding rest calls to the Azure/Mongo
+backend. Developed a runtime thumbnailing system that asynchronously takes
+configurable captures of objects, rooms, and top-down maps for use in the
+frontend and hud. Extended the animation state machine with a one-state-
+at-a-time view to mitigate “spider web” graphs. Added support for animation
+graph inheritance across different skeletons. Implemented the game mode
+and objectives, automatic team coloring for actors/levels, and built the AI via
+dozens of custom behavior tree and environmental query nodes.
+Fantastic Plastic Squad -
+Created a generic, layered, blendable state machine that powers animation
+transitions, physics state, camera pose, and other systems. Dynamically
+detected and executed complex locomotion actions including ledge-grab,
+wall-run, dodge, and melee. Developed the AI system that operates targeting,
+pathfollowing, attacking, and jump navigation of a diverse vertical environment.
+ 
+Page 1 of 3
+ 
+ 
+Built the casual “game-assist” mode that hands player control over to AI,
+while allowing for manual overrides such as navigation destination and enemy
+targeting. Architected an input layer that modularly handles the different control
+schemes of twin-stick touch, game-assist touch, gamepad, keyboard/mouse,
+and Apple TV remote. Optimized mobile runtime performance via extensive
+memory/object pooling and aggressive update reduction.
+Electronic Arts
+Lead Engineer
+November 2009 - November 2013 (4 years 1 month)
+Playa Vista, CA | Stockholm, Sweden
+Battlefield 4 -
+Rewrote the AI locomotion and player vaulting systems. Created the contextual
+peek and lean system for players. Added attachments and camo to weapon
+pickups. Fixed bugs throughout the game including animation, weapons,
+cinematics, AI, and scripting.
+Frostbite Engine Team -
+Creating runtime and workflow for a company-wide cinematics tool.
+Medal of Honor Warfighter -
+Firefighting multiple at-risk systems including AI animation, cinematics, rail-
+rides, door breach, hit-reaction/death, and achievements. Key player in highly
+successful internal (GPMM) and external (E3) demo pods.
+Army of Two: The Devil's Cartel -
+Created networked 3rd-person locomotion, cover, vault, and wounded systems
+from scratch in the Frostbite 2 codebase. Rapid iteration with design and
+animation saw reliably increasing and strong focus test scores. Participated in
+demo pods that kept the project alive under intense executive scrutiny. In Oct
+2011, the LA team was reassigned to help Warfighter while the Montreal team
+continued work on the product.
+Pandemic Studios
+Gameplay Engineer
+June 2009 - November 2009 (6 months)
+Westwood, CA
+Mercs Inc -
+Took ownership of Zero Engine’s visual scripting system and extended it to
+reliably support complex multiplayer objectives. After the improvements, we
+ 
+Page 2 of 3
+ 
+ 
+went from one engineer per level to one engineer per three levels, with less
+bugs.
+Education
+University of Southern California
+B.S., Computer Science (Games) · (2005 - 2009)
+ 
+Page 3 of 3
+ 
+ 
+Contact
+www.linkedin.com/in/virupaksh-
+hiremath-81804376 (LinkedIn)
+Top Skills
+Banking
+Information Technology
+Project Management
+Virupaksh Hiremath
+CTO | Head of Information Technology Department
+Karnataka, India
+Experience
+Shri Basaveshwar Sahakari Bank Nyt., Bagalkot
+21 years 6 months
+Chief Technology Officer
+January 2023 - Present (1 year 3 months)
+India
+Head Of Information Technology Department
+October 2002 - Present (21 years 6 months)
+Education
+Basaveshwar Science College Bagalkot
+Bachelor of Science (B.Sc.), Chemistry, Botany, Zoology · (1992 - 1995)
+Mysore University, Mysore
+Senior Diploma, Banking and Finance
+Sikkim Manipal University - Distance Education
+Master of Business Administration - MBA, Information Technology
+ 
+Page 1 of 1
+ 
+ 
+Contact
+www.linkedin.com/in/rohit-
+kumar-43212329b (LinkedIn)
+Rohit Kumar
+Chief Technology Officer at Thrive MnC
+Maharashtra, India
+Experience
+Thrive MnC
+Chief Technology Officer
+September 2022 - Present (1 year 7 months)
+India
+ 
+Page 1 of 1
+ 
+ 
+Contact
+www.linkedin.com/in/prathamesh-
+shinde-5a5070189 (LinkedIn)
+Top Skills
+Network Administration
+Network Architecture
+Wireless Networking
+Prathamesh Shinde
+CTO TECHZEN NETSERV PVT LTD
+Pune, Maharashtra, India
+Experience
+TECHZEN NETSERV PVT LTD 
+Chief Technology Officer
+April 2022 - Present (2 years)
+Maharashtra, India
+SHREE MULTI SERVICES
+CTO
+July 2015 - September 2023 (8 years 3 months)
+Education
+All India Shivaji Memorial Societys College of Engineering, Pune
+Diploma, Electrical, Electronics and Communications
+Engineering · (2010 - 2013)
+ 
+Page 1 of 1
+ 
+ 
+Contact
+www.linkedin.com/in/janak-shukla-
+robotron (LinkedIn)
+Top Skills
+Operations Management
+Service Delivery
+Technology Leadership
+Janak S.
+Chief Technology Officer
+Mumbai, Maharashtra, India
+Summary
+I'm excited to be back in creation mode and found and lead an
+Technology firm Robotron and EZ Lock .  
+Professional Snapshot: 
+More than 20 years of experience in Information Technology
+encompassing Requirement Analysis, System Design and
+Development .
+Proficient in assuring the successful execution of the company’s
+business mission through development and deployment of the
+application presence
+Hand-picked by executive team to turn around under performing
+programs; accomplished leader known and respected for leading
+successful change in projects and building credibility with executive
+teams and staff.
+Envisioning the company’s service offerings as a web-based
+business, leading implementation of applications, and planning for
+risk and growth.
+Domain expertise lies in Client/Server Application Development,
+Windows, Internet/E-Commerce/B2B applications built using multi-
+tier/DNA Architecture &, MSIB Architecture for Financial Services.
+Directed technology planning, strategy development, leadership and
+implementation, business and operational transformation execution,
+business solution delivery, and business development 
+Led C-Level and executive reporting and management, business
+case development, business unit management, senior stakeholder
+management and engagement
+ 
+Page 1 of 11
+ 
+ 
+Evaluated and identified appropriate technology platforms (including
+application frameworks and the deployment stack) for delivering the
+company’s services.
+Lead strategic planning to achieve business goals by identifying
+and prioritizing development initiatives and setting timetables for the
+evaluation, development, and deployment of all services
+Technical Skills include; WPF, ASP.NET, WCF, WPF, Sliverlight C#,
+VB.NET, ASP.Net MSCMS 2001/2002, SharePoint Portal Server, IIS
+6.0, JSP, Ajax, Visual C++, MFC, COM, Visual Basic 6.0, JSP, XML,
+C / C++, Oracle 7.x/10.x, SQL Server, Big data using Mongodb and
+Ravendb, Third part tools like DevExpress and Infragistics, Geneva,
+Charles River, Bloomberg.
+Experience
+ARCON
+Chief Technology Officer
+May 2021 - Present (2 years 11 months)
+Mumbai, Maharashtra, India
+Strategic leader with a successful track record in developing and executing
+comprehensive technology strategies and roadmaps aligned with business
+goals.
+Experienced in building integrated customer and enterprise platforms across
+wealth management, asset management, and broking.
+Proficient in designing and implementing full wealth tech stacks and
+infrastructures, particularly in the Indian and US markets. Possess 19 years of
+experience working with major banks and hedge funds in the US.
+Skilled in researching, evaluating, selecting, and implementing technology
+solutions to meet business needs.
+Proven ability to stay updated with industry trends, emerging technologies, and
+regulatory requirements, and leverage technology for competitive advantage.
+ 
+Page 2 of 11
+ 
+ 
+Expertise in ecosystem partner and vendor relationship management, ensuring
+effective delivery of services and adherence to contractual agreements.
+Strong oversight of IT infrastructure, managed services, and hybrid cloud
+environments to ensure observability, reliability, scalability, and data integrity.
+Experienced in overseeing the development and maintenance of trading
+platforms and client portals, enhancing customer experience and providing
+real-time investment data securely.
+Collaborative approach with key stakeholders to understand technology
+requirements and provide effective solutions.
+Focus on enterprise architecture, solution design, full-stack development,
+DevSecOps, CI/CD, API stack, and mobile apps.
+Skilled in developing and managing technology budgets to optimize resource
+allocation and ensure cost efficiency.
+Proactive in implementing robust cybersecurity measures and ensuring
+compliance with relevant laws, regulations, and data privacy standards.
+Experienced in designing and maintaining effective technology governance
+frameworks.
+Strong team and talent management skills, driving innovation, collaboration,
+and continuous improvement.
+Robotron
+Founder & CEO Education Technology
+July 2017 - May 2022 (4 years 11 months)
+Mumbai, Maharashtra, India
+A platform to improve basic literacy and numeracy for millions of children in the
+field of Robotics. Robotron is an education initiative with a vision to nurture the
+curiosity, inquisitiveness, and intuition of students. 
+Robotron is active in fields like Robotics, AI (Artificial Intelligence) and Drone.
+Robotron was founded with the sole goal & purpose to convey practical
+knowledge in the field of Robotics sing 2012, which is one of the most
+emerging fields in India and around the world.
+ 
+Page 3 of 11
+ 
+ 
+In 2030, Artificial Intelligence and Robotics will touch 800 Million jobs. The
+world will split into creators and consumers. Robotron makes kids creators in
+the new world with the first structured coding curriculum in the world for early
+childhood.
+TS Informatics
+Chief Technology Officer
+March 2021 - June 2021 (4 months)
+New Delhi, Delhi, India
+REALCODERZ
+Vice President Of Business Development
+July 2019 - April 2021 (1 year 10 months)
+Noida, Uttar Pradesh, India
+As VP at RealCoderZ was leading Transition Practice for North America
+geography at RealCoderZ India. Managed team of 50+ focusing on client
+engagement in Emerging markets, responsible for Technology Effectiveness,
+provide oversight to regional R&D, architectural optimization, and driving
+innovation and growth. Pre-Sales for Solutions around Enterprise Products &
+Technologies, Tax Advisory, optimization and fund-raising for the company.
+Awarded & recognized for Significant contribution towards Knowledge
+Management within the organization.Leader in managing global Transition
+programs in the IT outsourcing space across Education, Manufacturing, Retail,
+Software Development & Financial Services sectors.
+CAMP Systems International, Inc.
+Director
+March 2015 - July 2017 (2 years 5 months)
+Software Development Manager led a global team of 75+ people located
+in North America & India and provided technical oversight to deliver Web
+Applications and software automation for Aircraft Maintenance Tracking
+Solutions. Managed a large team comprising of managers, technical
+professionals, and functional specialists for the execution of large projects
+worth 1 to 2 million dollars. Conceptualized, planned, and developed CAMP-
+Framework to integrate CAMP ERP system and the web portal.
+Experienced in setting up onshore & offshore delivery units, providing
+managed services.
+ 
+Page 4 of 11
+ 
+ 
+As a senior .Net/Oracle Developer, developed CAMP-Framework to integrate
+the CAMP-ERP system and the web portal.   Download all the billing / Ticket
+information from various vendors and upload invoices and vendor information
+into the reconciliation database. Generate reports and real-time dashboards
+for the Accounting department. 
+Environment: .NET Framework 4,0, C#,  EXT.JS, MVC,  ORACLE 10G, XML/
+XSLT, WPF, ASP.NET, Ajax.
+Balyasny Asset Management L.P.
+Vice President Information Technology
+January 2013 - December 2014 (2 years)
+New York, NY
+• Spearheaded the development of innovative tools and platforms for wealth
+management, enhancing client experience and operational efficiency.
+• Implemented comprehensive risk management strategies to protect client
+assets and ensure regulatory compliance in wealth management operations.
+• Collaborated with investment teams to design and implement robust
+investment strategies, leveraging technology for data-driven decision-making.
+• Managed the integration of wealth management platforms with third-party
+financial systems, ensuring seamless data flow and accuracy in reporting.
+• Conducted regular audits and assessments of wealth management systems
+and processes to identify areas for improvement and optimization.
+Created and implemented Daily PNL Report tools to provide real-time insights;
+increased transparency for stakeholders, resulting in a 20% reduction in
+reporting time and enhanced decision-making accuracy. 
+Led large projects worth 5 to 6 Billion Dollars.
+Played a key role in installing TRADAR trading and order management
+system 
+Developed BAM-Framework, Prime Broker Reconciliation Tool, Daily PNL
+Report tools for the company
+Initiated the installation of SharePoint 2007 and upgraded to SharePoint 2010;
+ensured the timely management of SharePoint libraries and reports using
+SharePoint
+ 
+Page 5 of 11
+ 
+ 
+Managed large projects worth 10 to 25 Billion Dollars
+Pamli Capital
+Chief Technology Officer
+May 2012 - January 2013 (9 months)
+As CTO was responsible for installation TRADER trading an order
+management system, as a Tech Lead \Developer developed PAMLI-
+Framework, Prime Broker Reconciliation Tool, Daily PNL Report tools for the
+company. Installed SharePoint 2007 and then upgraded SharePoint 2010.
+Management of SharePoint libraries and reports using SharePoint.  
+EzCastle/Tradar migration:  PAMLI was using Northpoint solution for order
+managements, implemented EzCastle and Trader as an order management
+system, and for shadow accounting. Developed various alerts custom scripts
+and reports using EzCastle database. Worked closely with the Trading desk to
+set up new strategies and portfolios for NXR the Risk system. 
+Reconciliation Tool: This tool is used by Accounting and Operation Group to
+reconcile EzCastle/Tradar, Admins and PB.  Using PAMLI- Framework I was
+downloading all the files from Globeop, HedgeServ and all the PB’s like JPM,
+Barclays Citi Bank etc…After downloading all the files all,  the files uploaded
+into the reconciliation database and  finally reconciliation reports and alerts
+were generated. 
+# PNL Report : Using Bloomber AIM API’ developed live PNL tool for various
+asset classes like RMBS, CDS, FX option and Equity Options etc.
+# Implemented Tradar- ICE integration module.  
+Environment: .NET Framework 4,0, C#, WCF, WPF,PRISM Framework,  IIS
+6.0,SQL Server 2005, XML/XSLT, 
+WPF, ASP.NET, Ajax and  SharePoint 2007/2013.
+GoldenTree Asset Management
+Vice President
+October 2010 - May 2012 (1 year 8 months)
+Manhattan ,NY
+As a senior .Net, Developer, developed  GT-Framework, On-Demand Blotter
+Generator (OBG), Trade Allocator, and Dynamic Report Generator( DRG)
+ 
+Page 6 of 11
+ 
+ 
+tools for the company.GT- Framework:  Framework is the middle tire layer for
+all Goldentree applications,   a platform that allows users to perform various
+operation like generating reports, updating database, sending/receiving data
+via a secured protocol, analytics calculations, monitoring health websites,
+databases backup,  monitoring mail spy and folder spy. GT-Framework has
+its own scripting language known as GT-Script. GT-Scripts can connect to any
+Systems like VPM, Paladyne Security Master, OMS, and Bloomberg. 
+Dynamic Report Generator: This tool is used by Accounting and Operation
+Group,  this tool allows users to Generate reports real-time directly from the
+sources knows as a domain. Account Balance, Holding’s, Security Master and
+Transaction Report are few of the most common used domains. DRG also has
+functionality to join two or more existing domains and finally display reports in
+excel, pdf, and various other formats. DRG also has a scheduler inbuilt.
+On Demand Blotter Generator Tool: This tool used to generate trade blotter
+using GT-framework and FTP/ SFTP the trade blotters to prime brokers
+Barclays, State Street, IFS and Bank of America. This tool can generate
+blotters in PDF, Excel and CSV formats. 
+Environment: .NET Framework 4,0, C#, WCF, WPF, IIS 6.0,SQL Server 2005,
+XML/XSLT, Web services, ASP.NET, Ajax .
+Avenue Capital Group
+Sr Programmer Analyst
+October 2007 - October 2010 (3 years 1 month)
+New York , NY
+As a Senior .Net, Sharepoint developer, designed SOA and web-based
+applications using .net framework 2.0/3.5, C#, and SQL server 2005 as
+database. 
+My responsibilities included :  
+• Using Microsoft SharePoint developed oversight for our internally developed
+applications 
+• Using SharePoint developed toolbar and developed various custom reports
+like Mark-to-Market, FAS 157, and Unrealized Gain/loss and currency
+exposure.
+ 
+Page 7 of 11
+ 
+ 
+• Using WCF developed various interfaces to communicate with Geneva to
+insert, update and delete data.  
+• Developed various Custom Web Parts, Lists and I/O operations using MS
+Excel worksheet, and InfoPath using SharePoint API’s. 
+• Responsible for SharePoint portal administration, security and back up
+procedures.  
+• Using ASP.NET developed a web services to access market data from
+multiple providers like Bloomberg, Geneva, Loan-X etc.
+Using SharePoint developed various web parts and custom reports for the
+investors some of the SharePoint web services to store various reports created
+by the   nightly and end of day process. 
+Risk System : Web Services were used for communicating with third-
+party software RiskMetrics, FinCAD, Bloomberg and others using external
+and third party web services and also developed internal risk system to
+generate financial analytic. Developed various custom web parts, charts and
+graph .Developed custom reports for clients, some of the critical reports were
+Portfolio summery report, Profit Loss report, Currency Exposure and FASB
+157 report etc.. This system facilitates the daily production of risk reports in
+a timely manner. This system provides the flexibility to implement new risk
+management systems on as needed basis. 
+• Data Integrity / Pricing Tool : Using SharePoint , XMAL and WPF
+technologies created a tool for the Operations teams which identifies missing
+security information like CUSIP, ISIN, Ticker etc in Geneva and using
+Bloomberg API's fetch the value and update Geneva.
+IFS
+Vice President
+October 2005 - October 2007 (2 years 1 month)
+As a Sr. Developer, designed Portal based web/ windows form based
+applications using Visual Studio 2005, .NET framework 2.0, C#, and SQL
+server 2005 as database. My responsibilities included interacting with business
+users to collect requirements, designing database, implementation and
+testing. 
+ 
+Page 8 of 11
+ 
+ 
+Portfolio Manager:  Portal based portfolio management system for over 200
+clients. Major client was State Street. 
+Risk System: Integration with Cognity a third party software using web services
+and also developed internal risk system to generate financial analytics.
+Developed various custom web parts, charts and graph . Developed custom
+reports for clients, some of the critical reports were Portfolio summary and
+Profit Loss. This system facilitated the daily production of risk reports in a
+timely manner. This system provided the flexibility to implement new risk
+management systems on as needed basis.
+Position Viewer and Position Sheets: A system to track positions and PL in
+real time. Collected data from multiple internal systems. Win-Forms UI and
+Excel spreadsheets were used to automate the position reporting and end of
+day process. It eliminated errors in reporting and the potential operational risk
+associated with that.
+Fund of Fund Manager: Designed the fund of Fund system share classes,
+making it simple for the investors to invest in more than one fund. 
+Ivy Asset Management SA
+Sr Programmer Analyst
+November 2003 - October 2005 (2 years)
+As a Sr. Developer, designed Portal based web/ windows form based
+applications using Visual Studio 2005, .NET framework 
+2.0, C#, and SQL server 2005 as database. My responsibilities include
+interacting with business users to collect requirements, designing database,
+implementation and testing. 
+Using Microsoft SharePoint developed oversight for our internally developed
+applications:
+• Using SharePoint business data catalog web service connected to third part
+software.
+• Developed various Custom Web Parts, Lists using SharePoint and updated
+the lists using SP API’s.
+• Developed Enterprise Content Management System and work flow for IFS.
+• Developed Security using user profiles and setup Active Directory and
+SharePoint Server 
+ 
+Page 9 of 11
+ 
+ 
+Financial Applications  
+• Portfolio Manager:  Portal based portfolio management system for over 200
+clients. Major client was State Street. 
+• Risk System: Integration with Cognity a third party software using web
+services and also developed internal risk system to generate financial
+analytics. Developed various custom web parts, charts and graph .Developed
+custom reports for clients, some of the critical reports were Portfolio summery
+report, Profit Loss report etc.. This system facilitates the daily production of risk
+reports in a timely manner. This system provides the flexibility to implement
+new risk management systems on as needed basis.
+• Position Viewer and Position Sheets: A system to track positions and PL
+in real time. Collects data from multiple internal systems. Win-Forms UI and
+Excel spreadsheets used to automate the position reporting and end of day
+process. It eliminated errors in reporting and the potential operational risk
+associated with that.
+• Fund of Fund Manager: Designed the fund of Fund system share classes,
+making it simple for the investors to invest in more then one funds. 
+Environment: O/s: Win 2000/XP.  S/w: Windows Forms, ASP.NET, VB.NET,
+C#, XML, SQL, Share Point Portal Server 2003/ 2007.
+KPMG
+Sr. Programmer
+May 2003 - December 2003 (8 months)
+HCL Perot Systems
+Sr Programmer Analyst
+2000 - 2003 (3 years)
+Eurolink
+Programmer
+1997 - 1998 (1 year)
+Atkins Nutritionals, Inc.
+Sr. Developer
+ 
+Page 10 of 11
+ 
+ 
+1996 - 1997 (1 year)
+Education
+Indian Institute of Management, Lucknow
+Activities and Societies: Advance Management In Digital Era · (April
+2023 - December 2023)
+M.I.E.T India
+B.E., Computer Technology · (1992 - 1996)
+St. Paul's School kota
+ 
+Page 11 of 11
+ 
+ 
+Contact
+www.linkedin.com/in/tedgaubert
+(LinkedIn)
+goo.gl/kEQ9BL (Personal)
+Top Skills
+Artificial Intelligence
+Data Science
+Machine Learning
+Publications
+Highly parallel fabrication
+of nanopatterned surfaces
+with nanoscale orthogonal
+biofunctionalization imprint
+lithography
+Modulation of Endothelial Cell
+Migration via Manipulation of
+Adhesion Site Growth Using
+Nanopatterned Surfaces
+Nanoscale orthogonal
+biofunctionalization imprint
+lithography (NOBIL) and its
+applications for studying nanoscale
+cell surface interactions
+Ted Gaubert, PhD, MBA
+Chief Technology Officer
+Dallas-Fort Worth Metroplex
+Summary
+Ted Gaubert serves as Chief Technology Officer at Graphite.
+Prior to Graphite, he was Chief Technology Officer of Global Product
+Engineering at Dun & Bradstreet (NYSE: DNB), a leading provider
+of data, analytics, SaaS, and API products. His engineering teams
+were responsible for 30+ SaaS products {FinTech, Sales, Marketing,
+Data Management, Risk, Credit and Compliance} which generated
+over $1.5B in annual revenue. He personally invented and patented
+three artificial intelligence technologies as well as leading technology
+innovation across the portfolio.
+Prior to D&B, he founded Noodle.ai, one of the first pure play artificial
+intelligence companies. Dr. Gaubert is credited with coining and
+trademarking Enterprise AI™ as well as defining Enterprise AI™ as a
+market category. He grew the company’s valuation from $0 to $300M
++. The company won awards such as Top 10 companies to work
+for (LinkedIn), Forbes Top 50 "Most promising AI Companies", and
+Gartner Cool Vendor. 
+His work on inventing Enterprise AI™ technologies rocketing the
+company's growth with headcount growing by 250% in the first 24
+months. He attracted $70M+ in external capital investments including
+TPG Capital, Dell Technologies, Mitsubishi, SMS and others.
+Prior to Noodle.ai, he was CTO at Infosys Consulting and helped
+grow revenue to $800M. That venture was later merged into Infosys
+(NYSE: INFY) Worldwide Consulting & Systems Integration (C&SI),
+which resulted in a growing business unit of over 30,000 employees
+and $2.5B in annual revenue. C&SI was later refocused into
+management consulting services (MCS) as "Tip of the Spear" for
+Infosys.  When he left, Infosys was over 200,000 employees and had
+a market cap of $40B.
+ 
+Page 1 of 4
+ 
+ 
+Ted is a globally recognized technology thought leader, innovator,
+and disruptor. He is one of the handful of selected executives in the
+official LinkedIn Influencer program with 125,000+ followers.
+Expertise: AI, Machine Learning (ML), Natural Language Processing
+(NLP), NLU, NLG, GAN, knowledge graphs (KG), RDF, SPARQL,
+ontology, neural networks, large language models (LLM), CNN,
+DNN, LSTM, Transformers, BERT, GPT, Deep Learning
+Experience
+Graphite Health
+Chief Technology Officer
+2021 - Present (3 years)
+I lead the Software Engineering, Product Management, Analytics and Data
+Science business functions.
+Dun & Bradstreet
+Chief Technology Officer | Global Product Engineering | AI (NYSE:
+DNB)
+2020 - 2021 (1 year)
+San Francisco Bay Area
+I led global product engineering across 30+ SaaS products that span FinTech,
+Sales, Marketing, Data Management, Risk, Compliance and Credit. My
+engineering team spanned the globe with ~650 engineers building and
+supporting products with a combined revenue of $1.5B+.
+The D&B Data Cloud is the world's most comprehensive B2B data sets:
+• 420M+ business covered
+• 243 countries and territories 
+• 16,000 data sources
+Noodle.ai
+Chief Technology Officer | AI
+2016 - 2020 (4 years)
+San Francisco Bay Area
+CTO of Noodle.ai, the Enterprise Artificial Intelligence® company. Ranked as
+"Top Company to Work For" by LinkedIn.
+• Lead innovation and development of core AI technologies and products
+ 
+Page 2 of 4
+ 
+ 
+• Grew valuation from $0 to $300M+
+• Member of Executive board
+• Rocketed companies growth by 250% in first 24 months
+• Raised $70M+ in investor funding
+• Built strategic partnerships with Intel, Dell and SMS
+Infosys
+Chief Technology Officer - Global MCS (NYSE: INFY)
+2011 - 2016 (5 years)
+Chief Technology Officer within Global MCS. Infosys (NYSE: INFY) is a
+multinational information technology corporation. In 2016, the company had
+more than 200,000+ employees and a market cap of $40B USD
+• Led the Technology & Innovation Group for Global Management Consulting
+Services (MCS). 
+• Vishal Sikka, CEO, positioned MCS as "Tip of the Spear" for driving Infosys
+revenue.
+Infosys Consulting
+Chief Technology Officer
+2008 - 2011 (3 years)
+• Responsible for technologies and platforms that helped rapidly scale
+revenues
+• Led technology in growing the company by $800M in annual book-of-
+business
+XenTec Systems
+Chief Executive Officer
+1996 - 2008 (12 years)
+XenTec has provided data driven enterprise application development and
+hosting. The company specializes in the design of large scale, computationally
+intensive, event-driven analytics systems. 
+MSR Development
+Software Engineer
+1994 - 1996 (2 years)
+San Diego, CA
+Education
+ 
+Page 3 of 4
+ 
+ 
+The University of Texas at Austin
+Doctor of Philosophy - PhD, Engineering
+Texas McCombs School of Business
+Master of Business Administration - MBA, Business Administration and
+Management, General
+The University of Texas at Austin
+Master of Science - MS, Engineering
+The University of Texas at Austin
+Bachelor of Science - BS, Electrical and Computer Engineering || Computer
+Science
+ 
+Page 4 of 4
+ 
+ 
+Contact
+www.linkedin.com/in/amol-
+mohite-1b2b55193 (LinkedIn)
+Top Skills
+SAS Programming
+R Software
+SPSS
+Honors-Awards
+“Personality Development and
+Career in Statistics”
+Amol Mohite
+CTO at Noconsultant Group | HR | Data Scientist | Stats Expert |
+Sport Person
+Pune, Maharashtra, India
+Summary
+Before facing job interview, we always think that whether we are
+eligible for particular company or not. Think the reverse way.
+Whether the company is eligible for you or not. If the company
+has no capability and corporate culture to evaluate your talent or
+creativity, don't accept the job offer.
+Experience
+noconsultant jobs
+Chief Technology Officer
+January 2017 - Present (7 years 3 months)
+Pune Area, India
+Your first job is not your career. It is the first step into discovering your career
+and, more importantly, your passion.  Learn your way through your first job.
+Gokul - Kolhapur District Cooperative Milk Producers Union Ltd.
+Volunteer Assistant
+June 2017 - February 2018 (9 months)
+Kolhapur Area, India
+Volunteer Assistant at Gokul - Kolhapur District Cooperative Milk Producers
+Union Ltd.
+Education
+Bangalore University
+Msc Statistics, Statistics · (2017 - 2019)
+Shivaji University
+Bsc Statistics, Statistics · (2013 - 2017)
+Balwant College, VITA
+Hsc, Science · (2009 - 2011)
+ 
+Page 1 of 2
+ 
+ 
+Mahatma Gandi Vidhyalay, Khanapure, District :Sangli, State:
+Maharastra
+SSC, Science · (2009 - 2010)
+ 
+Page 2 of 2
+ 
+ 
+Contact
+www.linkedin.com/in/kaishu-sahu
+(LinkedIn)
+Top Skills
+Java
+Android Development
+HTML
+Kaishu Sahu
+Founder, CTO at Farmako Healthcare (YC S20) | IIT Roorkee |
+Hiring actively
+Gurugram, Haryana, India
+Experience
+Farmako
+Founder
+June 2019 - Present (4 years 10 months)
+India
+Mobile Development Group IIT Roorkee
+Android Developer
+October 2017 - December 2020 (3 years 3 months)
+IIT Roorkee
+Google Summer of Code
+Android Developer
+May 2019 - August 2019 (4 months)
+LibreOffice
+Android Developer
+May 2019 - August 2019 (4 months)
+Double Slit Media Tech Pvt Ltd
+Android Developer
+December 2018 - January 2019 (2 months)
+Bengaluru Area, India
+Zomato
+Android Developer
+July 2018 - August 2018 (2 months)
+Gurgaon, India
+Education
+Y Combinator
+ · (2020 - 2020)
+ 
+Page 1 of 2
+ 
+ 
+Indian Institute of Technology, Roorkee
+ · (2016 - 2020)
+ 
+Page 2 of 2
+ 
+ 
+Contact
+www.linkedin.com/in/radhe83
+(LinkedIn)
+rtcamp.com/ (Company)
+Top Skills
+JavaScript
+PHP
+MySQL
+Languages
+Tamil
+English
+Hindi
+Radhakrishnan Mudliar
+CTO at rtCamp Solutions Pvt. Ltd.
+Pune, Maharashtra, India
+Experience
+rtCamp Solutions Pvt. Ltd.
+CTO
+April 2009 - Present (15 years)
+Education
+Savitribai Phule Pune University
+BE, Computers · (2003 - 2007)
+AISSMS COE PUNE-1
+Computer Science · (2003 - 2007)
+ 
+Page 1 of 1

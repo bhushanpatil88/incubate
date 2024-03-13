@@ -1,0 +1,92 @@
+ 
+ 
+Contact
+www.linkedin.com/in/mikehan23
+(LinkedIn)
+zocial.io (Company)
+Top Skills
+Blockchain
+Software Development
+Information Security
+Michael Han
+CTO & Co-Founder at Zocial
+United States
+Summary
+I have over 20 years of experience developing software applications,
+including architecting and commercializing Blockchain solutions.
+I have had the role of CTO, senior or lead engineer on multiple
+projects, including first-generation enterprise applications and
+platform development.  I have a passion for innovation, solving
+complex problems and building world-class software products.
+Experience
+Zocial
+CTO
+January 2020 - Present (4 years 3 months)
+As the CTO and co-founder, I am responsible for the design, architecture,
+and development of the blockchain, fintech, and cryptocurrency platform.
+Responsibilities include:
+* Led software development team in building digital cryptocurrency wallet,
+Fintech platform, smart contracts, and DApps.
+* Work experience in blockchain platforms including Hyperledger, Ethereum,
+Ripple, Stellar, and Corda.
+* Defined Ethereum specs for ledger, consensus methods (PoW, PoS, etc.),
+data security, decentralized architecture, and ERC20 tokens for Ethereum
+Virtual Machine.
+* Worked on cryptography, including asymmetric (public and private key),
+symmetric, hash functions, and encryption/signatures.
+* Wrote, revised, and reviewed Solidity codes for Smart Contracts.
+* Built and maintained Linux network infrastructure and managed both the front
+and back ends of the Fintech platform.
+* Demoed Fintech products, helped raised funds, and interfaced with investors.
+First Management
+Chief Technologist
+August 2002 - December 2019 (17 years 5 months)
+San Jose, CA
+ 
+Page 1 of 3
+ 
+ 
+As the Chief Technologist, I was in charge of information technology strategy
+and implementation, including blockchain, IoT, and AI technologies.  I did
+research on DLT (Distributed Ledger Technology), developed and tested pilots
+and Proof of Concepts using blockchain technology, worked with distributed
+databases, and had hands-on experience with Open Source technologies.
+In addition to overseeing the hardware, software and data that help all
+departments to perform their jobs effectively.  I also research new technologies
+and strategize how they can provide business values and address the risks
+associated with digital information. 
+* Set up mining rig with GPU cards to mine Bitcoins and other
+cryptocurrencies.
+* Set objectives and strategies for the information technology for the company
+* Select and implement suitable technology to streamline all internal operations
+and help optimize their strategic benefits
+* Design and customize technological systems and platforms to improve the
+entire company experience
+* Plan the implementation of new systems and provide guidance to IT
+professionals and other staff within the organization
+* Approve purchases of technological equipment and software and establish
+partnerships with IT providers
+* Oversee the technological infrastructure (networks and computer systems) in
+the organization to ensure optimal performance
+* Direct and organize IT-related projects
+* Monitor changes and advancements in technology to discover ways the
+company can gain competitive advantage
+* Analyze the costs, values and risks of information technology to advise
+management and suggest actions
+Golinq, Inc
+CTO
+June 1999 - May 2002 (3 years)
+San Jose, CA
+BrightStreet, Inc
+Senior Software Engineer Project Lead
+February 1998 - April 1999 (1 year 3 months)
+Aerojet, Inc
+Software Engineer
+May 1996 - December 1997 (1 year 8 months)
+Folsom, CA
+ 
+Page 2 of 3
+ 
+ 
+ 
+Page 3 of 3

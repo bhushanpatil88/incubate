@@ -1,0 +1,119 @@
+ 
+ 
+Contact
+www.linkedin.com/in/dhana-bala-
+a740871 (LinkedIn)
+Top Skills
+Presentation Skills
+Creative Problem Solving
+Technical Leadership
+Certifications
+Winner of IEEE Student Paper
+Contest (Kerala Chapter) - "PC
+based Spectrum Analyzer"
+Winner of IEEE Student Paper
+Contest (Kerala Chapter) - "Static
+Mains Inverter"
+Patents
+User-Based Visibility and Control of
+a Segmentation Policy
+Activating, configuring, and
+monitoring cloud-based Wi-Fi
+services
+User-Based Visibility and Control of
+a Segmentation Policy
+Dhana Bala
+Chief Technology Officer at PacerPro
+San Francisco Bay Area
+Summary
+Engineering leader with diverse experiences in architecting and
+delivering distributed software systems for more than half a dozen
+high-profile corporations in both enterprise and consumer categories
+such as cybersecurity, wireless networks, network management,
+customer-premises equipment, and embedded systems.
+Cherry-picked multiple times as early employee driving technology-
+stack selection, architecture and development of greenfield systems.
+Re-architected several brownfield sub-systems modernizing
+functionality, extensibility, and scalability.
+Led technical direction, planning, execution, and delivery of disparate
+distributed systems.
+Experience
+PacerPro
+Chief Technology Officer
+September 2021 - Present (2 years 7 months)
+San Francisco Bay Area
+Deep Sentinel
+Chief Technology Officer
+August 2020 - August 2021 (1 year 1 month)
+Launch Factory
+2021 Startup Recruitment - participant CTO Co-founder
+March 2021 - April 2021 (2 months)
+San Diego Metropolitan Area
+CTO/Founder Participant in Launch Factory's 2021 Startup Recruitment.
+Our team was first Runner Up under the 'Privatyze' category.
+ 
+Page 1 of 3
+ 
+ 
+Illumio
+Team Lead, Identity and Access Management
+June 2015 - February 2020 (4 years 9 months)
+San Francisco Bay Area
+Led Illumio's label-based RBAC system that brings a paradigm shift of policy
+control from a centralized network team to distributed application teams.
+Plume Design, Inc
+Director and Head of Engineering
+November 2012 - June 2015 (2 years 8 months)
+San Francisco Bay Area
+* Executive leadership member leading initiative for Adaptive WiFi functionality
+in a field trial for Comcast with 10,000 access points.
+* Elected as Head of Engineering when company was re-founded as Plume
+Design.
+* Drove the technology-stack selection, architecture and development of a
+highly scalable and distributed cloud platform.
+Aruba Networks
+Senior Software Engineer
+February 2011 - October 2012 (1 year 9 months)
+Sunnyvale, CA
+* Founding member of five-engineer Aruba Central team developing its cloud-
+based management platform.
+* Drove the architecture for the configuration component for the management
+platform.
+Pareto Networks
+Web Services Engineer
+September 2008 - January 2011 (2 years 5 months)
+Sunnyvale, CA
+* Employee #3 of a leading cloud-based networking company.
+* Designed and developed data-access layer, server and front-end
+components for various fault, configuration, accounting, performance, security
+features.
+Ruckus Wireless
+Software Engineer
+December 2006 - September 2008 (1 year 10 months)
+Sunnyvale, CA
+ 
+Page 2 of 3
+ 
+ 
+* Designed and developed backend and GUI for network management
+software to remotely manage, configure and monitor TR-069 enabled
+customer-premise equipment.
+Motorola Mobility (a Lenovo Company)
+2 years 5 months
+Software Engineer
+January 2006 - December 2006 (1 year)
+San Jose, CA
+Software Engineer – Project WiOS
+March 2005 - January 2006 (11 months)
+San Francisco Bay Area
+Automated Test Suite Engineering Intern
+August 2004 - March 2005 (8 months)
+San Jose, CA
+Education
+San Jose State University
+Master of Science, Computer Engineering
+University of Kerala
+Bachelor of Engineering, Electrical and Electronics
+VSSC Central School
+ 
+Page 3 of 3

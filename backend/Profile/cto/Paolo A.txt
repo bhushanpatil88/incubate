@@ -1,0 +1,300 @@
+ 
+ 
+Contact
+www.linkedin.com/in/prdn
+(LinkedIn)
+ardoino.com (Blog)
+Languages
+English (Native or Bilingual)
+Italian (Native or Bilingual)
+Paolo A.
+Chief Technology Officer at Tether and Bitfinex
+United Kingdom
+Summary
+My greatest passion is pushing the boundaries of what’s possible
+with technology. 
+I became fascinated with coding when I was 8 years old and ever
+since, my favorite thing to do has been experimenting with how new
+technologies can be harnessed to solve some of the world's most
+pressing problems.
+My curiosity has led me to become a versatile builder with
+a profound understanding of programming languages and
+technologies, algorithms and its applications across diverse
+domains, parallel and distributed computing and trading systems. 
+For me, coding is unlike any other form of expression. It liberates the
+human imagination and enables us with the ability to build entirely
+new worlds with endless possibilities. This has led me to explore how
+the fields of communication, finance, cryptography and AI can be
+leveraged to engineer innovative and resilient infrastructure that can
+power the economies of tomorrow. As a lifelong builder, I am always
+looking to connect with people who have world changing ideas.
+My tech philosophy is rooted in the cypherpunk and open-source
+movements.
+I am highly skilled in a variety of programming languages and
+technologies, including C, Javascript, Node.js, GoLang, C++, C#,
+Java, P2P, DHT, Hypercore, Message Queues (ZeroMQ, ...), Linux
+(Kernel and User-space develpment), Databases (MongoDB,
+SQL, Redis, ...), Artificial Intelligence (machine learning, neural
+networks and LLMs), blockchain develpment (Bitcoin, consensus
+mechanisms, ...).
+My expertise also extends to networking stack, TCP/IP standard
+applications, and custom protocol implementations, as well
+as parallel and distributed computing. I prioritize scalability,
+ 
+Page 1 of 8
+ 
+ 
+reliability, and high-availability in all my projects, and I have a
+deep understanding of the tech behind the financial sector, with
+experience in FIX protocol, Trading Systems development, Order
+Management Systems, Investment Management, and back-office
+software.
+As a longtime Linux fan and user since 1995, I have a background
+as a Unix and network administrator, with extensive experience as a
+Linux Kernel hacker and security expert.
+Experience
+Tether.to
+Chief Technology Officer
+December 2017 - Present (6 years 4 months)
+P2P
+Tether ( https://tether.to ) is the company that invented the concept of
+stablecoins, back in 2014.
+A stablecoin is a Cryptocurrency, pegged to the price of a national currency or
+a commodity.
+As Chief Technology Officer at Tether, I lead the development and security
+teams for the company behind the world's largest stablecoin, USDt, which
+currently has ~82 billion dollars in assets under management, and our other
+stablecoin products such as Tether Gold XAUt, which is a stablecoin pegged
+to physical gold. With our stablecoin products being mainly blockchain and
+cryptography based, a key part of my role is to ensure the quality, security,
+stability, and robustness of the different integrations and solutions, which are
+currently available across 14 different blockchains.
+In addition to my technical responsibilities, I co-lead the strategy for Tether,
+focusing on global expansion, investments, and creating new business lines.
+One of my most exciting projects has been co-founding Holepunch, a peer-to-
+peer, fully encrypted, unstoppable communication layer that has developed
+open-source libraries and components for building applications without any
+centralized infrastructure or point of failure. Holepunch's first product, Keet, is a
+P2P text, voice, and video chat. As the public face of Tether, I am proud to be
+a part of an innovative and forward-thinking team that is shaping the future of
+finance and communication
+ 
+Page 2 of 8
+ 
+ 
+Useful Links:
+Info about Tether:  https://tether.to
+Info about Tether Gold: https://gold.tether.to
+Info about Tether’s Transparency: https://tether.to/en/transparency
+Info about Holepunch: https://holepunch.to
+Info about Keet: https://keet.io
+Bitfinex
+9 years 6 months
+Chief Technology Officer
+March 2015 - Present (9 years 1 month)
+P2P
+Bitfinex is the world’s leading digital asset trading platform. Established in
+2012, it is one of the original Bitcoin exchanges, and today lists over 200
+different cryptocurrencies.
+We are committed to take the ethos of Bitcoin as a decentralised, immutable
+financial system, to deliver financial freedom to communities, cities and
+countries around the world.
+As Chief Technology Officer, I lead the development of the Bitfinex platform,
+and ensure its ability to withstand all market conditions, so that we can meet
+the needs of our customers day and night.
+Every day presents new and captivating technological challenges that are
+diverse, intricate, and ever stimulating. My role encompasses the management
+of our technology development team, the evaluation of cutting-edge
+technologies and the design and development of our backend infrastructure,
+to ensure scalability, high availability, fault tolerance, and high performance.
+I am also our Lead Backend Developer and am responsible for coding our
+renowned Bitfinex matching engine.
+As a true believer in the Bitcoin ethos and the transformative power of
+blockchain, I also lead the development of the Bitfinex product strategy.
+Collaborating with an exceptional team, we craft products that not only cater to
+the needs of traders and wider retail investors, but also those which promote
+greater decentralization and financial sovereignty.
+ 
+Page 3 of 8
+ 
+ 
+To learn more about the ethos and vision that drives Bitfinex forward, please
+read the Bitfinex Manifesto, which encapsulates our core principles and
+beliefs, and our commitment to harnessing Bitcoin and blockchain technology
+to bring freedom to everyone. You can explore our Manifesto at: https://
+www.bitfinex.com/manifesto/
+Senior Software Developer
+October 2014 - February 2015 (5 months)
+London, United Kingdom
+Tasks: trading engine development, platform scalability and high-availability.
+Throughout my first period with Bitfinex my primary duties were to consult,
+plan and re-design the backend with a focus on scalability, atomicity and high-
+availability. Migrating from a monolithic structure to a distributed/microservices
+design required months (years) of work. 
+Additionally I was leading the evaluation and integration with the Alphapoint
+trading engine; the conclusive decision was to develop and invest to improve
+our own trading engine.
+Technologies: 
+- C
+- C++
+- Node.js
+- ZeroMQ
+- Redis
+- Ruby (and RoR)
+Holepunch
+Chief Strategy Officer
+January 2020 - Present (4 years 3 months)
+Holepunch is a platform for creating apps that don’t use any servers
+whatsoever. No arbitrary limits just better apps that can be shipped instantly,
+directly to your users.
+Holepunch provides a collection of *small Javascript modules* that can
+be combined to create an unlimited variety of P2P apps, from VPNs to
+communications tools like Keet. Mix and match them how you like. Since it's all
+just Javascript, developing a Holepunch app is as easy as building a web app.
+ 
+Page 4 of 8
+ 
+ 
+Holepunch helps you distribute your app to any user, on any platform, without
+needing to deal with ops. You can release, update, and scale an app directly
+from the laptop you developed it on. App updates are fast and efficient―users
+only download the parts of your app that have changed since the previous
+update.
+Keet is the first app released by Holepunch, demonstrating the power of this
+technology.
+Keet is a Peer-to-peer Video & text chat. Private & encrypted. It only shares
+end-to-end encrypted data between the participants in every call. Without
+middlemen, third-parties, or servers, there’s nobody left who can snoop on
+calls, leak or collect data.
+Keet video calls operate over direct connections between you, your friends or
+colleagues, without using servers that can throttle your performance. You'll
+notice the difference immediately.
+When you share a file in Keet, you don’t have to wait for it to upload. Other
+peers can immediately download it straight from the source. Megabytes,
+gigabytes, or terabytes. No limits.
+Keet has Bitcoin Lightning and USDt micropayments built-in.
+Useful Links:
+Info about Holepunch: https://holepunch.to
+Info about Keet: https://keet.io
+Fincluster
+Partner
+2012 - 2015 (3 years)
+London, United Kingdom
+Backed by two financing investment rounds, Fincluster delivered an
+advanced, modern and accessible web platform serving different clients with
+customisation capabilities. 
+Fincluster developed a comprehensive, cloud-based financial application for
+Independent Advisors, Fund Managers and Institutions and served numerous
+small and medium sized companies throughout London, Milan and Lugano.
+Platform's main features were: historical portfolio tracking with (financial)
+performance analysis, financial CRM, order and trade management system,
+ 
+Page 5 of 8
+ 
+ 
+asset management system, custom automated reporting. All the features were
+available for both browsers and mobile devices.
+My role as CTO of Fincluster focused around managing the dev team, creating
+the backend core and the financial performance calculation libraries and
+monitor the security and scalability of the infrastructure. I increased my
+financial development background: programming trading integrations (via
+FIX and other protocols) with different prime brokers to let our customers
+to trade from our platform (funds, options, equities, bonds, FX, ...); financial
+applied algorithms/procedures (Modified Diez, IR, VaR, MonteCarlo VaR, ...);
+Bloomberg™ integration for TSOX and VCON; OTC basics.
+Technologies: 
+- AngularJS for the frontend
+- Node.js and C++ for backend programming
+- PostgreSQL as application's database
+- Redis for Caching
+Frame Asset Management
+Senior full-stack developer for Swiss based Asset Manager
+2010 - 2012 (2 years)
+At Frame Asset Management I was the lead developer tasked with building an
+accounting and trade management/reconciliation system. 
+My experience with Frame Asset Management definitively sparked my interest
+in FinTech and financial applications development.
+Technologies: 
+- Ext.js for frontend
+- PHP for backend programming 
+- MySQL as application's database
+Università degli Studi di Genova
+2 years
+Researcher/Developer for Selex Communications in a Military project
+2008 - 2010 (2 years)
+Genoa Area, Italy
+Throughout this role I refined my High-Availability, Fault-Tolerant and
+Distributed Systems knowledge and I experimented extensively with
+Cryptography.
+ 
+Page 6 of 8
+ 
+ 
+Technologies: Linux Kernel, Cryptographic Algorithms, CPU programming,
+Networking Algorithms (STP, RSTP, RSTPoR) and Protocols at Linux Kernel
+level.
+Setup of Marvell DB-DX24GE-4xG Evaluation Board, Armv5t model, Prestera
+dx255
+Operating System: GNU/Linux (ARM)
+Marvell CPSS (Core Prestera Software Suite) development and deep
+analysis. 
+- Cpss development with api
+- Low level board configuration, three phases initialisation
+- Kernel configuration
+- Multicast routing over cpss
+- Galtis evaluation and development
+- Ipv4 and ipv6 routing unicast / multicast
+- Ingress / egress policy engine (pcl)
+- Firewall configuration via cpss : TX and RX policies and routes
+- Low level and cpss event handling
+- VLAN configuration
+- TCAM overview
+Researcher at DISI (Departement of Computer Science) for ACIS
+September 2009 - November 2009 (3 months)
+Genoa Area, Italy
+Focused on the development of a Java framework and simulator for packet
+routing on vehicular networks using Open Street Map as maps (graphs)
+source.
+Involutive snc
+Co-Founder
+January 2007 - April 2009 (2 years 4 months)
+Genoa Area, Italy
+Involutive was my first company, which was founded as a collaboration with 2
+friends at the  Department of Computer Science in Genoa.
+Our focus was on web design and web site development for bigger agencies
+in Genoa area. Projects were mostly developed using Wordpress and Joomla!
+and worked to improve my background in plugin and component building for
+those platforms.
+ 
+Page 7 of 8
+ 
+ 
+At Involutive I designed and developed first releases of the online MMORPG
+called WarWide, a 'Risk!' like war game featuring real-time multiplayer
+interactions, evolution and strategies. WarWide was my first big project
+and a very challenging experience supported by a community that reached
+thousands of players in a few months. 
+The backend core was developed on the top of PHP and MySQL, enhancing
+my knowledge in complexity management, scalability, concurrency and high
+performance applications. The frontend was built entirely using html, javascript
+and ajax (for client-server communications).
+In 2010, WarWide changed owners due to my involvement in more complex
+projects.
+Freelance Consultant
+Security, Software and Web Developer, Distributed Systems Architect
+2003 - 2008 (5 years)
+Primary areas of focus: 
+- Penetration testing
+- Security in Unix/Linux infrastructures
+- Development of scalable platforms
+- Performance analysis
+- Optimisations and parallelisation (when possible) of real-time algorithms and
+processes
+- Full-stack web development
+Education
+Università degli Studi di Genova
+Bachelor of Computer Science, Computer Science · (2003 - 2008)
+Liceo Scientifico
+Bachelor of Science (BS)  · (1998 - 2003)
+ 
+Page 8 of 8

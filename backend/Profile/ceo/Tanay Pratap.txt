@@ -1,0 +1,136 @@
+ 
+ 
+Contact
+www.linkedin.com/in/tanaypratap
+(LinkedIn)
+tanaypratap.com (Portfolio)
+Top Skills
+Marketing Strategy
+Entrepreneurship
+React
+Languages
+Hindi (Full Professional)
+English (Full Professional)
+Certifications
+Instructional Design Essentials:
+Models of ID
+Tanay Pratap
+Founder & CEO, Invact Inc. | Fixing Education | xMicrosoft
+Bengaluru, Karnataka, India
+Summary
+What's my story? An engineer, in love with his job, started teaching
+on the side. Got lucky. Impacted 1000s of lives. Had to finally leave
+his job to increase the impact surface area. Raised $5M funding to
+fix education. Is learning day in and day about startups and building
+a valuable product. 
+How is it going? A decade of engineering helps in systems thinking
+and product building. Learning about Strategy, Marketing, People
+Management, and Finance on the go. 
+What am I building? Today, 25 million Indians prepare for
+government job entrance exams. They do it for years together. The
+probability of success is less than 1% but they still do it. Why? For
+the lack of a structured alternative to launch their white collar career.
+I am building Invact to bridge this gap. 
+How? Follow me to know, it's a long story. I am telling it in parts
+every day.
+Experience
+Invact Metaversity
+2 years 4 months
+Founder & CEO
+May 2022 - Present (1 year 11 months)
+Everything on the table. Building the startup leaner and faster. Fixing education
+on the go.
+Founder & CTO
+December 2021 - May 2022 (6 months)
+India
+Fixing Education. Building an immersive social learning experience for next
+gen learning.
+ 
+Page 1 of 4
+ 
+ 
+Microsoft
+4 years 1 month
+Senior Software Engineer
+March 2021 - December 2021 (10 months)
+People Experiences across Microsoft apps. Web + React Native + React
+Native Desktop ensures that the controls I am writing runs on all Microsoft
+apps across platforms. Millions of users, 100s of scenarios, 25+ apps and 6
+platforms. Building controls to work for all of these.
+Software Engineer II (Tech Lead)
+September 2020 - March 2021 (7 months)
+Bengaluru, Karnataka, India
+Moved to People Experiences Team to build High-Value Controls which run on
+multiple platforms and can be used by apps across Microsoft.
+Software Engineer II
+August 2019 - September 2020 (1 year 2 months)
+Bengaluru, Karnataka, India
+Worked on Microsoft Outlook Web app. The team working on Mail module
+which is used by 70 Million+ users. Delivered Item View during the rewrite from
+legacy to ReactJS, loved by 30% user base of the mail app.
+Software Engineer II
+December 2017 - August 2019 (1 year 9 months)
+Bengaluru, Karnataka, India
+Working on creating the N* architecture. Started with creating a bridge
+framework to host React inside Angular app. Now, creating an app using
+Teams' micro frontend framework. This app is the official note-taking app and
+has amazing co-authoring capabilities. 
+Tech Stack: React, Apollo, GraphQL, Typescript
+Artifacia
+Senior Software Engineer
+January 2017 - November 2017 (11 months)
+Bangalore
+Created the enterprise dashboard and the public store which saw huge daily
+traffic and peak traffic during holiday seasons. Built the tech team. Played the
+role of interviewer, mentor and scrum master. Setup engineering build process
+and best practices.
+Tech Stack: React, Redux, NodeJS, Redis, MongoDB, AWS
+ 
+Page 2 of 4
+ 
+ 
+Cisco
+Software Engineer II
+June 2015 - January 2017 (1 year 8 months)
+Bangalore
+As a full stack developer, my role was to create automated internal web portals
+for QA and SOC team. Also, used ML to automate the bug triage process
+which was done manually before. 
+Tech stack: AngularJS, Flask, Scikit-learn, Python
+Cypress Semiconductor
+Software Engineer
+June 2012 - June 2015 (3 years 1 month)
+Bangalore, India
+Part of Network Team. Automated Network Security and Monitoring. Wrote
+specs for company's network policy around wireless and security, designed
+and worked on the guest signup portal.
+Tech Stack: Python, Django, jQuery, MySQL
+Ixia
+Intern
+February 2012 - June 2012 (5 months)
+Automated scripts and system integration testing for Ix2Nx product.
+Tech Stack: Python, bash
+Nettech Private Limited
+Technical Instructor
+December 2010 - January 2011 (2 months)
+Interned as “Technical Instructor” for Nettech Pvt. Limited for their winter
+program 2011 at 
+BITS Kolkata Center and configured FTP, Apache, DNS, NFS, SMB, Proxy
+servers and 
+Firewalls for testing students and conducted lectures on TCP/IP protocols. 
+The work involved configuration of Switches for Spanning Tree, Virtual LAN
+configurations, ether 
+channel, port security etc. Configuration of Routers involved basic vty and
+password, routing 
+protocols.
+Education
+ 
+Page 3 of 4
+ 
+ 
+Manipal Institute of Technology
+Bachelor of Engineering (B.E.), Information Technology · (2008 - 2012)
+Chinmaya Vidyalaya, Bokaro
+Mathematics and Computer Science · (2006 - 2008)
+ 
+Page 4 of 4

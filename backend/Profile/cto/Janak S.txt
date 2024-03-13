@@ -1,0 +1,372 @@
+ 
+ 
+Contact
+www.linkedin.com/in/janak-shukla-
+robotron (LinkedIn)
+Top Skills
+Operations Management
+Service Delivery
+Technology Leadership
+Janak S.
+Chief Technology Officer
+Mumbai, Maharashtra, India
+Summary
+I'm excited to be back in creation mode and found and lead an
+Technology firm Robotron and EZ Lock .  
+Professional Snapshot: 
+More than 20 years of experience in Information Technology
+encompassing Requirement Analysis, System Design and
+Development .
+Proficient in assuring the successful execution of the company’s
+business mission through development and deployment of the
+application presence
+Hand-picked by executive team to turn around under performing
+programs; accomplished leader known and respected for leading
+successful change in projects and building credibility with executive
+teams and staff.
+Envisioning the company’s service offerings as a web-based
+business, leading implementation of applications, and planning for
+risk and growth.
+Domain expertise lies in Client/Server Application Development,
+Windows, Internet/E-Commerce/B2B applications built using multi-
+tier/DNA Architecture &, MSIB Architecture for Financial Services.
+Directed technology planning, strategy development, leadership and
+implementation, business and operational transformation execution,
+business solution delivery, and business development 
+Led C-Level and executive reporting and management, business
+case development, business unit management, senior stakeholder
+management and engagement
+ 
+Page 1 of 11
+ 
+ 
+Evaluated and identified appropriate technology platforms (including
+application frameworks and the deployment stack) for delivering the
+company’s services.
+Lead strategic planning to achieve business goals by identifying
+and prioritizing development initiatives and setting timetables for the
+evaluation, development, and deployment of all services
+Technical Skills include; WPF, ASP.NET, WCF, WPF, Sliverlight C#,
+VB.NET, ASP.Net MSCMS 2001/2002, SharePoint Portal Server, IIS
+6.0, JSP, Ajax, Visual C++, MFC, COM, Visual Basic 6.0, JSP, XML,
+C / C++, Oracle 7.x/10.x, SQL Server, Big data using Mongodb and
+Ravendb, Third part tools like DevExpress and Infragistics, Geneva,
+Charles River, Bloomberg.
+Experience
+ARCON
+Chief Technology Officer
+May 2021 - Present (2 years 11 months)
+Mumbai, Maharashtra, India
+Strategic leader with a successful track record in developing and executing
+comprehensive technology strategies and roadmaps aligned with business
+goals.
+Experienced in building integrated customer and enterprise platforms across
+wealth management, asset management, and broking.
+Proficient in designing and implementing full wealth tech stacks and
+infrastructures, particularly in the Indian and US markets. Possess 19 years of
+experience working with major banks and hedge funds in the US.
+Skilled in researching, evaluating, selecting, and implementing technology
+solutions to meet business needs.
+Proven ability to stay updated with industry trends, emerging technologies, and
+regulatory requirements, and leverage technology for competitive advantage.
+ 
+Page 2 of 11
+ 
+ 
+Expertise in ecosystem partner and vendor relationship management, ensuring
+effective delivery of services and adherence to contractual agreements.
+Strong oversight of IT infrastructure, managed services, and hybrid cloud
+environments to ensure observability, reliability, scalability, and data integrity.
+Experienced in overseeing the development and maintenance of trading
+platforms and client portals, enhancing customer experience and providing
+real-time investment data securely.
+Collaborative approach with key stakeholders to understand technology
+requirements and provide effective solutions.
+Focus on enterprise architecture, solution design, full-stack development,
+DevSecOps, CI/CD, API stack, and mobile apps.
+Skilled in developing and managing technology budgets to optimize resource
+allocation and ensure cost efficiency.
+Proactive in implementing robust cybersecurity measures and ensuring
+compliance with relevant laws, regulations, and data privacy standards.
+Experienced in designing and maintaining effective technology governance
+frameworks.
+Strong team and talent management skills, driving innovation, collaboration,
+and continuous improvement.
+Robotron
+Founder & CEO Education Technology
+July 2017 - May 2022 (4 years 11 months)
+Mumbai, Maharashtra, India
+A platform to improve basic literacy and numeracy for millions of children in the
+field of Robotics. Robotron is an education initiative with a vision to nurture the
+curiosity, inquisitiveness, and intuition of students. 
+Robotron is active in fields like Robotics, AI (Artificial Intelligence) and Drone.
+Robotron was founded with the sole goal & purpose to convey practical
+knowledge in the field of Robotics sing 2012, which is one of the most
+emerging fields in India and around the world.
+ 
+Page 3 of 11
+ 
+ 
+In 2030, Artificial Intelligence and Robotics will touch 800 Million jobs. The
+world will split into creators and consumers. Robotron makes kids creators in
+the new world with the first structured coding curriculum in the world for early
+childhood.
+TS Informatics
+Chief Technology Officer
+March 2021 - June 2021 (4 months)
+New Delhi, Delhi, India
+REALCODERZ
+Vice President Of Business Development
+July 2019 - April 2021 (1 year 10 months)
+Noida, Uttar Pradesh, India
+As VP at RealCoderZ was leading Transition Practice for North America
+geography at RealCoderZ India. Managed team of 50+ focusing on client
+engagement in Emerging markets, responsible for Technology Effectiveness,
+provide oversight to regional R&D, architectural optimization, and driving
+innovation and growth. Pre-Sales for Solutions around Enterprise Products &
+Technologies, Tax Advisory, optimization and fund-raising for the company.
+Awarded & recognized for Significant contribution towards Knowledge
+Management within the organization.Leader in managing global Transition
+programs in the IT outsourcing space across Education, Manufacturing, Retail,
+Software Development & Financial Services sectors.
+CAMP Systems International, Inc.
+Director
+March 2015 - July 2017 (2 years 5 months)
+Software Development Manager led a global team of 75+ people located
+in North America & India and provided technical oversight to deliver Web
+Applications and software automation for Aircraft Maintenance Tracking
+Solutions. Managed a large team comprising of managers, technical
+professionals, and functional specialists for the execution of large projects
+worth 1 to 2 million dollars. Conceptualized, planned, and developed CAMP-
+Framework to integrate CAMP ERP system and the web portal.
+Experienced in setting up onshore & offshore delivery units, providing
+managed services.
+ 
+Page 4 of 11
+ 
+ 
+As a senior .Net/Oracle Developer, developed CAMP-Framework to integrate
+the CAMP-ERP system and the web portal.   Download all the billing / Ticket
+information from various vendors and upload invoices and vendor information
+into the reconciliation database. Generate reports and real-time dashboards
+for the Accounting department. 
+Environment: .NET Framework 4,0, C#,  EXT.JS, MVC,  ORACLE 10G, XML/
+XSLT, WPF, ASP.NET, Ajax.
+Balyasny Asset Management L.P.
+Vice President Information Technology
+January 2013 - December 2014 (2 years)
+New York, NY
+• Spearheaded the development of innovative tools and platforms for wealth
+management, enhancing client experience and operational efficiency.
+• Implemented comprehensive risk management strategies to protect client
+assets and ensure regulatory compliance in wealth management operations.
+• Collaborated with investment teams to design and implement robust
+investment strategies, leveraging technology for data-driven decision-making.
+• Managed the integration of wealth management platforms with third-party
+financial systems, ensuring seamless data flow and accuracy in reporting.
+• Conducted regular audits and assessments of wealth management systems
+and processes to identify areas for improvement and optimization.
+Created and implemented Daily PNL Report tools to provide real-time insights;
+increased transparency for stakeholders, resulting in a 20% reduction in
+reporting time and enhanced decision-making accuracy. 
+Led large projects worth 5 to 6 Billion Dollars.
+Played a key role in installing TRADAR trading and order management
+system 
+Developed BAM-Framework, Prime Broker Reconciliation Tool, Daily PNL
+Report tools for the company
+Initiated the installation of SharePoint 2007 and upgraded to SharePoint 2010;
+ensured the timely management of SharePoint libraries and reports using
+SharePoint
+ 
+Page 5 of 11
+ 
+ 
+Managed large projects worth 10 to 25 Billion Dollars
+Pamli Capital
+Chief Technology Officer
+May 2012 - January 2013 (9 months)
+As CTO was responsible for installation TRADER trading an order
+management system, as a Tech Lead \Developer developed PAMLI-
+Framework, Prime Broker Reconciliation Tool, Daily PNL Report tools for the
+company. Installed SharePoint 2007 and then upgraded SharePoint 2010.
+Management of SharePoint libraries and reports using SharePoint.  
+EzCastle/Tradar migration:  PAMLI was using Northpoint solution for order
+managements, implemented EzCastle and Trader as an order management
+system, and for shadow accounting. Developed various alerts custom scripts
+and reports using EzCastle database. Worked closely with the Trading desk to
+set up new strategies and portfolios for NXR the Risk system. 
+Reconciliation Tool: This tool is used by Accounting and Operation Group to
+reconcile EzCastle/Tradar, Admins and PB.  Using PAMLI- Framework I was
+downloading all the files from Globeop, HedgeServ and all the PB’s like JPM,
+Barclays Citi Bank etc…After downloading all the files all,  the files uploaded
+into the reconciliation database and  finally reconciliation reports and alerts
+were generated. 
+# PNL Report : Using Bloomber AIM API’ developed live PNL tool for various
+asset classes like RMBS, CDS, FX option and Equity Options etc.
+# Implemented Tradar- ICE integration module.  
+Environment: .NET Framework 4,0, C#, WCF, WPF,PRISM Framework,  IIS
+6.0,SQL Server 2005, XML/XSLT, 
+WPF, ASP.NET, Ajax and  SharePoint 2007/2013.
+GoldenTree Asset Management
+Vice President
+October 2010 - May 2012 (1 year 8 months)
+Manhattan ,NY
+As a senior .Net, Developer, developed  GT-Framework, On-Demand Blotter
+Generator (OBG), Trade Allocator, and Dynamic Report Generator( DRG)
+ 
+Page 6 of 11
+ 
+ 
+tools for the company.GT- Framework:  Framework is the middle tire layer for
+all Goldentree applications,   a platform that allows users to perform various
+operation like generating reports, updating database, sending/receiving data
+via a secured protocol, analytics calculations, monitoring health websites,
+databases backup,  monitoring mail spy and folder spy. GT-Framework has
+its own scripting language known as GT-Script. GT-Scripts can connect to any
+Systems like VPM, Paladyne Security Master, OMS, and Bloomberg. 
+Dynamic Report Generator: This tool is used by Accounting and Operation
+Group,  this tool allows users to Generate reports real-time directly from the
+sources knows as a domain. Account Balance, Holding’s, Security Master and
+Transaction Report are few of the most common used domains. DRG also has
+functionality to join two or more existing domains and finally display reports in
+excel, pdf, and various other formats. DRG also has a scheduler inbuilt.
+On Demand Blotter Generator Tool: This tool used to generate trade blotter
+using GT-framework and FTP/ SFTP the trade blotters to prime brokers
+Barclays, State Street, IFS and Bank of America. This tool can generate
+blotters in PDF, Excel and CSV formats. 
+Environment: .NET Framework 4,0, C#, WCF, WPF, IIS 6.0,SQL Server 2005,
+XML/XSLT, Web services, ASP.NET, Ajax .
+Avenue Capital Group
+Sr Programmer Analyst
+October 2007 - October 2010 (3 years 1 month)
+New York , NY
+As a Senior .Net, Sharepoint developer, designed SOA and web-based
+applications using .net framework 2.0/3.5, C#, and SQL server 2005 as
+database. 
+My responsibilities included :  
+• Using Microsoft SharePoint developed oversight for our internally developed
+applications 
+• Using SharePoint developed toolbar and developed various custom reports
+like Mark-to-Market, FAS 157, and Unrealized Gain/loss and currency
+exposure.
+ 
+Page 7 of 11
+ 
+ 
+• Using WCF developed various interfaces to communicate with Geneva to
+insert, update and delete data.  
+• Developed various Custom Web Parts, Lists and I/O operations using MS
+Excel worksheet, and InfoPath using SharePoint API’s. 
+• Responsible for SharePoint portal administration, security and back up
+procedures.  
+• Using ASP.NET developed a web services to access market data from
+multiple providers like Bloomberg, Geneva, Loan-X etc.
+Using SharePoint developed various web parts and custom reports for the
+investors some of the SharePoint web services to store various reports created
+by the   nightly and end of day process. 
+Risk System : Web Services were used for communicating with third-
+party software RiskMetrics, FinCAD, Bloomberg and others using external
+and third party web services and also developed internal risk system to
+generate financial analytic. Developed various custom web parts, charts and
+graph .Developed custom reports for clients, some of the critical reports were
+Portfolio summery report, Profit Loss report, Currency Exposure and FASB
+157 report etc.. This system facilitates the daily production of risk reports in
+a timely manner. This system provides the flexibility to implement new risk
+management systems on as needed basis. 
+• Data Integrity / Pricing Tool : Using SharePoint , XMAL and WPF
+technologies created a tool for the Operations teams which identifies missing
+security information like CUSIP, ISIN, Ticker etc in Geneva and using
+Bloomberg API's fetch the value and update Geneva.
+IFS
+Vice President
+October 2005 - October 2007 (2 years 1 month)
+As a Sr. Developer, designed Portal based web/ windows form based
+applications using Visual Studio 2005, .NET framework 2.0, C#, and SQL
+server 2005 as database. My responsibilities included interacting with business
+users to collect requirements, designing database, implementation and
+testing. 
+ 
+Page 8 of 11
+ 
+ 
+Portfolio Manager:  Portal based portfolio management system for over 200
+clients. Major client was State Street. 
+Risk System: Integration with Cognity a third party software using web services
+and also developed internal risk system to generate financial analytics.
+Developed various custom web parts, charts and graph . Developed custom
+reports for clients, some of the critical reports were Portfolio summary and
+Profit Loss. This system facilitated the daily production of risk reports in a
+timely manner. This system provided the flexibility to implement new risk
+management systems on as needed basis.
+Position Viewer and Position Sheets: A system to track positions and PL in
+real time. Collected data from multiple internal systems. Win-Forms UI and
+Excel spreadsheets were used to automate the position reporting and end of
+day process. It eliminated errors in reporting and the potential operational risk
+associated with that.
+Fund of Fund Manager: Designed the fund of Fund system share classes,
+making it simple for the investors to invest in more than one fund. 
+Ivy Asset Management SA
+Sr Programmer Analyst
+November 2003 - October 2005 (2 years)
+As a Sr. Developer, designed Portal based web/ windows form based
+applications using Visual Studio 2005, .NET framework 
+2.0, C#, and SQL server 2005 as database. My responsibilities include
+interacting with business users to collect requirements, designing database,
+implementation and testing. 
+Using Microsoft SharePoint developed oversight for our internally developed
+applications:
+• Using SharePoint business data catalog web service connected to third part
+software.
+• Developed various Custom Web Parts, Lists using SharePoint and updated
+the lists using SP API’s.
+• Developed Enterprise Content Management System and work flow for IFS.
+• Developed Security using user profiles and setup Active Directory and
+SharePoint Server 
+ 
+Page 9 of 11
+ 
+ 
+Financial Applications  
+• Portfolio Manager:  Portal based portfolio management system for over 200
+clients. Major client was State Street. 
+• Risk System: Integration with Cognity a third party software using web
+services and also developed internal risk system to generate financial
+analytics. Developed various custom web parts, charts and graph .Developed
+custom reports for clients, some of the critical reports were Portfolio summery
+report, Profit Loss report etc.. This system facilitates the daily production of risk
+reports in a timely manner. This system provides the flexibility to implement
+new risk management systems on as needed basis.
+• Position Viewer and Position Sheets: A system to track positions and PL
+in real time. Collects data from multiple internal systems. Win-Forms UI and
+Excel spreadsheets used to automate the position reporting and end of day
+process. It eliminated errors in reporting and the potential operational risk
+associated with that.
+• Fund of Fund Manager: Designed the fund of Fund system share classes,
+making it simple for the investors to invest in more then one funds. 
+Environment: O/s: Win 2000/XP.  S/w: Windows Forms, ASP.NET, VB.NET,
+C#, XML, SQL, Share Point Portal Server 2003/ 2007.
+KPMG
+Sr. Programmer
+May 2003 - December 2003 (8 months)
+HCL Perot Systems
+Sr Programmer Analyst
+2000 - 2003 (3 years)
+Eurolink
+Programmer
+1997 - 1998 (1 year)
+Atkins Nutritionals, Inc.
+Sr. Developer
+ 
+Page 10 of 11
+ 
+ 
+1996 - 1997 (1 year)
+Education
+Indian Institute of Management, Lucknow
+Activities and Societies: Advance Management In Digital Era · (April
+2023 - December 2023)
+M.I.E.T India
+B.E., Computer Technology · (1992 - 1996)
+St. Paul's School kota
+ 
+Page 11 of 11

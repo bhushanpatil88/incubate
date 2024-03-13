@@ -1,0 +1,196 @@
+ 
+ 
+Contact
+shivanandr@gmail.com
+www.linkedin.com/in/shivanand-
+rao-59b9691b (LinkedIn)
+trailhead.salesforce.com/en/
+me/00550000007QUv2AAG
+(Other)
+Top Skills
+Salesforce.com Consulting
+Salesforce Lightning
+Salesforce Sales Cloud
+Languages
+Hindi
+Marathi
+Kannada
+Telugu
+English
+Certifications
+marketing-cloud-social-specialist-
+certification-maintenance-spring-17
+Salesforce Platform Basics Badge
+Salesforce Platform Basics Badge
+Superbadge Security Specialist
+Lightning Experience Basics Badge
+Shivanand Rao
+Chief Executive Officer (CEO) at SRCloudWare / Investor
+Bengaluru, Karnataka, India
+Summary
+Congratulations, Shivanand! One of the top 5% LinkedIn profiles for
+2012 views belongs to you!
+Ranger - Salesforce - Trailhead Congratulations!You've reached the
+very top rank.
+• Salesforce Lightning, Apex, Visual Force, and SFDC expert
+• Proven track record of leadership, change management, project
+delivery, scoping, and techno-functional managerial experience in
+the SFDC CRM domain.
+• A goal-oriented, results-driven individual with the ability to
+collaborate across diverse regions and a reputation for high-quality
+output. 
+• Analyses end-to-end dependencies quickly when mapping
+requirements to design and execution in SFDC Projects.
+• In various roles, I've designed and delivered dozens of SFDC big
+project implementations for businesses of varying sizes.
+Experience
+SRCloudWare
+Chief Executive Officer (CEO)
+2019 - Present (5 years)
+India
+SRCloudWare is a Cloud Solution Expert company. Specialized in consulting,
+End-End Implementation of Salesforce, CPQ, Vlocity Projects.
+You can find more information here :  https://www.srcloudware.com
+SIXT Research & Development India
+Engineering Manager
+2018 - 2019 (1 year)
+Bangalore
+About SIXT:
+ 
+Page 1 of 5
+ 
+ 
+Sixt was founded by Martin Sixt in 1912 Munich, Germany and started out
+with a fleet of just three vehicles. With over 100 years in the business, Sixt has
+earned a trusted reputation as a global leading car rental provider. Today they
+are present in over 105 countries with branches in over 5000 locations. Sixt
+car rental services are available internationally, in almost every major city and
+tourist destination worldwide and at convenient locations such as airports, train
+stations, cruise ports, and hotels.
+Sixt is Germany’s leading provider of mobility services, and also on a
+successful expansion track in Europe and in North America. With revenues
+in excess of 2 billion euros and a fleet of 225,000 cars, we have moved into
+over 100 different countries worldwide. Sixt is the largest fleet purchaser of
+BMW’s internationally. However, does not consider itself a luxury car rental
+company but a company with superior service and better cars for everyone at
+an exceptional value.
+At Sixt, customers are guests. It’s not a rental transaction but an experience
+as that of a five-star hotel. Sixt hires service oriented individuals, free to travel,
+and open to cultural experiences interacting with customers and colleagues
+from many diverse backgrounds.  Sixt is more than just cars, we have a
+passion for style, technology, innovation, creativity and entrepreneurial spirit.
+About SIXT Research & Development:
+Sixt Research & Development India endeavours to offer innovative mobility
+solutions to our members in over 100 countries. 
+SRCloudWare
+Founder & Managing Director
+February 2017 - October 2018 (1 year 9 months)
+India
+SRCloudWare is a Cloud Solution Expert company. Specialized in consulting,
+End-End Implementation of Salesforce, CPQ, Vlocity Projects.
+You can find more information here :  https://www.srcloudware.com
+J.P. Morgan
+Vice President, Global Technology
+2016 - 2017 (1 year)
+ 
+Page 2 of 5
+ 
+ 
+India
+JPMorgan Chase & Co. (NYSE: JPM) is a leading global financial services firm
+with assets of $2.6 trillion and operations worldwide. The Firm is a leader in
+investment banking, financial services for consumers and small businesses,
+commercial banking, financial transaction processing, and asset management.
+A component of the Dow Jones Industrial Average, JPMorgan Chase & Co.
+serves millions of consumers in the United States and many of the world's
+most prominent corporate, institutional and government clients under its J.P.
+Morgan and Chase brands. Information about JPMorgan Chase & Co. is
+available at www.jpmorganchase.com.
+Schneider Electric
+5 years
+Assistant General Manager - SFDC Platform Technical Architect
+2015 - 2016 (1 year)
+-   Define and implement governing processes based on Salesforce best
+practices for "Configuration Management","Continues Engineering", "Incident
+Management with MCS"
+-   Work with enterprise and domain architects as needed to evolve strategies,
+policies, processes and procedures,blueprints and standards related to sales
+force platform, components and protocols.
+-   Develop and maintain formal strategies, sourcing guidance, technical
+standards, blueprints, reference architectures, architecture patterns and
+technology road-maps for Schneider electric front office applications
+-   Design flexible, scalable and robust state-of-the-art architecture for
+Customer Relationship Management to meet the dynamic needs using
+Salesforce: Sales Cloud, Service Cloud, force.com
+-   Present architecture options and recommendations including configuration
+vs. customization the use of salesforce.com standard features
+-   Conceptualize, present, and execute ideas with particular emphasis on
+serving as a technical lead on development projects with on-shore and off-
+shore components, or a team lead or architect across multiple software
+development projects or workstreams
+-   Serve as the bridge between the functional analysts and the technical
+developers to transform and develop new requirements into designs,
+development approaches and implementation
+-   Drive adoption of development methodology best practices across the
+Global Delivery and Solution Teams
+-   Evangelize and facilitate the Salesforce platform and eco-system across the
+organization
+ 
+Page 3 of 5
+ 
+ 
+Identify problem areas (process and technical) and recommend solutions
+-   Conduct industry and market research. Maintain a working knowledge of
+technologies and general themes in assigned areas. Engage agency subject
+matter experts
+Principal Consultant - SFDC / Architect- SFDC CRM Solutions /
+Applications Manager
+2011 - 2015 (4 years)
+Bangalore
+-  Played a different role as a Lead Technical Solutions Architect, Applications
+Manager, Principal Consultant – SFDC
+-  Managing complex global business environment and interact with senior
+leaders across geographies.
+-   Solution Architect connectors between SFDC and BOX , SAP, Intouch via
+Middleware (Cordys, edifixio),
+-   Conduct business requirement & prototyping workshops with business
+users to support tailoring of Salesforce.com applications and provide
+consultancy.
+-   Define system landscape, to identify gaps between current and desired end-
+states, and deliver a CRM solution
+-   Frequent travels to Europe for requirement gathering and schedule CRP,
+UAT sessions.
+-   Provide SFDC Project estimate.
+-   Recommend Schneider for some project to converted Sales force Licence to
+Force.com Licence to reduce the cost.
+-   Suggest some of Schneider Project to use communities (Customer &
+Partner Communities).
+-   Design various complex Schneider process on Force.com platform.
+-   Coordinate between Europe ,US and India team on various stages of
+projects
+-   Create a technical design for the requirements in the project.
+Adobe Systems
+SFDC Analyst
+September 2010 - October 2011 (1 year 2 months)
+Sunovaa Tech.
+Technical Lead / SFDC Analyst
+September 2010 - October 2011 (1 year 2 months)
+Wipro Technologies
+ 
+Page 4 of 5
+ 
+ 
+Technical Lead
+April 2010 - September 2010 (6 months)
+THOMSON REUTERS
+SOFTWARE ENGINEER
+2008 - 2010 (2 years)
+SLK
+SOFTWARE ENGINEER
+2005 - 2008 (3 years)
+Education
+BE
+KVH
+10 & 12, 10 & 12
+ 
+Page 5 of 5

@@ -1,0 +1,211 @@
+ 
+ 
+Contact
+www.linkedin.com/in/anandf-cto
+(LinkedIn)
+Top Skills
+Product Development
+Data Science
+Machine Learning
+Languages
+English (Full Professional)
+Marathi (Full Professional)
+Hindi (Professional Working)
+Certifications
+Project Management Professional
+(PMP)
+Associate in General Insurance
+(AINS)
+Advance Communication Silver
+(ACS)
+Certificate Program - Machine
+Learning
+CSM - Certified Scum Master
+Honors-Awards
+Feather in the Cap
+Feather in the Cap
+YouDunIt - Team Award
+First Runner Up - White Paper
+Contest
+Second Runner Up - Tieto Global
+Innovation Hackathon
+Anand Fadte
+Chief Technology Officer | Leverage AI | EdTech
+Pune, Maharashtra, India
+Summary
+I am a seasoned Technology Head, CXO and AI Practice Leader
+in Software Engineering, showcasing a proven track record in
+Techno-Functional Leadership across the Insurance and Financial
+sectors. I excel in devising innovative AI and ML solutions and
+accelerators. My expertise encompasses Python, Data Science, AI,
+public speaking, data analytics, machine learning, and mobile app
+development using Flutter and Dart.
+I have spearheaded extensive technology transformations across
+various platforms including Mainframe, .NET, Java, and Python. I
+possess in-depth experience in establishing AI/ML operations from
+the ground up, having developed numerous AI applications utilizing
+platforms like AWS SageMaker, H2O.ai, and Applied AI.
+I have successfully led and designed a variety of groundbreaking
+product solutions in AI and ML for the financial industry. My
+background includes establishing multiple global practices within the
+insurance and financial sectors, encompassing governance, domain-
+specific architecture, KPI and OKR definition, and the strategic
+structuring of teams across different geographies.
+My expertise extends to business architecture, where I have
+developed enterprise-level web and mobile applications/products
+leveraging Microservices/SOA, Angular, Ionic, Flutter & Dart, various
+cloud platforms, and NoSQL databases such as MongoDB and
+DynamoDB.
+With over 18 years of experience, my skills span solution
+architecture, key account management, business development,
+global team building, program management, product management,
+presales, and business analytics. I have a track record of
+establishing expansive technology teams internationally in regions
+like the USA, UK, Europe, and Australia, and my experience ranges
+from start-ups to leading IT MNCs and captives.
+ 
+Page 1 of 5
+ 
+ 
+Experience
+M Square Media (MSM)
+Chief Technology Officer
+April 2022 - Present (2 years)
+Pune, Maharashtra, India
+Chief Technology Officer with a proven track record in leading technology
+transformations and integrating AI enablers to create next-generation EdTech
+platforms. Expertise in leveraging artificial intelligence and machine learning
+to develop personalized, adaptive learning experiences that scale across
+diverse educational settings. Skilled in orchestrating large-scale technology
+transformations, driving the adoption of advanced digital solutions, and
+fostering a culture of innovation. Passionate about harnessing the power
+of AI to transform traditional study abroad platform. Committed to building
+and leading teams to develop cutting-edge EdTech solutions that are at the
+forefront of Study abroad
+Qorbital India
+Director : Head - Data Science & ML
+June 2021 - April 2022 (11 months)
+Pune, Maharashtra, India
+Practice Head -> Leading overall AI and Data Science Capabilities in
+delivering the next generation banking platform. Also overall practice lead in
+building mobile capabilities using Flutter and Dart. Key focus areas - Applied
+AI, AI-ML Ops, Buy vs Build Analysis. 
+Building AI Capabilities. Recruiting, Mentoring. Identifying various opportunities
+within the platform in leveraging AI to enhance or optimize the business
+processes.
+TietoEVRY
+7 years 3 months
+Manager Data Science -  CIO Office
+July 2020 - May 2021 (11 months)
+Pune, Maharashtra, India
+Lead and designed various transformation, automation and consolidation
+programs for CIO office. Worked in building NLP based AI Apps, such as
+Incident Analytics and Predictive analytics for service desk. 
+Head of Mainframe Technology Group
+February 2020 - July 2020 (6 months)
+ 
+Page 2 of 5
+ 
+ 
+Pune
+Lead a Mainframe Practice and setting up unit. Key activities such as
+Mainframe modernization, DevOps for Mainframe, building accelerators
+around mainframe. Building capabilities in the areas of Mainframe, Cobol,
+AS400, HP-nonstop, CoolGen, DB2, IMS, etc.
+Accelerators for AI Ops for Mainframe transformations and Analytics
+Head of Software Engineering
+April 2019 - January 2020 (10 months)
+Pune Area, India
+# Practice Head, with responsibility of 5 verticals - Database Specialist,
+Configuration Specialist - DevOps and Mainframe, AI & ML and Program
+Management
+# Lead Multiple Analytics Products across customer profiles.
+# Hands-on technical capabilities in building AI Apps using Python focusing
+largely on NLP and Deep Learning using frameworks such as PyTorch, Keras
+& TesnsorFlow
+# Leading Data Science Capabilities for unit in building AI accelerators using
+Python, Django, & Angular Framework.
+# Largely responsible for growth initiatives within unit in harvesting and
+building set of accelerators, products and solutions.
+# Managing a team of Program Managers, Product  Owners, Business
+Consultants and Software Associates in driving large scale customer delivery.
+# Played a role of Technical Architect / Product Manager for multiple products
+built on  SOA / Micro-services Architecture in building complex web/mobile
+applications using Angular, Ionic, AWS, DynamoDB, MongoDB, Python, etc.
+# Built domain based frameworks such as Pension Reference Models for
+Finnish Pension
+# Designed and Conceptualized Python / Open source community at Tieto
+India and currently the lead trainer in Python. Have trained over 800 people at
+Tieto in Python.
+# Build multiple products using Design Thinking centered approach.
+Insurance and Pension - Practice Head, Analytics Domain Head
+March 2014 - April 2019 (5 years 2 months)
+Pune, Maharashtra, India
+# Designed and Lead Pension and Insurance Practice at India Delivery Center.
+Key responsibility includes Delivery setup, Knowledge Transition, Knowledge
+Building, Building customer centric Pension and Insurance Practices.
+ 
+Page 3 of 5
+ 
+ 
+# Build multiple Products and Accelerators around AI and Machine Learning
+for Pension and Insurance domain.
+# Awarded top innovator multiple times during this tenure for AI driven models
+and automation accelerators.
+# Design and build comprehensive Pension Reference models and deployed
+across multiple customers in Nordic region.
+# Lead the overall Pension & Insurance practice serving multiple customers in
+Global Delivery Model.
+Accenture
+Manager - Business Analytics - Insurance
+July 2006 - February 2014 (7 years 8 months)
+Sydney, Australia
+# Key focus areas : Business Analytics, Decision Support Systems, AI
+Analytics, Data Analytics
+# Lead large scale BA transformations in setting Onshore / BA delivery Models
+for Insurance customers.
+# Lead multiple Products / Projects / Customer Deliveries into Pension and
+Insurance Analytics space. 
+# Worked on multiple AI and Analytics products within Insurance Domain
+# Product Manager for Insurance Products such as ALIP, DuckCreek, Siebel
+CRM, Pega, etc
+# BA Manager in managing a BA set up of ~ 50 functional consultant
+# Setting up the BA practice in geographies such as USA, UK, Belgium,
+Australia etc.
+# Transition Manager for large scale Insurance programs
+Reuters
+Application Developer
+July 2005 - June 2006 (1 year)
+Bengaluru Area, India
+Developed and designed Data analytics Tool - the data enhancement tool
+which retrieves the traded instruments and contributes to the Reuters network.
+Honeywell
+Software Engineer
+January 2004 - May 2005 (1 year 5 months)
+Bengaluru Area, India
+Application Developer using Microsoft technologies such as ASP, ASP.net,
+VB.net
+ 
+Page 4 of 5
+ 
+ 
+Acetek Solutions
+Founder, Head
+March 1999 - August 2001 (2 years 6 months)
+Goa
+Founder and Promoter of start up firm  - Acetek Solutions, largely focusing on
+IT training and Software Developement
+Education
+International Institute of Information Technology Bangalore
+Post Graduation - Data Science and Machine Learning, Machine
+Learning · (2018 - 2019)
+Post Graduate Diploma in Applied Statistics
+Post Graduation (PG, Mathematics and Statistics · (2017 - 2019)
+ICFAI Business School
+Master of Business Administration - MBA, Insurance · (2004 - 2006)
+Goa University
+Master of Computer Applications - MCA, Computer Science · (2001 - 2004)
+Govt.College of Arts Science & Commerce Khandola
+Bachelor's degree in Computer Science, Computer Science · (1996 - 1999)
+ 
+Page 5 of 5

@@ -1,0 +1,1227 @@
+CTO/Lawrence Baisch.txt CTO/Dan Huang.txt CTO/Manoj Mathew.txt CTO/Vishwajeet Singh.txt CTO/Tushar Pathare.txt CTO/Urvashi T.txt CTO/Manmeet Dhody.txt CTO/Sanjay Kataria.txt CTO/Ted Gaubert.txt CTO/Aaron Elmore.txt
+ 
+ 
+Contact
+www.linkedin.com/in/lrbaisch
+(LinkedIn)
+Top Skills
+SaaS
+Enterprise Software
+Pre-sales
+Languages
+Russian (Limited Working)
+English (Native or Bilingual)
+Patents
+Methods and Systems for
+Certification, Analysis and Valuation
+of Music Catalogs
+Lawrence Baisch
+Chief Technology Officer at RYAILITI, LLC
+United States
+Summary
+Experienced executive with a demonstrated history of success
+in the computer software industry. Throughout my career, I have
+enabled customers and partners in the healthcare, financial services,
+entertainment and government sectors to achieve success with
+enterprise technology initiatives. Skilled in Requirements Analysis,
+Enterprise Software, Business Development, Agile Methodologies,
+and Customer Relationship Management (CRM). I'm also a proven
+technological entrepreneurship professional with Master of Science
+(M.Sc.) and Master of Business Administration (M.B.A.) degrees
+from Rensselaer Polytechnic Institute.
+Experience
+RYAILITI LLC
+Chief Technology Officer
+April 2018 - Present (6 years)
+United States
+Luminous Systems, LLC
+Founder and Chief Executive Officer
+October 2003 - Present (20 years 6 months)
+United States
+Over the past 15+ years, Luminous Systems has provided enterprise-class
+cloud computing strategies, delivered production solutions and executed
+interim executive assignments forclients in the financial services, healthcare/
+life sciences, higher education and entertainment sectors. A key differentiator
+has and continues to be the ability to source the right talent at the right time for
+project engagements.  
+Aizon 
+Chief Customer Success Officer
+May 2020 - July 2022 (2 years 3 months)
+United States
+ 
+Page 1 of 2
+ 
+ 
+Responsible for initial delivery, expansion and on-going technical support of all
+AI-powered solutions deployed for Aizon customers.
+Salesforce
+Enterprise Architect
+September 2017 - December 2019 (2 years 4 months)
+New York, United States
+Led the development and delivery of cloud strategy to enterprise customers
+in the healthcare/life sciences and financial services industries.  Delivered
+support to pre-sales activities via enterprise systems mapping, migration
+recommendations and Salesforce multi-cloud org configuration strategies.
+Deloitte
+Analytics Team Lead
+December 2014 - July 2017 (2 years 8 months)
+San Francisco, California, United States
+Engaged by Deloite's ERM practice to build the initial version of the Enterprise
+Risk Analytics Platform.  A cloud-based workbench environment that enabled
+risk analysts and data scientists to rapidly develop scenarios and projected
+outcomes based on multi-dimensional cognitive analysis of very large
+datasets.
+Education
+Michigan State University
+Bachelor's degree, Economics/Social Science and Humanities
+Rensselaer Polytechnic Institute
+Master of Business Administration (M.B.A.), Information Technology
+Rensselaer Polytechnic Institute
+Master of Science (M.Sc.), Computer and Information Science
+ 
+Page 2 of 2
+ 
+ 
+Contact
+www.linkedin.com/in/yuzeh
+(LinkedIn)
+Top Skills
+Python
+C++
+Java
+Dan Huang
+Chief Technology Officer at Northbeam
+San Francisco Bay Area
+Experience
+Northbeam
+Chief Technology Officer
+November 2019 - Present (4 years 5 months)
+MTailor
+Lead Engineer and Data Scientist
+October 2014 - October 2019 (5 years 1 month)
+Developed software and operational processes for critical business functions.
+- Used machine learning to develop clothing fit algorithms that decreased our
+returns rate by over 20%.
+- Built internal supply chain management software completely from scratch.
+- Developed processes for forecasting fabric supply levels and predicting
+outages.
+- Built a web-based shopping experience (https://www.mtailor.com/shop).
+- Built the consumer Android app from the ground up.
+Twitter
+Software Engineer
+January 2013 - September 2014 (1 year 9 months)
+Software development, design, and operational support for a distributed
+system that detects news events in real time using text clustering techniques
+Stanford University
+CS229 (Machine Learning) Course Assistant
+September 2012 - December 2012 (4 months)
+Twitter
+Software Engineer Intern
+June 2012 - September 2012 (4 months)
+Building interesting things for Trends!
+Stanford University
+Research Assistant
+September 2010 - June 2012 (1 year 10 months)
+ 
+Page 1 of 2
+ 
+ 
+Used unsupervised feature learning models for language and speech tasks,
+currently researching the use of keystroke patterns as a behavioral biometric
+Google
+Software Engineering Intern
+June 2010 - September 2010 (4 months)
+Web development on an internal application
+iControl Networks
+Engineering Intern
+June 2009 - July 2010 (1 year 2 months)
+Data reporting, software testing - developed a data reporting tool for internal
+and external use
+Document Solutions Group
+Trial Developer
+June 2008 - September 2008 (4 months)
+Created electronic clinical response forms for clients.
+Education
+Stanford University
+BS, Mathematics, Computer Science · (2008 - 2012)
+ 
+Page 2 of 2
+ 
+ 
+Contact
+www.linkedin.com/in/manmat
+(LinkedIn)
+Top Skills
+Software Development
+Requirements Analysis
+Agile Methodologies
+Honors-Awards
+Spot Award for Best Performance
+10 US Patents
+Achiever Award - Innovation and
+Productivity
+Patents
+Transmission of Medical Image data
+Parallel Processing for generating a
+thinned image
+Timing of Displayed Objects
+Image Labeling using Parallel
+Processing
+Processing of medical image data
+Manoj Mathew
+Chief Technology Officer
+Greater Los Angeles, California, United States
+Summary
+My focus has been on strategies which takes a deep dive into
+market dynamics and customers’ needs by ushering a potent mix
+of business acumen and technology. My hands on development
+and business experience with background in engineering and
+business have allowed me to spearhead numerous major projects
+with high-level vision for leadership and ground-level understanding
+for oversight. 
+I help align the team to ensure customers get their needs met in a
+seamless fashion. I help focus on execution of a plan and constantly
+test results and fine tune for peak performance.
+I’m a proven operating executive with significant turnaround and
+growth experience, successful with generating profits and creating
+shareholder value in both public and private companies by aligning
+strategies with customer and market demands. 
+My passion for algorithms, problem solving and deep-dive into
+details has helped in obtaining 7 Patents and number of Patent
+pending applications with the US Patents & Trademark office
+(USPTO).
+Today, my role is to create and refine a business vision along with
+the stakeholders of your organization and to act as a sounding
+board and thought leader as we break that vision down into
+development deliverables' with a focus on ROI. Through years of
+industry experience working with large companies in research &
+development, business development, and account management, I
+like to see and see business thrive by being a transformation agent
+by using technology as a vehicle that powers progress.
+Leadership
+• Turnarounds & Transformation
+• Change Leadership
+• ROI Focused
+ 
+Page 1 of 9
+ 
+ 
+Business Development
+• Strategic Marketing with analytics and business intelligence
+• Global Business Development 
+• Focus on Revenue growth 
+• Account Management
+Engineering Strategy
+• Business Problem Solving & Approach
+• Process Optimization
+• Model Driven Development
+• Enterprise Modelling and Specialty Engineering
+• Corporate and New Venture
+Experience
+LendingUSA
+7 years 5 months
+Chief Technology Officer
+November 2016 - Present (7 years 5 months)
+Greater Los Angeles Area
+LendingUSA is a technology-driven financing solution that gives merchants
+the power to offer affordable financing to their customers - right at the point
+of sale. LendingUSA was recognized as the #1 “Emerging Lending Platform
+of the Year” of 2018 at Lendit for the company with the "greatest potential to
+impact the future of online lending."
+As a technology leader within the organization, my focus is to produce
+seamless synergy between  organizational goals and empower cross-
+functional teams to collaborate towards optimizing our talent and capabilities. 
+Product Development - Architect and provide leadership to the innovative
+technology platform for all aspects of the loan origination, sales, marketing and
+servicing process. 
+Strategic Planning - Achieve and exceed organizational goals by identifying
+and prioritizing development initiatives and setting timetables
+ 
+Page 2 of 9
+ 
+ 
+Collaboration - Establish governance processes to ensure that objectives are
+achieved risks are managed appropriately
+Security - Design and execution of information security plan that protects
+organizational confidentiality and integrity
+PM - Establish and supervise the software development process setting
+objectives with measurable metrics and transparency
+Quality - Establish and supervise a quality assurance process. Establish
+application deployment process and critical production systems
+Customer Service - Establish customer service and DevOps process. Establish
+tech driven process to support resolution of customer issues and improve
+application usability 
+Ops and Compliance - Maintain up-to-date knowledge of industry trends,
+regulatory environments and emerging technologies
+A sense of Humor and Compassion – Amid all these buzzwords, we tend
+to forget what we as social beings strive for; to be recognized and provide
+a sense of ownership and allay the fears of making mistakes. As a servant
+leader, a passionate and empowered team brings cheer, no matter what the
+season.
+Head of Servicing & Collections
+October 2019 - June 2023 (3 years 9 months)
+Greater Los Angeles Area
+LendingUSA is a technology-driven financing solution that gives merchants
+the power to offer affordable financing to their customers - right at the point
+of sale. LendingUSA was recognized as the #1 “Emerging Lending Platform
+of the Year” of 2018 at Lendit for the company with the "greatest potential to
+impact the future of online lending."
+As the head of Servicing & Collections, my focus has been to lead high-
+performing customer service and collections team, leveraging the power of
+technology. Have valuable insights into risk-driven decisioning at origination,
+post funding data-driven analytics becomes much more pertinent. My role
+involves strategic decision making related to every customer interaction
+throughout their lifecycle, introducing products and tools suitable to handle
+ 
+Page 3 of 9
+ 
+ 
+lifestyles and credit situations. The ultimate goal being to help the company
+continue to evolve its business with the customer at the center of every
+interaction.
+TransUnion
+Board Member - Financial Services Technology Advisory
+June 2022 - Present (1 year 10 months)
+Greater Chicago Area
+Collaborate with Industry peers and TransUnion's leadership to share insights
+and opportunities around the financial sector, emerging disruptors, challenges
+and best practices.
+ServicingUSA
+Head of Servicing & Collections
+March 2020 - June 2023 (3 years 4 months)
+Los Angeles Metropolitan Area
+LendFoundry
+Chief Technology Officer and Co-Founder
+December 2013 - October 2016 (2 years 11 months)
+As a technology and Marketplace lending domain leader within the
+organization, my responsibility has been to identify complex business
+and technology problems and transform them to be enablers for the new
+generation marketplace and traditional lenders. 
+From a strategic standpoint, leveraging the strength of Microservices as a way
+of designing software as suites of independently deployable services has been
+paramount to the overall strategy. My focus also has been to empower and
+nurture cross-functional teams for rapid provisioning, monitoring, application
+development, adopt cloud scale design patterns, cultivate a solid DevOps
+culture and nurture a culture which embraces change and consciously adopts
+it. 
+So, what is the cure to Insomnia? Get comfortable with
+- .NET Core
+- NodeJS
+- MongoDB
+- Cloud Design Patterns
+- Mesosphere
+- Domain Driven Design 
+ 
+Page 4 of 9
+ 
+ 
+- Microservices and related WebAPI
+- Docker
+- Javascript
+- Angular
+- React
+- Polymer
+- Rancher
+- AWS Lambda
+- Python
+- Test Automation
+If you are not asleep yet, try the following
+- Risk-based lending platform development
+- Identity Management
+- Device and Digital Identity
+- Fraud Identification and Prevention
+- Threat Detection
+- Authentication
+- Risk-based pricing, Rules and decisioning Engine
+- Document Management
+- ACH Processing
+- Loan Servicing
+- Collections Management
+And here comes the dose to ensure that you are fully asleep
+- Nurture and build a cohesive leadership team
+- Create and reinforce clarity 
+- Communicate with team and set expectations
+- Empower, equip, RINSE and REPEAT
+So, what is leadership overall:
+Leadership is a process of interactive influence which maximizes the efforts of
+others toward the achievement of a greater good for the organization.
+Sigma Infosolutions
+12 years 6 months
+Sr. Vice President - Client Services
+October 2014 - September 2016 (2 years)
+Irvine, CA
+ 
+Page 5 of 9
+ 
+ 
+Sigma Infosolutions is a recognized leader in delivering proven business
+and IT solutions for SMB's and large organizations. We leverage decades of
+business process, vertical industry, and leading-edge technology experience
+to understand each organizations unique needs. From business strategy
+development through application deployment, we are committed to helping
+clients quickly realize measurable business value and achieve sustainable
+ROI.
+- Lead and manage industry practitioners in FinTech, Insurance, Mobility, Real
+Estate & Internet Retail by providing strategic direction and fostering cross
+team collaboration.
+- Develop a shared vision, know when and how to put together teams to solve
+problems.
+- Select and empower team members and individual assignments and
+influence others at all levels of the organization.
+- Identify Alliance relationships and leverage them for client success
+- Encourage high standards of performance and inspire teams to define new
+opportunities and continuously improve the organization
+Director and Co-Founder
+April 2004 - September 2014 (10 years 6 months)
+Irvine, CA
+Sigma Infosolutions is a global IT & Product Engineering services company.
+Sigma Infosolutions specializes in the execution of strategic initiatives for
+business leaders. We represent an organization dedicated towards providing
+intelligent and reliable IT solutions for all your growing business needs. Sigma
+Infosolutions is headquartered in Irvine, CA has operations in India as well.
+The India Development Center is located in Bangalore and Ahmedabad. The
+company is expanding its network in other cities across India. We are an ISO
+9001: 2008 & ISO 27001: 2005 certified company. 
+Our expertise is in understanding vague requirements of businesses &
+transforming them into ROI based software solutions. Customization of
+solutions to meet individual business needs has been our biggest strength and
+most important reason for success. We provide a range of execution-oriented
+services to a diversified, global client base in a variety of industries.
+Canon Information & Imaging Solutions
+Sr. Lead Engineer
+March 2001 - August 2013 (12 years 6 months)
+Irvine, CA
+ 
+Page 6 of 9
+ 
+ 
+- Research new technologies, prototyping
+- Innovation and Engineering Development
+- New Product Development 
+- Link technologies to add value to business
+Technologies
+Programming: C, C++, Microsoft .NET (C# and ASP.net), Java, Grails, PHP,
+Python, Ruby on Rails (RoR), Node.js
+Databases: SQL Server, NoSQL (MongoDB, CouchDB, Cassandra, Hbase,
+Neo4j), MySQL
+Frameworks: WCF, WPF, Zend, MapReduce, JavaScript, jQuery, AngularJS,
+Kendo UI
+Web Services: REST, SOAP
+Platforms: Windows, Linux, Clusters, Mobile (Android and iOS)
+Others: Machine Learning, Computer Vision (OpenCV, OpenCL), Hadoop,
+GridGain, Cluster Computing, GPGPU Programming (CUDA, OpenGL,
+DirectX)
+Infosys
+Sr. Systems Analyst
+February 1998 - February 2001 (3 years 1 month)
+Bengaluru Area, India
+As a part of the Infosys Banking Group (EdgeVerve - Finacle) drove innovation
+which is powering 16.5 % of world’s banked population. The Finacle Banking
+Solution suite has been rated the industry leader by independent analysts
+for several years now. The solution suite comprises a comprehensive set
+of solutions to address a range of requirements for digital age retail banks.
+You can choose one or any combination of these componentized solutions to
+power your bank’s digital transformation at your own pace.
+Finacle is used by banks across 84 countries that serve over 450 million
+customers.
+Some of the functional areas that were developed are:
+- Core Banking
+- Online Banking
+- Mobile Banking
+- Digital Wallet
+- Analytics
+ 
+Page 7 of 9
+ 
+ 
+- Treasury
+- Payments 
+- Loan Origination & Servicing
+- CRM 
+Roles Included
+- Software Design & Architecture
+- Software Development
+- Requirement Analysis
+- Project Lead and Management
+Finacle was identified as a long term leader by Forrester for offering
+comprehensive banking functionalities. 
+Finacle from Infosys was positioned as the leader in Gartner Magic Quadrant
+for International Retail Core Banking.
+IDC Financial Insights released in its new IDC MarketScape report, and noted
+Infosys-Finacle as a "leader". The solution is considered to exhibit high levels
+of strategic vision, demonstrable an ability to deliver functionality and support
+to their clients. 
+Finacle Mobile Banking and e-Banking solutions were rated as ‘Best-in-Class’
+for security and authentication capabilities and enterprise support, in a report
+published by CEB TowerGroup analysts
+Finacle was recognized as a leader among Omnichannel Banking Solutions.
+Reliance Industries
+Assistant Manager
+August 1996 - February 1998 (1 year 7 months)
+Instrumentation and Controls, Software Control Systems, Distributed Control
+System, Project Planning and Co-ordination
+Education
+Indian Institute Of Information Technology Allahabad 
+MBA, Information Technology · (1998 - 2000)
+Doctor Babasaheb Ambedkar Marathwada University
+ 
+Page 8 of 9
+ 
+ 
+BS, Electronics · (1992 - 1996)
+ 
+Page 9 of 9
+ 
+ 
+Contact
+www.linkedin.com/in/
+singhvishwajeet (LinkedIn)
+vishwajeetsingh.com (Personal)
+Top Skills
+Presales
+Global Delivery
+People Management
+Vishwajeet Singh
+CTO | Entrepreneur | Atlassian Expert
+Pune, Maharashtra, India
+Summary
+Experienced Serial Entrepreneur | Subject Matter Expert for
+Atlassian Tools | Agile , DevOps, Project Management, and ALM
+Specialist
+With a passion for innovation and a track record of success, I
+am a serial entrepreneur who has worked extensively in both the
+enterprise and consumer spaces. I specialize in leveraging Atlassian
+tools such as Jira, Jira Agile, Jira Service Desk, and Confluence
+as a subject matter expert, empowering companies of all sizes to
+maximize their ROI from their ALM/DevOps tools infrastructure.
+Over the past decade, I have honed my expertise in the DevOps,
+Project Management, and ALM domains. I have collaborated with
+numerous startups, guiding them in implementing best practices and
+achieving seamless integration of their development and operations
+processes. With a deep understanding of the industry, I have
+trained over 1000 professionals on various Atlassian and DevOps
+tools, equipping them with the skills to drive efficient workflows and
+achieve exceptional results.
+Passionate about open source technologies and the potential
+they hold, I have dedicated my career to harnessing the power of
+Atlassian tools, DevOps, CI/CD, and automation. I have hands-
+on experience in coding with Python and Java, having developed
+web applications from scratch and created custom integrations and
+plugins for Atlassian tools.
+Currently, I am excited about the intersection of NLP, AI, and
+deep learning with DevOps. My focus lies in exploring innovative
+ways to enhance the adoption and overall experience of DevOps
+methodologies through cutting-edge technologies. By leveraging
+these advancements, I aim to revolutionize the industry and drive
+continuous improvement in software development practices.
+ 
+Page 1 of 3
+ 
+ 
+Let's connect to explore opportunities to collaborate and drive
+transformative change in the DevOps landscape.
+Experience
+Amrut Software 
+5 years 10 months
+Chief Operating Officer
+June 2023 - Present (10 months)
+Pune, Maharashtra, India
+Managing Sales and Delivery @ Amrut .
+Chief Technology Officer
+June 2018 - Present (5 years 10 months)
+Pune Area, India
+EZMove.in
+Co Founder
+July 2013 - May 2018 (4 years 11 months)
+Pune Area, India
+Sensible Softwares Private Limited
+Co Founder
+November 2009 - July 2013 (3 years 9 months)
+Pune Area, India
+Responsible for driving development of SAAS project management tool
+BootStrapToday.
+Geometric Ltd.
+3 years 2 months
+Senior Software Engineer
+August 2009 - November 2009 (4 months)
+Pune Area, India
+Instrumental in setting up Enterprise ALM Infrastructure for Geometric
+Software Engineer
+October 2006 - August 2009 (2 years 11 months)
+Pune Area, India
+Instrumental in setting up Enterprise ALM Infrastructure for Geometric
+ 
+Page 2 of 3
+ 
+ 
+Installed & Managed various tools  like Subversion, Jira, Quickbuild, Source
+Monitor etc
+Developed plugins for Jira for automatic project initiation , integration with
+MSP , SAP & Salesforce.
+Understanding business requirements and translating them to tool
+configurations & customisation.
+Defined & Setup workflows for HR, PMO, Inside Sales, Legal in Jira  
+Education
+Army Institute of Technology
+BE, Mechanical · (2002 - 2006)
+ 
+Page 3 of 3
+ 
+ 
+Contact
+www.linkedin.com/in/tushar-
+pathare (LinkedIn)
+Top Skills
+Microservices
+ClickHouse
+DOOH
+Tushar Pathare
+Founder and CTO at IMERZO
+Pune, Maharashtra, India
+Summary
+With over 12+ years of industry expertise, I possess extensive
+proficiency as        , ,   ,          .
+I thrive on the complexities inherent in         , - settings. These
+environments serve as fertile ground for  , ,   substantial contributions
+that fuel organizational and customer triumph.
+.
+Experience
+IMERZO
+Founder and CTO
+May 2023 - Present (11 months)
+Pune, Maharashtra, India
+Lemma
+Architect
+May 2022 - April 2023 (1 year)
+Pune, Maharashtra, India
+’      
+● Architected the DOOH (Digital Out-of-Home) Ad Platform, ensuring its
+seamless functionality, performance and low latency
+● Enhanced the Ad Server architecture to effectively support and monetize
+the CTV (Connected TV) platform, leveraging cutting-edge techniques and
+technologies
+● Explored, evaluated and deployed Geo DNS solution to optimize Ad Serving
+’     
+● Streamlined processing of billions of daily ad requests and associated
+tracking events, each containing 100+ data segments
+ 
+Page 1 of 3
+ 
+ 
+-      
+, , ,   .
+,  ,     ,  
+PubMatic
+8 years 5 months
+Architect
+April 2021 - May 2022 (1 year 2 months)
+Pune, Maharashtra, India
+- saved tens of millions with tech and business optimizations
+an Ad Serving architecture that efficiently processed 500     .
+Conducted detail-oriented reviews and revisions of software designs to     ,
+while also suggesting architectural enhancements.
+Expertly resolved complex technical challenges and provided    for all post-
+launch ad serving applications.
+Implemented a   for application , , / , ,   .
+Principal Software Engineer
+January 2017 - April 2021 (4 years 4 months)
+Pune Area, India
+-     service to comply with the RTB protocol standard, enabling seamless
+support for   . This involved complex and extensive modifications across critical
+modules such as PMP, Auction, Impression Tracking, and data analytics.
+Led the pivotal initiatives in        , an operating system. This strategic migration
+yielded a  25%   .
+Senior Software Engineer
+January 2014 - December 2016 (3 years)
+Pune Area, India
+Architected and guided the development process for a   .
+Sokrati
+Senior Software Engineer
+February 2012 - January 2014 (2 years)
+ 
+Page 2 of 3
+ 
+ 
+Designed and successfully delivered a -          .
+Designed and implemented a set of  for the core platform, specifically focused
+on     .
+Conducted comprehensive reviews and made revisions to software designs
+to   , while also   .
+Persistent Systems
+Software Engineer
+January 2010 - January 2012 (2 years 1 month)
+Collaborated with the performance optimization team to    through a series of
+projects.
+Redesigned the application to seamlessly integrate with a - .
+Implemented an -   to significantly optimize data access rates.
+Education
+University of Pune
+Master of Science (MSc), Computer Science · (2008 - 2010)
+University of Pune
+Master's degree, Computer Science · (2008 - 2010)
+ 
+Page 3 of 3
+ 
+ 
+Contact
+www.linkedin.com/in/urvashityagi
+(LinkedIn)
+Top Skills
+Software Development
+Cloud Computing
+Product Management
+Honors-Awards
+Robert H. Goddard Alumni Award
+for Outstanding Professional
+Achievement
+30+ Successful Alumni of Worcester
+Polytechnic Institute
+Top 100 CIOs and CTOs as part of
+2021 Tech Inclusion conference
+Top 100 Leaders in Technology
+Publications
+Putting Technology—and
+Technologists—First: Digital
+Transformation at ADP
+Stay Focused on Customer
+Experience for Digital
+Transformation Success
+GirlHacks Went Virtual, Projects
+Focused on COVID-19 and Social
+Justice
+There’s a diversity problem in the
+tech industry and it’s not getting any
+better
+The East by Northeast
+Urvashi T.
+Chief Technology Officer
+United States
+Summary
+Entrepreneurial Technologist and Engineering Leader with over two
+decades experience spanning consumer and enterprise platforms
+and applications, at ADP, Amex, Amazon, Microsoft, IBM, Hedge
+fund, Academia, and Startups.
+Responsible for global engineering teams for product strategy,
+design, architecture, development, delivery, and post-production
+support of highly scalable and reliable software systems and
+services.
+At ADP, set up the Office of the CTO to lead the company's
+technology transformation, establish a long-term technology vision
+and strategy, converge user experience across the portfolio,
+rationalize tech stacks, build shared services, modernize developer
+experience.
+At Amex, streamlined product investments, built the leadership team,
+launched Amex-Amazon co-branded products for B2B, embedded
+AI/ML capabilities into commercial products.
+At Audiobooks division of Amazon, led the launch of mobile store
+worldwide, led the evolution to a microservices architecture,
+launched platform for international expansion, led entry into the
+enterprise business, built machine learning-enabled search traffic
+and marketing technology teams focusing on growth, engagement,
+and monetization.
+At Microsoft, worked on Office platform and applications to deliver
+Office 365 and Exchange services. At IBM, worked on the Rational
+line of products. Earlier, held various engineering leadership roles at
+start-ups, academia, and in computer-aided manufacturing.
+I am passionate about delivering meaningful products to users,
+scaling teams and architecture, and building technology that
+eliminates barriers to business growth.
+ 
+Page 1 of 6
+ 
+ 
+I have been a speaker at conferences and events for ADP, Amex,
+Amazon, Microsoft, IBM, and panelist, judge at events, hackathons,
+universities, particularly for tech talks, diversity in tech, and
+technology for social good.
+[Views expressed here are my own and do not reflect the views of
+my employer]
+Experience
+ResMed
+Chief Technology Officer
+January 2022 - Present (2 years 3 months)
+Responsible for technology strategy and delivery of global customer-facing
+products, data, AI, core platforms, corporate infrastructure, and corporate
+systems.
+AdvaMed
+Member Board of Directors
+July 2023 - Present (9 months)
+Worcester Polytechnic Institute
+Board Member
+2018 - Present (6 years)
+Bringing educational institutions in STEM closer to the industry needs of
+tomorrow
+Various Early Stage Companies
+Limited Partner and Advisor
+September 2017 - Present (6 years 7 months)
+Angel investor and advisor in SaaS/Cloud companies.
+ADP
+Chief Technology Officer
+September 2019 - January 2022 (2 years 5 months)
+Greater New York City Area
+Global Products & Technology
+American Express
+ 
+Page 2 of 6
+ 
+ 
+Vice President, Global Head of Commercial Data Engineering
+October 2017 - September 2019 (2 years)
+Greater New York City Area
+Commercial Payments, Global Data Platform for Operations and Analytics,
+B2B data integrations, AI/ML Center of Excellence for commercial business,
+Launched Amex-Amazon co-branded card for business
+Amazon
+Director Of Engineering
+May 2014 - October 2017 (3 years 6 months)
+Greater New York City Area
+Amazon Audiobooks - Audible
+Launched mobile store worldwide, Evolved tech stack from monolithic to
+microservices, Launched a scalable platform for international expansion,
+Lead entry into the enterprise business (B2B), Built CRM and Search Traffic
+technology teams focused on growth, engagement, monetization
+CRM Systems and Marketing Technology:
+- Built systems that empowered digital marketers to engage with customers,
+using the right content,  at the right time, and on their channel of preference.
+Leveraging automation, personalization, data science, and machine learning,
+systems built to scale and deployed globally
+Speaker & Panelist@
+WPI WIN Grant Awards: Keynote speaker
+Women Engineer's conference We17: Speaker - The Case of Two Gigs
+NYC Lean Interns: Speaker - Stay In & Thrive, https://
+leaninternaudible.splashthat.com/
+Girls Who Code - Panelist
+NYC Pre Grace Hopper - Panelist
+Audible Women's group: Speaker - Diversity in Tech, Why Efforts Fail?
+iCIMS
+Senior Engineering Manager
+2013 - 2014 (1 year)
+New York City Metropolitan Area
+Oversaw software development, automation, performance engineering.
+Responsible for setting the vision, goals, strategy, architecture, agile teams.
+ 
+Page 3 of 6
+ 
+ 
+Bridgewater Associates
+Technology in Client Services
+2013 - 2013 (less than a year)
+Microsoft
+Senior Engineering Manager
+2008 - 2013 (5 years)
+Greater New York City Area
+Application & Services Division, Microsoft Office Division, Servers & Tools
+Business
+- Managed and shipped releases in Office, Exchange Online, Office 365
+Service, Application Virtualization
+- Managed Software Development Engineering, Build Engineering and
+Dogfood teams, focusing on continuous integration, automated verification and
+deployments
+Conference Speaker, Tech Talk@ 
+Debugging Application Virtualization for third party development
+https://tr10.mytechready.com/
+http://en.wikipedia.org/wiki/TechEd
+http://www.microsoft.com/en-us/news/events/mvpsummit/
+Guest Speaker@http://sqgne.org/2009-10.html
+http://www.wpi.edu/academics/cs/career-outlook.html
+IBM
+Team Lead, Architect
+September 2003 - October 2008 (5 years 2 months)
+Greater Boston Area
+IBM Software Group
+- Shipped releases for Requirements Management product line, Configuration
+Management, various cross-product integrations
+-Architected a multi-product solution to address business problem of
+regulatory compliance, presented at RSDC conference. Also speaker at Voice
+conference, and customer residencies 
+-Nominated and selected for IBM Technical Resource program, executive
+leadership program (only 13 participants from IBM WW), IBM Ambassador for
+Academic Initiative for 3 years
+ 
+Page 4 of 6
+ 
+ 
+Conference Speaker@
+https://www.ibm.com/developerworks/community/blogs/rsdc
+NuGenesis Technologies (acquired by Waters Corp.)
+Software Engineer
+May 2001 - September 2003 (2 years 5 months)
+Worcester Polytechnic Institute
+Student Advisor, Curriculum and Admissions committee
+2000 - 2001 (1 year)
+Worcester, MA
+Indian Institute of Management, Ahmedabad
+Academic Associate
+July 1998 - July 2000 (2 years 1 month)
+Ahmedabad Area, India
+Facilitated management program, published case studies, provided consulting
+services, conducted industry analysis, proposed technology implementations
+Guest Speaker@
+http://www.isro.org/isrocentres/sac.aspx;
+http://www.anarchem.com/about-anar.php
+Center for Development of Advanced Computing
+Visiting Faculty
+2000 - 2000 (less than a year)
+Ahmedabad Area, India
+- Taught Computer Science courses to industry executives including from
+government organizations
+- Designed custom curriulum for system design, software development, and
+software testing for employees at Indian Space Research Organization (ISRO),
+conducted training programs
+Institute of Chartered Financial Analysts of India
+Adjunct Faculty
+1999 - 2000 (1 year)
+Ahmedabad Area, India
+Professor of Operations Research and Management, at ICFAI buisness school
+ 
+Page 5 of 6
+ 
+ 
+Batliboi Ltd
+Senior Design Engineer
+1994 - 1999 (5 years)
+Surat, Gujarat, India
+Education
+Worcester Polytechnic Institute
+Master of Science (M.S.)   · (2000 - 2001)
+Veer Narmad South Gujarat University
+Master of Business Administration (M.B.A.)  · (1998 - 2000)
+Birla Vishvakarma Mahavidyalaya
+Bachelor of Engineering (B.E.)  · (1990 - 1994)
+ 
+Page 6 of 6
+ 
+ 
+Contact
+www.linkedin.com/in/manmeet-
+dhody-01710a2 (LinkedIn)
+Top Skills
+Software Development
+Enterprise Software
+Algorithms
+Manmeet Dhody
+Chief Technology Officer Paytm
+Noida, Uttar Pradesh, India
+Summary
+Enabling business and people through technology. 
+Experience
+Paytm
+4 years
+Chief Technology Officer
+May 2023 - Present (11 months)
+Noida, Uttar Pradesh, India
+Chief Technology Officer - Payments
+April 2020 - May 2023 (3 years 2 months)
+Noida, Uttar Pradesh
+RIOT LABZ PRIVATE LIMITED
+Board Member
+June 2022 - November 2023 (1 year 6 months)
+Noida, Uttar Pradesh, India
+Amazon
+7 years 10 months
+Director Software Development
+November 2015 - March 2020 (4 years 5 months)
+Senior Manager, Software Development Engineering
+June 2012 - October 2015 (3 years 5 months)
+Microsoft
+6 years 6 months
+Principal Development Lead
+September 2011 - June 2012 (10 months)
+Senior Development Lead
+January 2006 - September 2011 (5 years 9 months)
+ 
+Page 1 of 2
+ 
+ 
+Work in the Bing team and own multiple services that ship as part of the Bing
+search experience.
+Quark
+Director
+1999 - 2006 (7 years)
+Education
+Delhi College of Engineering
+Bachelor of Engineering, Computer Engineering · (1991 - 1995)
+ 
+Page 2 of 2
+ 
+ 
+Contact
+www.linkedin.com/in/
+mrsanjaykataria (LinkedIn)
+Top Skills
+CTO
+Technical Leadership
+Perl
+Languages
+English (Native or Bilingual)
+Sanjay Kataria
+Chief Technology Officer
+Pune, Maharashtra, India
+Summary
+Diligent, energetic Technology Leader with broad multi platform
+(mobile, connected devices, web) consumer software experience. A
+team focused approach & ability to mentor teams to achieve stretch
+goals and deliver quality products in fast-paced settings. Possess
+excellent communication, collaboration, leadership, hands-on coding,
+and analytical and problem-solving skills.
+Experience in developing a tech center from ground up with
+40+ employees and growing, looking after Staff Management &
+Development, Recruitment, Vendor Evaluation and Management,
+Project Management, Organizational Planning, Financial Planning
+and Management.
+I am always interested in talking and exchanging ideas on: Mobile
+Learning, Home Automation, Voice enabled products/services, AI &
+Startups. 
+• Masters in Computer Science with a Gold Medal (1st Rank) from
+Pune University with more than 19+ years of software industry
+experience. 
+• Diverse experience in Client handling and working in multi-cultural
+teams in UK/Europe & North America with companies like Motorola,
+Nokia, Sony, Fujitsu, Good Technologies, DTS (XPeri).
+• I consider myself an advanced C / Python developer and am
+passionate about developing quality software in C / Python. Anyone
+needs help give me a shout.
+• I get very excited & passionate about Startups, New Tech Ideas
+and would love to help/engage in such initiatives.
+Experience
+ 
+Page 1 of 3
+ 
+ 
+Upperthrust Technologies Private Limited
+Consulting CTO 
+January 2024 - Present (3 months)
+Pune, Maharashtra, India
+logituit
+Vice President - Mobility
+May 2014 - March 2024 (9 years 11 months)
+Pune
+Currently working a Vice President - Mobility, developing logituit - (former
+emTarang TechLabs Pvt Ltd) Pune center, and also working on multiple
+Mobile Apps & Security projects as Architect.
+Sony Electronics
+Technical Delivery Manager - Security
+August 2010 - June 2015 (4 years 11 months)
+Bangalore
+Equivital, U.K - (Former Hidalgo Limited)
+Lead Engineer
+December 2008 - May 2010 (1 year 6 months)
+Nokia, U.K.
+Senior Software Engineer
+September 2008 - December 2008 (4 months)
+Motorola Inc, Cambridge, UK
+Senior Software Engineer
+August 2006 - August 2008 (2 years 1 month)
+Ruksun Software Technologies Pvt Ltd. Pune (Now known as Amiga
+India Development)
+Technical Lead
+2003 - 2006 (3 years)
+Education
+Master of Computer Science - University of Pune
+M.C.S, Computers · (2001 - 2003)
+ 
+Page 2 of 3
+ 
+ 
+Bachelor of Computer Science - University of Pune
+B.C.S, Computers · (1999 - 2001)
+ 
+Page 3 of 3
+ 
+ 
+Contact
+www.linkedin.com/in/tedgaubert
+(LinkedIn)
+goo.gl/kEQ9BL (Personal)
+Top Skills
+Artificial Intelligence
+Data Science
+Machine Learning
+Publications
+Highly parallel fabrication
+of nanopatterned surfaces
+with nanoscale orthogonal
+biofunctionalization imprint
+lithography
+Modulation of Endothelial Cell
+Migration via Manipulation of
+Adhesion Site Growth Using
+Nanopatterned Surfaces
+Nanoscale orthogonal
+biofunctionalization imprint
+lithography (NOBIL) and its
+applications for studying nanoscale
+cell surface interactions
+Ted Gaubert, PhD, MBA
+Chief Technology Officer
+Dallas-Fort Worth Metroplex
+Summary
+Ted Gaubert serves as Chief Technology Officer at Graphite.
+Prior to Graphite, he was Chief Technology Officer of Global Product
+Engineering at Dun & Bradstreet (NYSE: DNB), a leading provider
+of data, analytics, SaaS, and API products. His engineering teams
+were responsible for 30+ SaaS products {FinTech, Sales, Marketing,
+Data Management, Risk, Credit and Compliance} which generated
+over $1.5B in annual revenue. He personally invented and patented
+three artificial intelligence technologies as well as leading technology
+innovation across the portfolio.
+Prior to D&B, he founded Noodle.ai, one of the first pure play artificial
+intelligence companies. Dr. Gaubert is credited with coining and
+trademarking Enterprise AI™ as well as defining Enterprise AI™ as a
+market category. He grew the company’s valuation from $0 to $300M
++. The company won awards such as Top 10 companies to work
+for (LinkedIn), Forbes Top 50 "Most promising AI Companies", and
+Gartner Cool Vendor. 
+His work on inventing Enterprise AI™ technologies rocketing the
+company's growth with headcount growing by 250% in the first 24
+months. He attracted $70M+ in external capital investments including
+TPG Capital, Dell Technologies, Mitsubishi, SMS and others.
+Prior to Noodle.ai, he was CTO at Infosys Consulting and helped
+grow revenue to $800M. That venture was later merged into Infosys
+(NYSE: INFY) Worldwide Consulting & Systems Integration (C&SI),
+which resulted in a growing business unit of over 30,000 employees
+and $2.5B in annual revenue. C&SI was later refocused into
+management consulting services (MCS) as "Tip of the Spear" for
+Infosys.  When he left, Infosys was over 200,000 employees and had
+a market cap of $40B.
+ 
+Page 1 of 4
+ 
+ 
+Ted is a globally recognized technology thought leader, innovator,
+and disruptor. He is one of the handful of selected executives in the
+official LinkedIn Influencer program with 125,000+ followers.
+Expertise: AI, Machine Learning (ML), Natural Language Processing
+(NLP), NLU, NLG, GAN, knowledge graphs (KG), RDF, SPARQL,
+ontology, neural networks, large language models (LLM), CNN,
+DNN, LSTM, Transformers, BERT, GPT, Deep Learning
+Experience
+Graphite Health
+Chief Technology Officer
+2021 - Present (3 years)
+I lead the Software Engineering, Product Management, Analytics and Data
+Science business functions.
+Dun & Bradstreet
+Chief Technology Officer | Global Product Engineering | AI (NYSE:
+DNB)
+2020 - 2021 (1 year)
+San Francisco Bay Area
+I led global product engineering across 30+ SaaS products that span FinTech,
+Sales, Marketing, Data Management, Risk, Compliance and Credit. My
+engineering team spanned the globe with ~650 engineers building and
+supporting products with a combined revenue of $1.5B+.
+The D&B Data Cloud is the world's most comprehensive B2B data sets:
+• 420M+ business covered
+• 243 countries and territories 
+• 16,000 data sources
+Noodle.ai
+Chief Technology Officer | AI
+2016 - 2020 (4 years)
+San Francisco Bay Area
+CTO of Noodle.ai, the Enterprise Artificial Intelligence® company. Ranked as
+"Top Company to Work For" by LinkedIn.
+• Lead innovation and development of core AI technologies and products
+ 
+Page 2 of 4
+ 
+ 
+• Grew valuation from $0 to $300M+
+• Member of Executive board
+• Rocketed companies growth by 250% in first 24 months
+• Raised $70M+ in investor funding
+• Built strategic partnerships with Intel, Dell and SMS
+Infosys
+Chief Technology Officer - Global MCS (NYSE: INFY)
+2011 - 2016 (5 years)
+Chief Technology Officer within Global MCS. Infosys (NYSE: INFY) is a
+multinational information technology corporation. In 2016, the company had
+more than 200,000+ employees and a market cap of $40B USD
+• Led the Technology & Innovation Group for Global Management Consulting
+Services (MCS). 
+• Vishal Sikka, CEO, positioned MCS as "Tip of the Spear" for driving Infosys
+revenue.
+Infosys Consulting
+Chief Technology Officer
+2008 - 2011 (3 years)
+• Responsible for technologies and platforms that helped rapidly scale
+revenues
+• Led technology in growing the company by $800M in annual book-of-
+business
+XenTec Systems
+Chief Executive Officer
+1996 - 2008 (12 years)
+XenTec has provided data driven enterprise application development and
+hosting. The company specializes in the design of large scale, computationally
+intensive, event-driven analytics systems. 
+MSR Development
+Software Engineer
+1994 - 1996 (2 years)
+San Diego, CA
+Education
+ 
+Page 3 of 4
+ 
+ 
+The University of Texas at Austin
+Doctor of Philosophy - PhD, Engineering
+Texas McCombs School of Business
+Master of Business Administration - MBA, Business Administration and
+Management, General
+The University of Texas at Austin
+Master of Science - MS, Engineering
+The University of Texas at Austin
+Bachelor of Science - BS, Electrical and Computer Engineering || Computer
+Science
+ 
+Page 4 of 4
+ 
+ 
+Contact
+www.linkedin.com/in/aaron-
+elmore-06857315 (LinkedIn)
+Top Skills
+Technology Trends
+Servers
+CCNA
+Aaron Elmore
+Chief Technology Officer
+Dickinson, Texas, United States
+Summary
+Specialties: a + certified,  ccna,  cisco,  consulting,  database
+administration,  e - commerce,  microsoft networking,  microsoft
+office 2000,  network installation,  networking,  novell,  payroll
+processing,  quickbooks,  quicken,  web site production,  EoL
+hardware/software removal/repurposing for non-profits
+Experience
+Phoenix TMS
+Chief Technology Officer
+July 2017 - Present (6 years 9 months)
+Houston, Texas Area
+Managing relationships between non-profits and corporate donors.
+Infamous Design
+Owner
+May 2012 - Present (11 years 11 months)
+Corporate web design
+Trinity Networking
+Proprietor
+May 2005 - Present (18 years 11 months)
+Networking Consulting
+Payroll
+Network Installation
+Server Maintenance
+Local Philanthropic Work
+Kozmo Computers
+Proprietor
+February 2002 - May 2005 (3 years 4 months)
+Networking Consulting
+Payroll
+Network Installation
+ 
+Page 1 of 2
+ 
+ 
+Server Maintenance
+Education
+San Jacinto College
+ 
+Page 2 of 2

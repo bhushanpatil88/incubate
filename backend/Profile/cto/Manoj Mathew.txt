@@ -1,0 +1,325 @@
+ 
+ 
+Contact
+www.linkedin.com/in/manmat
+(LinkedIn)
+Top Skills
+Software Development
+Requirements Analysis
+Agile Methodologies
+Honors-Awards
+Spot Award for Best Performance
+10 US Patents
+Achiever Award - Innovation and
+Productivity
+Patents
+Transmission of Medical Image data
+Parallel Processing for generating a
+thinned image
+Timing of Displayed Objects
+Image Labeling using Parallel
+Processing
+Processing of medical image data
+Manoj Mathew
+Chief Technology Officer
+Greater Los Angeles, California, United States
+Summary
+My focus has been on strategies which takes a deep dive into
+market dynamics and customers’ needs by ushering a potent mix
+of business acumen and technology. My hands on development
+and business experience with background in engineering and
+business have allowed me to spearhead numerous major projects
+with high-level vision for leadership and ground-level understanding
+for oversight. 
+I help align the team to ensure customers get their needs met in a
+seamless fashion. I help focus on execution of a plan and constantly
+test results and fine tune for peak performance.
+I’m a proven operating executive with significant turnaround and
+growth experience, successful with generating profits and creating
+shareholder value in both public and private companies by aligning
+strategies with customer and market demands. 
+My passion for algorithms, problem solving and deep-dive into
+details has helped in obtaining 7 Patents and number of Patent
+pending applications with the US Patents & Trademark office
+(USPTO).
+Today, my role is to create and refine a business vision along with
+the stakeholders of your organization and to act as a sounding
+board and thought leader as we break that vision down into
+development deliverables' with a focus on ROI. Through years of
+industry experience working with large companies in research &
+development, business development, and account management, I
+like to see and see business thrive by being a transformation agent
+by using technology as a vehicle that powers progress.
+Leadership
+• Turnarounds & Transformation
+• Change Leadership
+• ROI Focused
+ 
+Page 1 of 9
+ 
+ 
+Business Development
+• Strategic Marketing with analytics and business intelligence
+• Global Business Development 
+• Focus on Revenue growth 
+• Account Management
+Engineering Strategy
+• Business Problem Solving & Approach
+• Process Optimization
+• Model Driven Development
+• Enterprise Modelling and Specialty Engineering
+• Corporate and New Venture
+Experience
+LendingUSA
+7 years 5 months
+Chief Technology Officer
+November 2016 - Present (7 years 5 months)
+Greater Los Angeles Area
+LendingUSA is a technology-driven financing solution that gives merchants
+the power to offer affordable financing to their customers - right at the point
+of sale. LendingUSA was recognized as the #1 “Emerging Lending Platform
+of the Year” of 2018 at Lendit for the company with the "greatest potential to
+impact the future of online lending."
+As a technology leader within the organization, my focus is to produce
+seamless synergy between  organizational goals and empower cross-
+functional teams to collaborate towards optimizing our talent and capabilities. 
+Product Development - Architect and provide leadership to the innovative
+technology platform for all aspects of the loan origination, sales, marketing and
+servicing process. 
+Strategic Planning - Achieve and exceed organizational goals by identifying
+and prioritizing development initiatives and setting timetables
+ 
+Page 2 of 9
+ 
+ 
+Collaboration - Establish governance processes to ensure that objectives are
+achieved risks are managed appropriately
+Security - Design and execution of information security plan that protects
+organizational confidentiality and integrity
+PM - Establish and supervise the software development process setting
+objectives with measurable metrics and transparency
+Quality - Establish and supervise a quality assurance process. Establish
+application deployment process and critical production systems
+Customer Service - Establish customer service and DevOps process. Establish
+tech driven process to support resolution of customer issues and improve
+application usability 
+Ops and Compliance - Maintain up-to-date knowledge of industry trends,
+regulatory environments and emerging technologies
+A sense of Humor and Compassion – Amid all these buzzwords, we tend
+to forget what we as social beings strive for; to be recognized and provide
+a sense of ownership and allay the fears of making mistakes. As a servant
+leader, a passionate and empowered team brings cheer, no matter what the
+season.
+Head of Servicing & Collections
+October 2019 - June 2023 (3 years 9 months)
+Greater Los Angeles Area
+LendingUSA is a technology-driven financing solution that gives merchants
+the power to offer affordable financing to their customers - right at the point
+of sale. LendingUSA was recognized as the #1 “Emerging Lending Platform
+of the Year” of 2018 at Lendit for the company with the "greatest potential to
+impact the future of online lending."
+As the head of Servicing & Collections, my focus has been to lead high-
+performing customer service and collections team, leveraging the power of
+technology. Have valuable insights into risk-driven decisioning at origination,
+post funding data-driven analytics becomes much more pertinent. My role
+involves strategic decision making related to every customer interaction
+throughout their lifecycle, introducing products and tools suitable to handle
+ 
+Page 3 of 9
+ 
+ 
+lifestyles and credit situations. The ultimate goal being to help the company
+continue to evolve its business with the customer at the center of every
+interaction.
+TransUnion
+Board Member - Financial Services Technology Advisory
+June 2022 - Present (1 year 10 months)
+Greater Chicago Area
+Collaborate with Industry peers and TransUnion's leadership to share insights
+and opportunities around the financial sector, emerging disruptors, challenges
+and best practices.
+ServicingUSA
+Head of Servicing & Collections
+March 2020 - June 2023 (3 years 4 months)
+Los Angeles Metropolitan Area
+LendFoundry
+Chief Technology Officer and Co-Founder
+December 2013 - October 2016 (2 years 11 months)
+As a technology and Marketplace lending domain leader within the
+organization, my responsibility has been to identify complex business
+and technology problems and transform them to be enablers for the new
+generation marketplace and traditional lenders. 
+From a strategic standpoint, leveraging the strength of Microservices as a way
+of designing software as suites of independently deployable services has been
+paramount to the overall strategy. My focus also has been to empower and
+nurture cross-functional teams for rapid provisioning, monitoring, application
+development, adopt cloud scale design patterns, cultivate a solid DevOps
+culture and nurture a culture which embraces change and consciously adopts
+it. 
+So, what is the cure to Insomnia? Get comfortable with
+- .NET Core
+- NodeJS
+- MongoDB
+- Cloud Design Patterns
+- Mesosphere
+- Domain Driven Design 
+ 
+Page 4 of 9
+ 
+ 
+- Microservices and related WebAPI
+- Docker
+- Javascript
+- Angular
+- React
+- Polymer
+- Rancher
+- AWS Lambda
+- Python
+- Test Automation
+If you are not asleep yet, try the following
+- Risk-based lending platform development
+- Identity Management
+- Device and Digital Identity
+- Fraud Identification and Prevention
+- Threat Detection
+- Authentication
+- Risk-based pricing, Rules and decisioning Engine
+- Document Management
+- ACH Processing
+- Loan Servicing
+- Collections Management
+And here comes the dose to ensure that you are fully asleep
+- Nurture and build a cohesive leadership team
+- Create and reinforce clarity 
+- Communicate with team and set expectations
+- Empower, equip, RINSE and REPEAT
+So, what is leadership overall:
+Leadership is a process of interactive influence which maximizes the efforts of
+others toward the achievement of a greater good for the organization.
+Sigma Infosolutions
+12 years 6 months
+Sr. Vice President - Client Services
+October 2014 - September 2016 (2 years)
+Irvine, CA
+ 
+Page 5 of 9
+ 
+ 
+Sigma Infosolutions is a recognized leader in delivering proven business
+and IT solutions for SMB's and large organizations. We leverage decades of
+business process, vertical industry, and leading-edge technology experience
+to understand each organizations unique needs. From business strategy
+development through application deployment, we are committed to helping
+clients quickly realize measurable business value and achieve sustainable
+ROI.
+- Lead and manage industry practitioners in FinTech, Insurance, Mobility, Real
+Estate & Internet Retail by providing strategic direction and fostering cross
+team collaboration.
+- Develop a shared vision, know when and how to put together teams to solve
+problems.
+- Select and empower team members and individual assignments and
+influence others at all levels of the organization.
+- Identify Alliance relationships and leverage them for client success
+- Encourage high standards of performance and inspire teams to define new
+opportunities and continuously improve the organization
+Director and Co-Founder
+April 2004 - September 2014 (10 years 6 months)
+Irvine, CA
+Sigma Infosolutions is a global IT & Product Engineering services company.
+Sigma Infosolutions specializes in the execution of strategic initiatives for
+business leaders. We represent an organization dedicated towards providing
+intelligent and reliable IT solutions for all your growing business needs. Sigma
+Infosolutions is headquartered in Irvine, CA has operations in India as well.
+The India Development Center is located in Bangalore and Ahmedabad. The
+company is expanding its network in other cities across India. We are an ISO
+9001: 2008 & ISO 27001: 2005 certified company. 
+Our expertise is in understanding vague requirements of businesses &
+transforming them into ROI based software solutions. Customization of
+solutions to meet individual business needs has been our biggest strength and
+most important reason for success. We provide a range of execution-oriented
+services to a diversified, global client base in a variety of industries.
+Canon Information & Imaging Solutions
+Sr. Lead Engineer
+March 2001 - August 2013 (12 years 6 months)
+Irvine, CA
+ 
+Page 6 of 9
+ 
+ 
+- Research new technologies, prototyping
+- Innovation and Engineering Development
+- New Product Development 
+- Link technologies to add value to business
+Technologies
+Programming: C, C++, Microsoft .NET (C# and ASP.net), Java, Grails, PHP,
+Python, Ruby on Rails (RoR), Node.js
+Databases: SQL Server, NoSQL (MongoDB, CouchDB, Cassandra, Hbase,
+Neo4j), MySQL
+Frameworks: WCF, WPF, Zend, MapReduce, JavaScript, jQuery, AngularJS,
+Kendo UI
+Web Services: REST, SOAP
+Platforms: Windows, Linux, Clusters, Mobile (Android and iOS)
+Others: Machine Learning, Computer Vision (OpenCV, OpenCL), Hadoop,
+GridGain, Cluster Computing, GPGPU Programming (CUDA, OpenGL,
+DirectX)
+Infosys
+Sr. Systems Analyst
+February 1998 - February 2001 (3 years 1 month)
+Bengaluru Area, India
+As a part of the Infosys Banking Group (EdgeVerve - Finacle) drove innovation
+which is powering 16.5 % of world’s banked population. The Finacle Banking
+Solution suite has been rated the industry leader by independent analysts
+for several years now. The solution suite comprises a comprehensive set
+of solutions to address a range of requirements for digital age retail banks.
+You can choose one or any combination of these componentized solutions to
+power your bank’s digital transformation at your own pace.
+Finacle is used by banks across 84 countries that serve over 450 million
+customers.
+Some of the functional areas that were developed are:
+- Core Banking
+- Online Banking
+- Mobile Banking
+- Digital Wallet
+- Analytics
+ 
+Page 7 of 9
+ 
+ 
+- Treasury
+- Payments 
+- Loan Origination & Servicing
+- CRM 
+Roles Included
+- Software Design & Architecture
+- Software Development
+- Requirement Analysis
+- Project Lead and Management
+Finacle was identified as a long term leader by Forrester for offering
+comprehensive banking functionalities. 
+Finacle from Infosys was positioned as the leader in Gartner Magic Quadrant
+for International Retail Core Banking.
+IDC Financial Insights released in its new IDC MarketScape report, and noted
+Infosys-Finacle as a "leader". The solution is considered to exhibit high levels
+of strategic vision, demonstrable an ability to deliver functionality and support
+to their clients. 
+Finacle Mobile Banking and e-Banking solutions were rated as ‘Best-in-Class’
+for security and authentication capabilities and enterprise support, in a report
+published by CEB TowerGroup analysts
+Finacle was recognized as a leader among Omnichannel Banking Solutions.
+Reliance Industries
+Assistant Manager
+August 1996 - February 1998 (1 year 7 months)
+Instrumentation and Controls, Software Control Systems, Distributed Control
+System, Project Planning and Co-ordination
+Education
+Indian Institute Of Information Technology Allahabad 
+MBA, Information Technology · (1998 - 2000)
+Doctor Babasaheb Ambedkar Marathwada University
+ 
+Page 8 of 9
+ 
+ 
+BS, Electronics · (1992 - 1996)
+ 
+Page 9 of 9

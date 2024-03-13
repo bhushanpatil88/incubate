@@ -1,0 +1,103 @@
+ 
+ 
+Contact
+www.linkedin.com/in/vermaamitit
+(LinkedIn)
+Top Skills
+Multithreading
+Core Java
+Design Patterns
+Certifications
+Presenting to Senior Executives
+Learning React.js
+Azure Machine Learning
+Development: 2 Learning ML Studio
+Building Accountability into Your
+Culture
+Introduction to NFTs: Non-fungible
+Tokens
+Amit Verma
+CTO at HT Digital | Ex- Microsoft
+Delhi, India
+Summary
+I am the Chief Technology Officer of HT Digital and have over 16
+years of experience in engineering leadership, stream processing,
+databases, and agile methodologies. I am passionate about building
+scalable, reliable, and user-friendly technology solutions that
+enhance the digital experience and create value for customers and
+stakeholders.
+Before joining HT Digital in 2022, I was an Engineering Leader at
+Microsoft, where I led the Search Discovery and Playlist crews for
+Microsoft Stream, a cloud-based video service that integrates with
+Office 365. I was responsible for making videos searchable and
+discoverable across the suite and enabling users to organize videos
+and audios efficiently using playlists. 
+I also worked as the General Manager of Engineering at Paytm,
+where I built and managed the next-generation payment gateway
+that processed millions of transactions a day, improved the payment
+success rate, increased the system availability, and scaled the
+payment gateway 8x to handle increased traffic. I have multiple
+certifications in Java, interviewing techniques, and performance-
+based hiring, and I enjoy mentoring and coaching other engineers
+and aspiring leaders.
+Experience
+HT Digital Streams
+Chief Technology Officer
+August 2022 - Present (1 year 8 months)
+Delhi, India
+Microsoft
+Engineering Leader at Microsoft
+December 2020 - August 2022 (1 year 9 months)
+Noida, Uttar Pradesh, India
+ 
+Page 1 of 3
+ 
+ 
+Led Stream's Search & Discovery and Playlist crews that make Videos
+searchable and discoverable across Office 365 and enables customers to
+seamlessly organize videos/audios in an efficient way using Playlists.
+Paytm
+General Manager Engineering
+September 2016 - December 2020 (4 years 4 months)
+Noida Area, India
+Worked as General Manager Engineering at Paytm and took care of the next
+generation payment gateway.
+• Handled team of 150+ backend and frontend engineers to build next
+generation payment gateway that processes millions of transactions a day
+• Improved payment success rate by doing continuous analysis on user
+behaviour, banks success rate, and improving card routing logic.
+• Increased system availability by improving monitoring and alerting in the
+system, scaling systems, and automating failover of all components.
+• Scaled Payment Gateway 8x to handle increased traffic
+ION Trading
+Lead Software Engineer
+January 2011 - August 2016 (5 years 8 months)
+Noida Area, India
+*  Led re-architecture of Pricing engine  to enable more flexible and dynamic
+rules
+• Speed up the pricing calculation of bonds creating a multithreaded graph
+calculation layer.
+• Designed the in house ORM framework
+• Involved in increasing the performance of the application by using profiling
+tools.
+AGNITY,Inc
+Member Technical Staff
+April 2010 - January 2011 (10 months)
+Worked on Sip Server and was involved in designing and server side
+implementation of a product for Healthcare vertical.
+Technologies Using:Core Java,Spring,Hibernate,Servlets and GWT
+Protocols Used:SIP,SMTP
+Dell Perot Systems
+ 
+Page 2 of 3
+ 
+ 
+Software Engineer
+October 2007 - January 2010 (2 years 4 months)
+Worked as Java/J2ee developer for Finance and Aeronautical vertical.
+Technologies Used:Core Java,Spring,Hibernate,EJB,Struts,JSP
+Education
+Guru Gobind Singh Indraprastha University
+B.Tech, IT · (2003 - 2007)
+ 
+Page 3 of 3

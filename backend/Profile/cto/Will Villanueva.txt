@@ -1,0 +1,145 @@
+ 
+ 
+Contact
+www.linkedin.com/in/
+williamvillanueva (LinkedIn)
+www.willvillanueva.com (Personal)
+Top Skills
+Blockchain
+CTO
+Engineering Management
+Will Villanueva
+Chief Executive Officer at Element Finance
+San Francisco, California, United States
+Experience
+Element Finance
+Chief Executive Officer
+October 2020 - Present (3 years 6 months)
+ConsenSys
+Founding Researcher - Quilt (Eth 2.0, Phase 2)
+January 2019 - September 2020 (1 year 9 months)
+Bounties Network
+CTO and Cofounder
+January 2018 - January 2019 (1 year 1 month)
+- Completely open source - github.com/Bounties-Network/ blockchain
+ethereum dapp which won the UX award for best dapp. We were in the top 10
+dapps for volume of users.
+- Built infrastructure from scratch using Kubernettes on AWS to host our API
+servers at scale, batch jobs, DAG/ML pipeline (airflow and grafana), distributed
+Queue (Celery + SQS) and more. All infrastructure and data was self-healing,
+auto-scaling and attached to EFS-backed volumes for data retention in case of
+failure.
+- Built frontend from the ground up using Redux, React, Sagas,  IPFS, web3.js
+and more - explorer.bounties.network
+- Developed an entire component library from scratch -
+components.bounties.network
+- Built backend using Django, Redis, Psql, SQS, SES, cloudfront CDN, IPFS
+and more
+- Developed syncing system to listen to all events in realtime on the blockchain
+and build a mirror in a Psql for easily accessible/indexable data
+Ethereum dapp UX Award Product Video Submission - https://bit.ly/2Ti7KxF
+Component Library - https://components.bounties.network
+Open Source Repositories - https://github.com/Bounties-Network/
+6sense
+Architect and Engineering Team Lead
+ 
+Page 1 of 4
+ 
+ 
+March 2015 - February 2018 (3 years)
+San Francisco Bay Area
+- Architect, lead for newest product offering.  I trained and lead a team of 6
+engineers in building a Django, React, Redux, Saga application with a full data
+pipeline and facilitated the product build from scratch
+- Built web infrastructure to manage 200 million+ requests a day using AWS
+infrastructure, nginx (custom compiled changes in Lua), akamai/ cloudfront
+CDNs, and spinning up ELBs with autoscaling EC2 instances
+- Built an analytics javascript tag placed on Dropbox.com, Salesforce.com, and
+more.  I set up the entire end-to-end on this project, including the data feed
+and data integration, and testing framework in zombie.js/Mocha
+- Developed a data pipeline around billions of rows of data using hive, flume,
+hadoop, presto, python and java
+ProcureNow (now OpenGov Procurement)
+Cofounder & CTO
+November 2015 - November 2017 (2 years 1 month)
+San Francisco Bay Area
+I started a company from the ground up with two cofounders. We sold into
+governments (San Jose, Boston, Palo Alto, Philadelphia), and had an active
+user base. Went on to join 500 startups.
+- Built entire backend/API server in Koa.js, Node.js, PSQL, Sequelize, Mocha/
+chai, Coroutines/Generators
+- Built frontend in React, redux, immutable and webpack, mocha/chai.  The
+application is Universal/ Isomorphic and renders on both the server and client
+side.
+- Set up deployment system, queueing system, and analytics engine across
+Azure
+- Scaled application across 88 departments in Boston and across all of Palo
+Alto and San Jose
+- Data-driven design and development (heap analytics, loggly, rollbar, etc.)
+Chegg Inc. (Instaedu acquired by Chegg)
+Full Stack Software Engineer
+2015 - 2015 (less than a year)
+San Francisco
+- Built features across the full stack using node, python (django), Backbone.js/
+Marionette and React.js
+- Revamped tutor reviews and built utilizing scalable, efficient querying
+ 
+Page 2 of 4
+ 
+ 
+Ask.com
+Full Stack Software Engineer
+2014 - 2015 (1 year)
+- Rebuilt a shopping site receiving 14 million daily views using Node.js and an
+internal front-end framework
+- Built backend service in Node.js and architected front-end routing system
+- Profiled backend services
+Pathbrite
+Full Stack Software Engineer (consulting/contract)
+July 2014 - September 2014 (3 months)
+San Francisco
+-Built Pathbrite’s front-end analytics platform using Backbone.js, Google
+Charts, Travis CI, and
+PhantomJs to give teachers and administrations insight into their students’
+performance
+-Designed feature to be fully mobile compatible, response, and interactive
+using Sass and Skeleton
+-Worked on SQL database and node.js API endpoint to serve data for analysis
+and visualization
+Olympus Scientific Solutions America
+Sales Engineer
+February 2013 - April 2014 (1 year 3 months)
+-Analyzed customer data using in-house software interfaced with XML to
+pinpoint engineering gaps and discover defects in engineering material
+-Provided ultrasonic testing consultation for international sales regions,
+converting over 75% of customer visits to sales.
+Air Force Nuclear Weapons Center
+Engineer Intern
+June 2009 - June 2011 (2 years 1 month)
+- Gathered reliability and maintainability data on nuclear support equipment
+- Developed monthly report to  analyze and visualize the hardware issues for
+80% of the nuclear support equipment using VBA and MATLAB
+New Mexico Tech
+2 years 9 months
+Student Regent
+January 2009 - January 2011 (2 years 1 month)
+ 
+Page 3 of 4
+ 
+ 
+-Appointed by Governor Bill Richardson, and approved by State Senate and
+Representatives to act as a voting member of the New Mexico Tech board of
+regents
+-Moved the university to actively focus on admissions process. Worked directly
+with the director of admissions and University board to increase applicants by
+20%
+Editor-in-Chief
+May 2008 - February 2009 (10 months)
+-Hired and managed  a staff of 8 employees
+-Built an active website and increased readership by 35%
+Education
+New Mexico Institute of Mining and Technology
+Bachelor of Science (BS), Physics, Math Minor, Concentration on Biology and
+Chemistry (Pre-Med) · (2007 - 2012)
+ 
+Page 4 of 4

@@ -1,0 +1,194 @@
+ 
+ 
+Contact
+www.linkedin.com/in/
+ravimohansprofile (LinkedIn)
+www.quickbooks.com (Personal)
+www.payroll.com (Personal)
+payments.intuit.com (Personal)
+Top Skills
+Strategic Partnerships
+E-commerce
+SaaS
+Publications
+Ready for the world: Is your content
+strategy truly global?
+Ravi Mohan
+CTO | Tech Executive | Cloud Engineering and Digital
+Transformation | Advisor
+San Francisco Bay Area
+Summary
+▶︎  Technology Executive in marquee software companies such as
+Adobe, Intuit, Oracle, Symantec and startups
+• Led global cross-functional teams of 250+ people in engineering,
+product management, DevOps, SRE, QE, PMO, UX 
+• Business leader with revenue, P/L and budgeting responsibilities of
+$xxx mm+ in hypergrowth highly innovative environments, delivering
+top and bottom line efficiencies
+• Delivered extraordinary results building global, successful High
+Performing Teams of up to 250+, raising the talent bar constantly by
+attracting, retaining, coaching, growing and managing talent
+• Experience in driving large scale process improvements using Agile
+and DevOps to deliver high quality at high velocity with predictability
+and efficiency 
+• Promote a metrics and customer insights driven culture that
+innovates constantly and executes to drive growth
+▶︎ Extensive Large Global Digital Platform Expertise in Enterprise
+and Consumer 
+• Proven track record leading global digital platforms with revenues
+from $250 million to $6+ billion annually, in the enterprise and
+consumer space
+• Drove top line growth and bottom line efficiencies
+▶︎ Mission Critical hyper-scale global Platforms in multi-cloud
+environment: SaaS/PaaS/IaaS 
+• Lead mission critical, hyper scale, modern, cloud native, consumer
+and enterprise SaaS, PaaS and IaaS products delivering billions in
+revenue and serving millions of users
+• Deep experience with: Public Clouds, multi-cloud, IaaS, SaaS,
+PaaS, eCommerce, Big Data, AI/ML, Personalization, Optimization,
+SRE, DevSecOps and infrastructure
+ 
+Page 1 of 5
+ 
+ 
+• Expertise in large scale cloud transformation and migration, leading
+cloud native teams for scale, availability, resiliency, delivering
+customer delight
+• Top AWS customer, top Azure customer, and top Oracle Cloud
+Infrastructure customer (internal)
+• Partnered closely with several cloud companies such as AWS,
+Azure, OCI, New Relic, Datadog, Splunk
+▶︎ Innovation Tech Strategy, Customers, Conferences 
+• Visionary & Strategic leader who drives enterprise wide
+transformation. Experience conceiving, pitching, driving new
+initiatives, while aligning technology, people and process to realize
+the vision. 
+• Customers: senior advisor for enterprise customers, from
+Fortune 100 to smaller enterprises, on technology strategy and
+implementation
+• Experienced speaker at technology conferences
+• Advisor to leading edge tech companies in Multi Cloud, AI/ML, big
+data, enterprise solutions, e-commerce, SRE, DevSecOps
+Experience
+Credit Acceptance
+Chief Technology Officer
+October 2022 - Present (1 year 6 months)
+Datto, Inc.
+Senior Vice President of Engineering, CIO
+October 2021 - June 2022 (9 months)
+- CIO for Datto
+- SVP Engineering responsible for customer facing e-commerce, billing,
+subscription, identity/entitlement, support applications
+- Lead all Digital Experience, Technology and Integration Platforms
+- Lead Go to Market systems, CRM, ERP and and back office finance systems
+- Lead Data Engineering and Data Science teams
+- Lead SRE and Dev Ops
+- Lead Enterprise PMO, driving enterprise wide priority and roadmap
+- Lead all employee experience platforms, tools and experiences
+- Lead internal IT 
+ 
+Page 2 of 5
+ 
+ 
+- Managed multiple mergers and acquisitions 
+Oracle
+Vice President, Cloud Engineering, Oracle SaaS Cloud
+December 2018 - October 2021 (2 years 11 months)
+San Francisco Bay Area
+- Lead Oracle's rapidly growing, marquee  enterprise SaaS application, Fusion
+to the Cloud
+- Launch in new cloud regions worldwide
+- Modernize SaaS services with Cloud Native principles
+- Migrate Fusion to Oracle Cloud (OCI)
+- Launch Fusion Hybrid Services (new micro services integrated to Fusion)
+fleet wide
+- Drive large scale oracle wide initiatives spanning several teams
+- Drive customer first mindset
+- High velocity at high quality with DevSecOps
+- Drive high availability with modern SRE principles
+Adobe
+Head of Cloud Engineering Ops at Adobe
+June 2015 - December 2018 (3 years 7 months)
+San Jose
+- Lead & manage Adobe’s public cloud  (AWS, Azure), one of the largest public
+cloud implementations in the industry
+- Drive public cloud standards, best practices, governance, security and cost
+efficiency
+- Drive efficient usage of cloud, saving millions for Adobe
+- Compute fleet management, capacity, cost and RI management for internet
+scale
+- Drive multi cloud platform
+- Drive advanced compute work load management across clouds via Docker/
+container orchestration at scale using abstraction plane
+- Run storage services for hyper scale
+- Lead SRE team; Drive High Availability, Resiliency via Site Reliability
+Engineering
+- Lead Dev Ops solving for high velocity/ high quality 
+- Drive observability and  end to end monitoring improving  MTTD, MTTR,
+MTBF using open source and industry leading solutions 
+- Lead Public Cloud DB team running MySQL, MongoDB, Cassandra, AWS
+Dynamo at scale
+ 
+Page 3 of 5
+ 
+ 
+- Lead and managed end to end cloud delivery and production engineering
+stack using Github, Jira, Jenkins, Artifactory, Docker, Kubernettes, Splunk,
+New Relic, Datadog, Prometheus, security tools
+- Run a global highly secure and compliant cloud platform including FedRAMP
+and HIPAA
+- CAB member, strategic customer advisor for several partners/vendors,
+driving roadmap and strategic partnership
+- Manage and negotiate Adobe wide contracts for several multi million dollar
+contracts, saving several millions for Adobe 
+- Lead a fast growing global high performing team
+Symantec
+Director of Engineering
+2012 - 2015 (3 years)
+- Engineering and Ops leader for Global eCommerce and digital platforms
+generating $1.8 Billion revenue
+- Responsible for digital experience, web, mobile, application, platform and
+infrastructure engineering
+- Architecture and product management
+- Product strategy, technology direction and roadmap
+- Leading globally distributed engineering teams
+- Drive technology direction and investment
+- Million++ budget management
+- Building high performing teams, hiring talent at all levels to scale team
+globally
+- Drive organizational transformation
+- Vendor management
+Intuit
+Group Engineering Manager,   eCommerce, Small Business Group
+2008 - 2012 (4 years)
+Engineering leader for small business products
+- Led commerce, payments, personalization, search engineering
+- Built a high performing team with a data driven culture
+- Led cross functional engineering, QA, PgM teams
+- SaaS and in product commerce
+- Part of key product launches such as Quickbooks Online, Online Payroll and
+GoPayment
+www.quickbooks.com
+ 
+Page 4 of 5
+ 
+ 
+www.payroll.com
+http://payments.intuit.com
+eTouch
+Technology and Business Leader
+2001 - 2008 (7 years)
+Launched Enterprise Workflow, Content and Portal  platforms.
+Various Startups
+Engineering Leadership
+2000 - 2002 (2 years)
+Oracle
+Software Engineer/Architect
+1998 - 1999 (1 year)
+Education
+National Institute of Technology
+Bachelor of Engineering 
+Santa Clara University
+Business Administration and Management, General
+ 
+Page 5 of 5

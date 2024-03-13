@@ -1,0 +1,110 @@
+ 
+ 
+Contact
+www.linkedin.com/in/mahendra-
+moghe-25315713 (LinkedIn)
+Top Skills
+Robotic Process Automation (RPA)
+Artificial Intelligence (AI)
+Machine Learning
+Mahendra Moghe
+Chief Technology Officer - Global
+Mumbai, Maharashtra, India
+Experience
+Allwave-AV Systems
+Chief Technology Officer
+January 2022 - Present (2 years 3 months)
+Mumbai, Maharashtra, India
+A leader with over 25 years of experience driving technology transformation
+across large organizations.
+I have deployed and managed enterprise infrastructure and data centers for
+many large corporations like VSNL, MFUND, Taj Group of Hotels, ICICI Bank,
+IDBI Bank, Standard Chartered Bank, Motorola, DuPont, CISCO, MASTEK,
+Infosys, Fullerton India Credit Co. Ltd. Aditya Birla Sunlife Insurance Co. Ltd.
+and Johnson & Johnson.
+Few key achievements over the years -
+Strategizing, Implementing, and Managing complete IT Infrastructure & Global
+application support desk 
+Managing NOC operations for large organizations 
+Implementing Citrix Desktop Virtualisation for extremely remote branches with
+low bandwidth. (first ever case in India)
+Implementation of Microfinance Branches in rural India where power and on-
+site IT support is a major issue. Commissioning microfinance branches on
+Solar power thereby removing the need to connect to a 240 volts power.
+Setting up automation for Business Continuity by building a robust DR setup
+with a seamless switch over from Primary site to DR site. 
+Today, I am responsible for :
+Strategy, Implementation of IT across organizations
+Team Building and resource management across geographies 
+Delivering software services for large global financial and pharmaceutical
+companies
+Development of Technology Products
+Knowledge across a variety of hardware and software trends (proprietary +
+open source technologies) AI ML Big Data, Data lake
+ 
+Page 1 of 3
+ 
+ 
+Precise innovation, customer-centric solutions for Global customers
+Enterprise Cloud Security for Applications deploy Network Operations center,
+design and deliver AI ML-based products for All Wave Global Services
+customers
+I am genuinely excited about the possibility of what the future holds. 
+Feel free to connect with me on mahendra.moghe@allwavegs.com
+HCL Technologies
+NOC Head
+June 2021 - December 2021 (7 months)
+India
+Headed Global Network Operations Center for Johnson and Johnson Ltd.
+Ensure SLAs are met. Ensure Changes are coordinated implemented across
+countries like Japan, China Korea where knowledge of spoken English
+language is a rare skill. Handle Major Incidents efficiently by involving the right
+skills at right time and escalate to stake holders before there is any business
+impact across LATAM, EMEA and ASPAC region. Design and implement
+efficient process so that services are restored without any business impact.
+Select mentor and groom new engineer and arrange various training on new
+technologies like SDWAN, Cisco Meraki. Arrange tools training (Service Now,
+Logic Monitor, Moogsoft etc.) which enable efficient service delivery for huge
+and complex network of this Pharmaceutical conglomerate.
+Trident Retail Networks
+Sales Director
+February 2020 - June 2021 (1 year 5 months)
+Mumbai, Maharashtra, India
+Achieving growth and hitting sales targets by successfully managing the sales
+team
+Designing and implementing a strategic sales plan that expands company’s
+customer base and ensure it’s strong presence. Handled Major FMCG
+brands like Parle, Britannia, Chitale, Xotik Frujus, Ocean Fruit Drink and Lindt
+Chocolates.
+Managing recruiting, objectives setting, coaching and performance monitoring
+of sales representatives
+Present sales, revenue and expenses reports and realistic forecasts to the
+management team
+Identify emerging markets and market shifts while being fully aware of new
+products and competition status
+ 
+Page 2 of 3
+ 
+ 
+Training for newly recruited sales managers
+Merchandise, Design/Draw Planogram for retail shops, Daily sales Beat
+(Permanent Journey Plan), Mark up and Mark down margin, CRM application
+training etc.
+Aditya Birla Sun Life Insurance
+Assistant Vice President Information Technology
+May 2014 - February 2020 (5 years 10 months)
+India
+Responsible for IT Infrastructure and IT Operations
+Ensure 99.9% up time for IT infra 
+Manage 430 Branches 5500 Desk tops, 10000 Mobile devices, 500 server 450
+Network Routers, 10000 Users, 450 TB of Enterprise Data. 
+Responsible for uptime of core Policy admin system (Ingenium). 
+Data Centre Operations and Information Security 
+Designed and deployed Artificial Intelligence and natural language processing
+NLP Based applications.
+Deployed Robotic Process Automation for various business process which
+resulted in huge cost save for the organization.
+Amazon and Azure Cloud deployments for Enterprise applications.
+Completed Training on Architecting on AWS cloud and Six Sigma Green Belt
+ 
+Page 3 of 3

@@ -1,0 +1,229 @@
+ 
+ 
+Contact
+www.linkedin.com/in/urvashityagi
+(LinkedIn)
+Top Skills
+Software Development
+Cloud Computing
+Product Management
+Honors-Awards
+Robert H. Goddard Alumni Award
+for Outstanding Professional
+Achievement
+30+ Successful Alumni of Worcester
+Polytechnic Institute
+Top 100 CIOs and CTOs as part of
+2021 Tech Inclusion conference
+Top 100 Leaders in Technology
+Publications
+Putting Technology—and
+Technologists—First: Digital
+Transformation at ADP
+Stay Focused on Customer
+Experience for Digital
+Transformation Success
+GirlHacks Went Virtual, Projects
+Focused on COVID-19 and Social
+Justice
+There’s a diversity problem in the
+tech industry and it’s not getting any
+better
+The East by Northeast
+Urvashi T.
+Chief Technology Officer
+United States
+Summary
+Entrepreneurial Technologist and Engineering Leader with over two
+decades experience spanning consumer and enterprise platforms
+and applications, at ADP, Amex, Amazon, Microsoft, IBM, Hedge
+fund, Academia, and Startups.
+Responsible for global engineering teams for product strategy,
+design, architecture, development, delivery, and post-production
+support of highly scalable and reliable software systems and
+services.
+At ADP, set up the Office of the CTO to lead the company's
+technology transformation, establish a long-term technology vision
+and strategy, converge user experience across the portfolio,
+rationalize tech stacks, build shared services, modernize developer
+experience.
+At Amex, streamlined product investments, built the leadership team,
+launched Amex-Amazon co-branded products for B2B, embedded
+AI/ML capabilities into commercial products.
+At Audiobooks division of Amazon, led the launch of mobile store
+worldwide, led the evolution to a microservices architecture,
+launched platform for international expansion, led entry into the
+enterprise business, built machine learning-enabled search traffic
+and marketing technology teams focusing on growth, engagement,
+and monetization.
+At Microsoft, worked on Office platform and applications to deliver
+Office 365 and Exchange services. At IBM, worked on the Rational
+line of products. Earlier, held various engineering leadership roles at
+start-ups, academia, and in computer-aided manufacturing.
+I am passionate about delivering meaningful products to users,
+scaling teams and architecture, and building technology that
+eliminates barriers to business growth.
+ 
+Page 1 of 6
+ 
+ 
+I have been a speaker at conferences and events for ADP, Amex,
+Amazon, Microsoft, IBM, and panelist, judge at events, hackathons,
+universities, particularly for tech talks, diversity in tech, and
+technology for social good.
+[Views expressed here are my own and do not reflect the views of
+my employer]
+Experience
+ResMed
+Chief Technology Officer
+January 2022 - Present (2 years 3 months)
+Responsible for technology strategy and delivery of global customer-facing
+products, data, AI, core platforms, corporate infrastructure, and corporate
+systems.
+AdvaMed
+Member Board of Directors
+July 2023 - Present (9 months)
+Worcester Polytechnic Institute
+Board Member
+2018 - Present (6 years)
+Bringing educational institutions in STEM closer to the industry needs of
+tomorrow
+Various Early Stage Companies
+Limited Partner and Advisor
+September 2017 - Present (6 years 7 months)
+Angel investor and advisor in SaaS/Cloud companies.
+ADP
+Chief Technology Officer
+September 2019 - January 2022 (2 years 5 months)
+Greater New York City Area
+Global Products & Technology
+American Express
+ 
+Page 2 of 6
+ 
+ 
+Vice President, Global Head of Commercial Data Engineering
+October 2017 - September 2019 (2 years)
+Greater New York City Area
+Commercial Payments, Global Data Platform for Operations and Analytics,
+B2B data integrations, AI/ML Center of Excellence for commercial business,
+Launched Amex-Amazon co-branded card for business
+Amazon
+Director Of Engineering
+May 2014 - October 2017 (3 years 6 months)
+Greater New York City Area
+Amazon Audiobooks - Audible
+Launched mobile store worldwide, Evolved tech stack from monolithic to
+microservices, Launched a scalable platform for international expansion,
+Lead entry into the enterprise business (B2B), Built CRM and Search Traffic
+technology teams focused on growth, engagement, monetization
+CRM Systems and Marketing Technology:
+- Built systems that empowered digital marketers to engage with customers,
+using the right content,  at the right time, and on their channel of preference.
+Leveraging automation, personalization, data science, and machine learning,
+systems built to scale and deployed globally
+Speaker & Panelist@
+WPI WIN Grant Awards: Keynote speaker
+Women Engineer's conference We17: Speaker - The Case of Two Gigs
+NYC Lean Interns: Speaker - Stay In & Thrive, https://
+leaninternaudible.splashthat.com/
+Girls Who Code - Panelist
+NYC Pre Grace Hopper - Panelist
+Audible Women's group: Speaker - Diversity in Tech, Why Efforts Fail?
+iCIMS
+Senior Engineering Manager
+2013 - 2014 (1 year)
+New York City Metropolitan Area
+Oversaw software development, automation, performance engineering.
+Responsible for setting the vision, goals, strategy, architecture, agile teams.
+ 
+Page 3 of 6
+ 
+ 
+Bridgewater Associates
+Technology in Client Services
+2013 - 2013 (less than a year)
+Microsoft
+Senior Engineering Manager
+2008 - 2013 (5 years)
+Greater New York City Area
+Application & Services Division, Microsoft Office Division, Servers & Tools
+Business
+- Managed and shipped releases in Office, Exchange Online, Office 365
+Service, Application Virtualization
+- Managed Software Development Engineering, Build Engineering and
+Dogfood teams, focusing on continuous integration, automated verification and
+deployments
+Conference Speaker, Tech Talk@ 
+Debugging Application Virtualization for third party development
+https://tr10.mytechready.com/
+http://en.wikipedia.org/wiki/TechEd
+http://www.microsoft.com/en-us/news/events/mvpsummit/
+Guest Speaker@http://sqgne.org/2009-10.html
+http://www.wpi.edu/academics/cs/career-outlook.html
+IBM
+Team Lead, Architect
+September 2003 - October 2008 (5 years 2 months)
+Greater Boston Area
+IBM Software Group
+- Shipped releases for Requirements Management product line, Configuration
+Management, various cross-product integrations
+-Architected a multi-product solution to address business problem of
+regulatory compliance, presented at RSDC conference. Also speaker at Voice
+conference, and customer residencies 
+-Nominated and selected for IBM Technical Resource program, executive
+leadership program (only 13 participants from IBM WW), IBM Ambassador for
+Academic Initiative for 3 years
+ 
+Page 4 of 6
+ 
+ 
+Conference Speaker@
+https://www.ibm.com/developerworks/community/blogs/rsdc
+NuGenesis Technologies (acquired by Waters Corp.)
+Software Engineer
+May 2001 - September 2003 (2 years 5 months)
+Worcester Polytechnic Institute
+Student Advisor, Curriculum and Admissions committee
+2000 - 2001 (1 year)
+Worcester, MA
+Indian Institute of Management, Ahmedabad
+Academic Associate
+July 1998 - July 2000 (2 years 1 month)
+Ahmedabad Area, India
+Facilitated management program, published case studies, provided consulting
+services, conducted industry analysis, proposed technology implementations
+Guest Speaker@
+http://www.isro.org/isrocentres/sac.aspx;
+http://www.anarchem.com/about-anar.php
+Center for Development of Advanced Computing
+Visiting Faculty
+2000 - 2000 (less than a year)
+Ahmedabad Area, India
+- Taught Computer Science courses to industry executives including from
+government organizations
+- Designed custom curriulum for system design, software development, and
+software testing for employees at Indian Space Research Organization (ISRO),
+conducted training programs
+Institute of Chartered Financial Analysts of India
+Adjunct Faculty
+1999 - 2000 (1 year)
+Ahmedabad Area, India
+Professor of Operations Research and Management, at ICFAI buisness school
+ 
+Page 5 of 6
+ 
+ 
+Batliboi Ltd
+Senior Design Engineer
+1994 - 1999 (5 years)
+Surat, Gujarat, India
+Education
+Worcester Polytechnic Institute
+Master of Science (M.S.)   · (2000 - 2001)
+Veer Narmad South Gujarat University
+Master of Business Administration (M.B.A.)  · (1998 - 2000)
+Birla Vishvakarma Mahavidyalaya
+Bachelor of Engineering (B.E.)  · (1990 - 1994)
+ 
+Page 6 of 6

@@ -1,0 +1,313 @@
+ 
+ 
+Contact
+www.linkedin.com/in/akilessh-
+kummar-315960b4 (LinkedIn)
+Top Skills
+Digital Strategy
+Microsoft Power BI
+Team Leadership
+Languages
+Hindi (Native or Bilingual)
+English (Professional Working)
+Certifications
+ITIL® version 3 Foundation
+Lead Auditor ISMS 27001:2005
+C|EH Ver.7
+Implementing Microsoft Azure
+Infrastructure Solutions
+Akilessh Kummar
+CTO at GiantCell Technologies Private Limited
+New Delhi, Delhi, India
+Summary
+• Over 19 years of experience in Technology and business visionary
+with executive and hands-on experience in establishing and
+automating multi-billion-dollar enterprises.
+• Have successfully managed budgets in excess of US $ 10 million
+and over 4500 employees across the globe.
+• Experience in diverse industries spanning Manufacturing, Steel,
+Trading, Clinical Research, Healthcare, ITeS/BPO, Automation and
+Risk/Insurance Consulting and have gained exposure to IT practices
+both at National and Global levels.
+• Effectively communicated with the Board of Directors and top
+management for evolving strategic vision, driving change and
+enabling IT to become a business enabler.
+• Significant experience in the driving alignment of IT with business,
+defining IT strategy and roadmap, creating IT departments
+from scratch, optimising IT, driving compliance in IT, budgeting,
+technology evaluation & evangelisation and execution of multi-million
+dollar, multi-location projects.
+• Expertise in planning & building IT departments for supporting
+enterprises involving the selection of appropriate technologies,
+products, negotiating with vendors, finalising Service Level
+Agreements, outsourcing tasks and directing the timely completion of
+projects.
+• Effective leader with exceptional skills in building teams and
+mentoring & developing individuals towards building productive
+and exceptional teams and as well as in forming cohesive team
+environments.
+SPECIALITIES:
+• Global IT Delivery • DevOps Automation
+• SDLC - Agile and Waterfall 
+• DevOps Tools - Jenkins, Maven, Ansible, Docker, Kubernetes,
+Terraform
+• Cloud Platform - MS. Azure, Amazon Web Services (AWS), Google
+Cloud Platform (GCP).
+ 
+Page 1 of 8
+ 
+ 
+• Bug Tracking Tools - Jira, Bugzilla, FreshService.
+• Source Control Management Tools - Bitbucket, GitHub, Gitlab,
+GitBash.
+• SDLC - Agile, Waterfall.
+• Project Management
+• Strategic Planning • Building teams
+• IT Infrastructure
+• Solution Development Lifecycle (SDLC)
+• Information Security • Architecture & Design
+• Resources management • Application development
+• Data Center Management and Analysis
+• Strategic Analysis • Internal Consulting
+• E - commerce
+Experience
+GiantCell Technologies Private Limited
+Chief Technology Officer
+September 2020 - Present (3 years 7 months)
+Delhi, India
+1. People management: Hiring, planning, and mentoring.
+2. Product delivery, Project Management, and Solution designing and
+Architecture.
+3. IT Service delivery, Project Management and Solution designing and
+Architecture
+4. Plan and execution of DevOps practices for CI/CD life cycle.
+5. Working closely with the Product development team (React JS, iOS &
+Android, Flutter, Java and PHP).
+6. Working closely with IT Implementation, Deployment, Solution Architect, and
+Cloud team (AWS and Google Cloud).
+7. Working closely with the development team of iOS, Android and web
+developers to deliver clean code.
+8. Working closely with the marketing and analytics team to increase
+conversion.
+9. Responsible for Engineering cost management – Annual budgeting,
+resource planning, and costing.
+10. Collaborating with 3rd party vendors & managing partner relationships.
+11. Outsourcing work to 3rd party companies to collaborate and guide them on
+architecture and timelines. Also included cost negotiation and optimization.
+ 
+Page 2 of 8
+ 
+ 
+12. Responsible for aligning technology to support business initiatives and
+goals.
+CBH Consulting 
+Co-Founder & CTO
+June 2018 - August 2020 (2 years 3 months)
+Greater Delhi Area
+1. IT Service delivery, Project Management and Solution designing and
+Architecture.
+2. Working closely with IT Implementation, Deployment, Solution Architect and
+Cloud team (AWS/ Azure and Google Cloud).
+3. Working closely with marketing and analytics team to increase conversion.
+4. Responsible for Engineering cost management – MIS, Annual budgeting,
+resource planning and costing.
+5. Collaborating with 3rd party vendors & managing partner relationships.
+6. Manage the coordination with the IT training team and Trainers to deliver
+training to the clients.
+Xkart Ventures Pvt Ltd
+Co-Founder & CTO
+June 2017 - August 2020 (3 years 3 months)
+Delhi, India
+1. Working closely with the Product development team (React JS, iOS &
+Android, Flutter, Java and PHP).
+2. Working closely with IT Implementation, Deployment, Solution Architect, and
+Cloud team (AWS and Google Cloud).
+3. Working closely with the development team of iOS, Android and web
+developers to deliver clean code.
+4. Working closely with the marketing and analytics team to increase
+conversion.
+5. Responsible for Engineering cost management – Annual budgeting,
+resource planning, and costing.
+6. Collaborating with 3rd party vendors & and managing partner relationships.
+7. Outsourcing work to 3rd party companies to collaborate and guide them on
+architecture and timelines. Also included cost negotiation and optimization.
+8. Responsible for aligning technology to support business initiatives and
+goals.
+SAPster IT Consulting
+Co-Founder & CTO
+December 2016 - August 2020 (3 years 9 months)
+ 
+Page 3 of 8
+ 
+ 
+Delhi, India
+1. IT Service delivery, Project Management and Solution designing and
+Architecture.
+2. Working closely with IT Implementation, Deployment, Solution Architect and
+Cloud team (AWS/ Azure and Google Cloud).
+3. Working closely with marketing and analytics team to increase conversion.
+4. Responsible for Engineering cost management – MIS, Annual budgeting,
+resource planning and costing.
+5. Collaborating with 3rd party vendors & managing partner relationships.
+6. Outsourcing work to Indian and international companies. Collaborating and
+guiding them on architecture and timelines. Also included cost negotiation and
+optimization.
+7. Responsible for aligning technology to support business initiatives and
+goals.
+SirionLabs
+Engineering Manager
+November 2016 - December 2016 (2 months)
+Gurgaon, Haryana, India
+1. IT Service delivery, Project Management and Solution designing and
+Architecture.
+2. Working closely with development, IT Implementation, Deployment, Solution
+Architect and Cloud team.
+3. Heading Cloud Team (AWS), Automation Team, Data centre Team and
+Database Team.
+4. Ensure 100% uptime for all Servers (Sand Box, Production).
+Xkart Ventures Pvt Ltd
+Head of Information Technology
+April 2016 - October 2016 (7 months)
+Gurgaon, Haryana, India
+1. Working closely with IT Implementation, Deployment, Solution Architect and
+Cloud team for various clients.
+2. IT Project Management and Solution designing and Architecture for Clients.
+3. Working closely with IT Implementation, Deployment, Solution Architect and
+Cloud team to ensure successful project delivery.
+4. Datacentres migrations and upgradations as per the client’s requirements. 
+Sovereign Health Group Addiction, Dual Diagnosis & Mental Health
+Head IT Operations
+ 
+Page 4 of 8
+ 
+ 
+July 2015 - March 2016 (9 months)
+Gurgaon, India
+1. Involved in purchasing, Contracts and Negotiations, vendor management &
+procurement.
+2. Coordinate with our USA offices for various discussion and technical
+support.
+3. Handled IT Helpdesk on Remedy / Clarify / Track-IT and Support Incident /
+Problem Configuration and Release management.
+4. Managing Data centres and NOC Operations in terms of Administration of
+servers (Server health audit, data backup, data security, server performance
+management, server virus prevention & patch management) and Network
+equipment for high availability & uptimes. 
+5. Ensure to review the configuration of MRTG to monitor the performance of
+WAN links, Network, Directory Services and Servers/ Desktops Security.
+6. Lead IT Solution / Design and provide transition support. Also, provide IT
+costing for Transitions both from Infrastructure and Software perspectives
+7. Enforced ITIL processes to IT Service Desk: Service Strategy, Service
+Design, Service Transition, Service Operation, Continual Service
+Improvement, Incident, Problem, release and change management, capacity &
+configuration Management.
+8. Ensure to maintain and adhere to all IT Security Policies from Compliance
+perspective.
+9. Ensures compliance with all software licensing agreements. Manages and
+safeguards software media, versions and associated licenses.
+Somani Group
+Head - IT & Systems 
+April 2013 - June 2015 (2 years 3 months)
+New Delhi, Delhi, India
+1. Implemented SAP ERP application with Sales Module, Planning Module,
+Manufacturing Module, Inventory Module, Maintenance Module, Project
+Management, Purchase Module, Excise Module, Human Resource Module
+and Finance Management.
+2. Involved in purchasing, Contracts and Negotiations, vendor management &
+procurement.
+3. Coordinate with our European partner companies for various discussion and
+technical support.
+4. Handled IT Helpdesk on Remedy / Clarify / Track-IT and Support Incident /
+Problem Configuration and Release management.
+ 
+Page 5 of 8
+ 
+ 
+5. Managing Data centres and NOC Operations in terms of Administration of
+servers (Server health audit, data backup, data security, server performance
+management, server virus prevention & patch management) and Network
+equipment for high availability & uptimes. 
+6. Ensure to review the configuration of MRTG, WANSPY, MOM and BigFix
+to monitor the performance of WAN links, Network, Directory Services and
+Servers/ Desktops Security.
+7. Lead IT Solution / Design and provide transition support. Also, provide IT
+costing for Transitions both from Infrastructure and Software perspectives
+8. Enforced ITIL processes to IT Service Desk: Service Strategy, Service
+Design, Service Transition, Service Operation, Continual Service
+Improvement, Incident, Problem, release and change management, capacity &
+configuration Management.
+9. Implemented ISMS - 27001, QMS - 9001 and provide Support to Audits as
+an IT Security Leader for Clients and Internal Audits. Ensure to maintain and
+adhere to all IT Security Policies from Compliance perspective.
+10. Ensures compliance with all software licensing agreements. Manages and
+safeguards software media, versions and associated licenses.
+Apothecaries Clinical Research
+IT Operations Manager (IT Head)
+September 2008 - March 2013 (4 years 7 months)
+1. Managing Recruitment of Technical staff and Responsible to mentor the
+teams.
+2. Implemented SAP ERP application with Planning Module, Project
+Management, Inventory Module, Maintenance Module, Purchase Module,
+Excise Module, Human Resource Module and Finance Management.
+3. Involved in purchasing, Contracts and Negotiations, vendor management &
+procurement.
+4. Handled IT Helpdesk on Remedy / Clarify / Track-IT and Support Incident /
+Problem Configuration and Release management.
+5. Managing Data centre and NOC Operations in terms of Administration of
+servers (Server health audit, data backup, data security, server performance
+management, server virus prevention & patch management) and Network
+equipment for high availability & uptimes. 
+6. Ensure to review the configuration of MRTG, WANSPY, MOM and BigFix
+to monitor the performance of WAN links, Network, Directory Services and
+Servers/ Desktops Security.
+7. Lead IT Solution / Design and provide transition support. Also, provide IT
+costing for Transitions both from Infrastructure and Software perspectives
+ 
+Page 6 of 8
+ 
+ 
+8. Enforced ITIL processes to IT Service Desk: Service Strategy, Service
+Design, Service Transition, Service Operation, Continual Service
+Improvement, Incident, Problem, release and change management, capacity &
+configuration Management.
+9. Implemented ISMS - 27001, QMS - 9001 and EMS – 14001 and provide
+Support to Audits as an IT Security Leader for Clients and Internal Audits.
+Ensure to maintain and adhere to all IT Security Policies from Compliance
+perspective.
+10. Ensures compliance with all software licensing agreements. Manages and
+safeguards software media, versions and associated licenses.
+Archiman Technology
+Assistant Manager - Service Delivery
+June 2004 - August 2008 (4 years 3 months)
+1. Handled clients IT technology operations for Archiman Technology, IT
+Transition Management in cost-effective manner, IT infrastructure technical
+bids, technical & business proposals, Technology architecture, planning for
+technology IT roadmap and IT Service Delivery , IT infrastructure projects for
+various national clients, Remote Infrastructure Management, IT Infrastructure
+Deployment & Management. 
+2. Steering initiatives towards Technical implementation of various
+Technologies for in-house Projects, Project Coordination, and Team
+Management.
+3. Managed Recruitment of Technical staff and Responsible to mentor the
+teams.
+4. Attending CAB (Change address board) meetings & approving changes
+related to IT.
+5. Develop strategic plans and identify key success factors; set priorities and
+allocate resources to achieve unit, division and corporate goals
+6. Manage overall IT budget for projects. Involved in purchasing, Contracts
+and Negotiations, vendor management & procurement.
+Education
+SunRise University Alwar
+Doctor of Philosophy - PhD, Cyber/Computer Forensics and
+Counterterrorism · (January 2020 - December 2023)
+Bundelkhand University
+ 
+Page 7 of 8
+ 
+ 
+Master of Business Administration (MBA), Information
+Technology · (2008 - 2010)
+Bundelkhand University
+Bachelor of Engineering (BEng), Computer Science · (2000 - 2004)
+ 
+Page 8 of 8

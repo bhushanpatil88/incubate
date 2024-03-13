@@ -1,0 +1,85 @@
+ 
+ 
+Contact
+www.linkedin.com/in/mds1
+(LinkedIn)
+Top Skills
+Research
+Time series
+Generative AI
+Publications
+Discovering a domain alphabet
+Distilling Free-Form Natural Laws
+from Experimental Data
+Automated refinement and inference
+of analytical models for metabolic
+networks
+Symbolic Regression of Implicit
+Equations
+Coevolution of Fitness Predictors
+Michael Schmidt
+Chief Technology Officer at DataRobot
+Washington, District of Columbia, United States
+Summary
+My team and I research the next generation of AI capabilities
+in DataRobot. We work on algorithms, benchmarks, code, and
+prototypes.
+In 2020, I co-led a partnership with the U.S. government to
+accelerate the COVID-19 vaccine trials using AI and hundreds of
+data sources.
+As a AI researcher, I created the first AI for discovering laws of
+physics in experimental data:
+- Science Paper: https://www.altmetric.com/details/487281#score
+- Google Scholar: https://scholar.google.com/citations?
+hl=en&user=fxH9VZEAAAAJ
+- Research Overview: https://www.creativemachineslab.com/
+eureqa.html
+As a developer, I led creating the software "Eureqa" that has been
+used by thousands of businesses, and has been cited in the analysis
+in thousands of research papers:
+- Science Channel: http://fast.wistia.net/embed/iframe/x0t6owlf6k
+- RadioLab: http://www.radiolab.org/story/91712-limits-of-science/
+- Eureqa Publications: http://scholar.google.com/scholar?q=eureqa
+Experience
+DataRobot
+6 years 11 months
+Chief Technology Officer
+June 2021 - Present (2 years 10 months)
+I lead an advanced development team investigating the nextgen capabilities of
+DataRobot. We focus on assessing and monitoring generative AI use-cases to
+trust their behavior, novel strategies for customizing generative AI capabilities,
+and leveraging generative AI with predictive AI to address future AI challenges.
+ 
+Page 1 of 2
+ 
+ 
+Chief Scientist
+May 2017 - June 2021 (4 years 2 months)
+Greater Boston Area
+I led a team to create new time series modeling capabilities in DataRobot,
+working hands on with engineering, product, and customer facing teams. In
+2020, I co-led a special collaboration with the U.S. government to optimize
+the COVID-19 vaccine enrollment strategies across hospital networks with the
+leading vaccine producers during the urgent COVID-19 pandemic outbreak.
+Nutonian Inc.
+Founder / Data Scientist / Engineer
+June 2011 - May 2017 (6 years)
+Boston, MA
+I founded Nutonian to develop machine learning software for discovering
+hidden mathematical patterns in data (known as "Eureqa"). Nutonian was
+acquired by DataRobot in 2017, and Eureqa is now available in the core
+DataRobot Platform.
+Cornell Creative Machines Lab
+PhD Research Fellow
+2005 - 2010 (5 years)
+Ithaca, NY
+My research at Cornell focused on automated machine learning, artificial
+intelligence, and applied math. I had fellowships from NSF and IGERT to
+develop machine learning algorithms to automate modeling of scientific data.
+Education
+Cornell University
+Bachelor of Science - BS, Electrical and Computer Engineering
+Cornell University
+Doctor of Philosophy - PhD 
+ 
+Page 2 of 2

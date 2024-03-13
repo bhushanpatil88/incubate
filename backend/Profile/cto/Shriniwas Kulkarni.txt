@@ -1,0 +1,247 @@
+ 
+ 
+Contact
+www.linkedin.com/in/shriniwas-p-
+kulkarni (LinkedIn)
+Top Skills
+Machine Learning
+Artificial Neural Networks
+Virtual Reality (VR)
+Publications
+KAoS Semantic Policy and Domain
+Services: An Application of DAML
+to Web Services-Based Grid
+Architectures.
+Dynamic Distributed Resource
+Allocation: A Distributed Constraint
+Satisfaction Approach. (2001)
+Toward DAML-based policy
+enforcement for semantic data
+transformation and filtering in multi-
+agent systems (2003)
+Making agents acceptable to people
+(2003)
+Terraforming cyberspace (2002)
+Shriniwas Kulkarni
+Chief Technology Officer | Educator | VR | AI | ML | Ed Tech |
+Pune, Maharashtra, India
+Summary
+Experienced technologist, researcher, domain expert, and aspiring
+entrepreneur who's worked both in India and in various parts of
+US as an IT expert and an AI researcher.  In top 6% overall on
+StackOverflow. Significant coding, designing, architecting and
+management experience.  Re-architected and re-designed various
+products of an MNC client (Wells Fargo). Extensive contributions to
+building Java COE practice at Synechron. A researcher/engineer at
+heart, has worked in premium research institutes in US (ISI, IHMC)
+conducting research in AI - Software Agents.  Loves gaining detailed
+knowledge of technology and its practical applications. Passionate
+for sharing knowledge, and a champion of following and promoting
+software engineering principles.
+Currently working on Artificial Neural Networks, Data Science,
+Machine Learning, Software Agents and Virtual Reality.
+Extensive research experience in the field of Artificial Intelligence:
+specialized in AI for MS in Comp Sci. Worked primarily in the field
+of Software Agents, developing on Agents autonomy, discovery,
+collaboration and dynamic constraints satisfaction. Co-authored and
+published multiple research papers. While working at IHMC, was
+selected by the manager to work on a NASA project at their West
+Coast location, which unfortunately did not materialize due to delays
+in getting security clearance.
+Significant IT experience working on numerous product designs,
+architectures and implementations. Won various awards which
+include: best fresher in his division at IGSI (IBM India), first ever
+'Oscar' awarded for excellence in Java technology at Synechron,
+recognition for major contributions to developing software guidelines
+for Java implementations at Synechron. Earned praise and
+recognition for conducting multiple technology sessions at both
+Synechron and GS Lab.
+ 
+Page 1 of 6
+ 
+ 
+Valuable BFSI domain experience, especially in designing and
+developing FX products. Evaluation and selection of technologies
+applicable to BFSI.
+As an aspiring entrepreneur, currently working on building Ed Tech
+startup focused on students, helping them become industry ready
+right out of college; and professionals, up scaling their knowledge
+and enabling them to advance in their careers, or seek different
+roles and opportunities within or outside their company . Looking for
+Angel/VC investment.
+Experience
+Phoenixgen Systems
+Chief Technology Officer
+January 2018 - Present (6 years 3 months)
+Pune Area, India
+Ideation and creation of technology platform for Fintech / EdTech startup.
+Working on building disruptive approaches using AI and Machine learning. 
+Synechron
+7 years 1 month
+Associate Principal, Technology
+April 2016 - January 2018 (1 year 10 months)
+Charlotte, North Carolina, United States
+Integration and enhancements of FX products for a client
+- Designed new interfaces for additional services
+- Design of new services and enhancements of existing services
+- Integration of various services through Messaging and MicroService
+architecture
+- Provide technical guidance and help
+- Provide training sessions on Java technologies
+Senior Technology Specialist
+March 2013 - March 2016 (3 years 1 month)
+Charlotte, North Carolina, United States
+Redesign and enhancements of an FX product for a client
+- Analyze the architecture of the product
+- Design additional functionality as necessary
+- Improve and simplify existing design
+ 
+Page 2 of 6
+ 
+ 
+- Provide expert guidance for various Java technologies
+- Provide expert knowledge transfer as required
+Technology Specialist
+March 2012 - February 2013 (1 year)
+Pune, Maharashtra, India
+Modifications and enhancements to an FX product for a client
+- Simplify and improve existing design
+- Modify and add new features as required
+- Provide expert knowledge sessions on Java technology
+Technology Specialist
+January 2011 - February 2012 (1 year 2 months)
+Pune, Maharashtra, India
+Java Centre of Excellence
+- Contribute to best software practices for Java
+- Supervise and help in various technology projects being carried out in COE
+- Coach experienced and novice developers on various key technologies
+- Carry out technology comparison and selection for various projects
+- Provide training sessions on various Java technologies
+GS Lab
+5 years 7 months
+Technical Architect
+January 2010 - January 2011 (1 year 1 month)
+Pune Area, India
+Back-end Attributes Exchange Broker
+- Used for exchanging SAML based security attributes
+- Design and implementation of Attribute and Relay agents for the broker
+- Solution delivery, SPOC for client
+- Interface with DevOps for CI/CD
+Conducted various technical session for
+- Java technologies
+- OOPS design principles
+- OOPS design patterns
+- Clean Code
+Provided expert guidance and consultation on various projects for
+- Architecture conception and modifications
+- Design conception and modifications
+ 
+Page 3 of 6
+ 
+ 
+- Product optimizations
+- Java best practices
+Associate Technical Architect
+July 2008 - December 2009 (1 year 6 months)
+Pune, Maharashtra, India
+B2B/B2C Interactive ad platform
+- Lead architect/developer/manager/primary interface for customer
+- Designed and implemented ad creation/customization/deployment framework
+- Designed and implemented SAASification of the framework
+- Performance analysis/improvements, Vertical/Horizontal scaling
+- Knowledge transfer sessions for the product and related Java technologies
+Mobile talk time recharge platform
+- A platform where people can transact in mobile talk time
+- Developed architecture and design for the platform
+- Client interface and multiple presentations of the architecture and design
+Browser compatibility tool
+- A tool to ensure consistent web page look across different browsers
+- Conception, Architecture and Design of the tool
+- Guidance on implementation
+- Tool demo and presentation across company hierarchy
+Senior Member Of Technical Staff
+July 2005 - June 2008 (3 years)
+Pune, Maharashtra, India
+Data monitoring security appliance
+- Feature addition/modification/enhancements
+- Developed generic testing mechanism for a set of features
+- Technical guidance on other aspects of the product
+Porting a secure tunnel client
+- Developed an FF extension for WebDAV access
+- Developed a Mac helper tool for privileged operations
+- Proxy authentication for Basic/NTLM authentication
+Web based VOIP User Provisioning Tool
+- Architecture, design and implementation
+- XML interface between UI and the engine
+- Design and implementation of a basic ORM framework for DB access
+ 
+Page 4 of 6
+ 
+ 
+- Developer/manager/primary interface for the customer
+IHMC
+Research Associate
+November 2001 - June 2005 (3 years 8 months)
+Pensacola, Florida Area
+Implemented Services framework for Software Agents
+- Integration of diverse agents into the framework
+- Dynamic registration/modification and deregistration of agents in the
+framework
+- Time server and application level Message control
+- Policy creation, implementation and enforcement for agents
+- Contributed to writing and publishing multiple research papers
+Design and implementation of Agent Autonomy
+- Design adjustable autonomy through the concept of dynamic action sets
+- Implementation to adjust action sets at runtime
+- Various demonstrations to prove autonomy change
+- Contributed to writing and publishing multiple research papers
+USC Information Sciences Institute
+Research Associate
+April 2000 - August 2001 (1 year 5 months)
+Greater Los Angeles Area
+Dynamic constraints satisfaction programming
+- Designed and implemented software agents controlling hardware sensors
+- Designed and implemented communication protocol for passing data and
+commands between agents
+- Implemented CSP and DCSP algorithms on top of the communication
+protocol
+- Conducted various test setups and demonstrations
+- Contributed to writing and publishing multiple research papers
+IBM
+System Engineer
+January 1999 - December 1999 (1 year)
+RTP, North Carolina
+IBM RAID subsystem
+- Enhancements
+- Debugging
+ 
+Page 5 of 6
+ 
+ 
+- Maintenance
+Ibm Global Service India Private Limited.,
+System Engineer
+August 1997 - December 1998 (1 year 5 months)
+Bengaluru Area, India
+NDCM project
+- A prototype for remotely controlling a small device such as a camera over
+Internet
+- Design and development of the controller
+- Design and development of the manager
+- Testing and various demonstrations
+Porting a Real Time Operating System
+- Ported an RTOS named mu-COS from Intel X-86 to PowerPC
+- Isolated hardware specific code from generic OS code
+- Ported that code to PowerPC through assembly language
+- Wrote sample clients to run on PowerPC to demonstrate a successful port
+Configuration of hardware devices through Windows UI
+- Developed a Windows device driver for accessing hardware
+- Wrote a library to wrap the device driver
+- Exposed certain APIs from the library for UI applications
+Education
+University of Southern California
+Master's degree, Computer Science · (2000 - 2001)
+Pune Institute of Computer Technology
+Bachelor of Engineering - BE, Computer Science · (1993 - 1997)
+ 
+Page 6 of 6

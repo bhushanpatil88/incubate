@@ -1,0 +1,186 @@
+ 
+ 
+Contact
+www.linkedin.com/in/ss-
+saravanan-4975b938 (LinkedIn)
+Top Skills
+Telecommunications
+Computer Network Operations
+GSM
+Languages
+English (Native or Bilingual)
+Tamil (Native or Bilingual)
+Hindi (Limited Working)
+SS Saravanan
+Chief Technology Officer at Bharti Airtel
+Hyderabad, Telangana, India
+Summary
++Technical leader with 20+ years in Telecommunications with
+proficient experience in Strategy, Design & Planning, Quality &
+Operations, TAC support in PSTN and Mobile Network in India.
++Hands on and management experience in Planning, Deployment
+and Network Optimization, Modernization & Re-Engineering, MS
+Operation for RAN (UMTS, LTE-FD,TD),Transport and Core domain.
++Instrumental in Planning and Execution of Spectrum re-farming,
+Network Modernization & Swap activities for LTE FD, LTE FD+TD,
+U2100 dual carrier and U900 as 2nd carrier  with equipment vendors
+Huawei (Chennai), Ericsson ( AP) and NSN (Kerala).
++Expertise in Managed Services Delivery, SLA monitoring, Network
+Performance Monitoring and KPI delivery of GRAN, WRAN, LRAN,
+Core & PACO Networks of Multi- Vendors such as Ericsson, Huawei
++Proficient in management of a diverse range of departments,
+professionals, and programs through strong understanding of the
+business and people.
+Experience
+Bharti Airtel
+17 years 3 months
+Chief Technology Officer
+April 2020 - Present (4 years)
+Bhubaneshwar, Orissa
+Design & Planning  Head
+April 2015 - April 2020 (5 years 1 month)
++ Leading RAN,MW,Fiber,VoiceCore & MPBN Planning teams for AP circle
+ 
+Page 1 of 5
+ 
+ 
++ Driving along with the Managed services partners to deliver the business and
+customer requirements
++ Responsible for Spectrum re-farming & Successful RAN Modernization at AP
+and TS circle.
++ Strategy Design,Planning and Successful Launch of India’s first Ericsson's
+U900 with 4.2Mhz.
++ Large scale Twin Beam,Small Cell planning and execution for U2100 de-
+congestion.
++ Leading Planning for Circle's highest roll-out of 2G,3G and 4G sites in AP
+circle.
++ Responsible for Aligning Operational execution with Strategic directions. 
++ Transport Network Packetization and Launch of LTE FD for New Towns
+ahead of competition.
++ Transition from Ericsson MPBN to Alcatel-Lucent MPBN.
++ Core Network Modernisation inlcuding HLR
++ Driving Capex efficiency programs by technology innovations/optimisation,
+Spectrum usage
+Head - Radio Network Planning
+January 2014 - March 2015 (1 year 3 months)
+Chennai
++ Leading In-sourced Design & Planning for Radio Network ( 2G,3G and LTE
+FDD and TDD )
++ Responsible for planning and launch of first Huawei LTE FDD in Chennai
+and Tamilnadu.
++ Responsible for planning swap of Ericsson & NSN with FDD and TDD in
+Kerala
++ Responsible for  2G & 3G ICR planning in Tamilnadu and Kerala.
++ Driving 3G Capacity & Coverage Planning for Chennai and Tamilnadu with
+innovative solution and optimization.
++ Responsible for leading Data Growth for the Circle.
++ Material and Inventory Management & CapEx control for KTN
++ IBS planning and Capacity Solution for Chennai Corporates.
+Network Quality Lead - 3G
+January 2011 - December 2014 (4 years)
+Chennai
++ Responsible for the New 3G U2100 Network Performance  in Chennai and
+Tamilnadu.
++ Driving  the 3G Benchmarking with Competition with Voice and Data KQIs.
+ 
+Page 2 of 5
+ 
+ 
++ In-charge of Multi Vendor Managed Service Governance for the circle for 3G.
++ Leading Capacity and Coverage optimisation for System Engineering on 3G
+parameter.
++ Responsible for Technical Support Group and Customer experience
+enhancement activities 
++ Efficiency through RNO tools and automation of KPI reporting
+Network Quality Lead - 2G
+August 2008 - December 2010 (2 years 5 months)
++ Network Tuning for high traffic/GPRS/EDGE/Multi band network 
++ Capacity Planning and growth projections to Planning team
++ Frequency Planning for entire network ( AFP ) with MS partner
++ Monthly KPI and Capacity Signoff with Strategic Partner (Ericsson)
++ Identification of alternate solutions for coverage problems in gray areas
++ Optimization of Radio network and GPRS performance by fine tuning cell
+parameters/entities
++ TRAI SPOC for the circle.
+Sr Manager - Network Planning
+January 2007 - July 2008 (1 year 7 months)
+Bengaluru Area, India
++Core Planning for Karnataka Circle (Swap/Upgrade/Expansion/New rollout)
++ Annual Operating Plan preparation for Core
++ Network Quality – Switch and Radio KPI Improvement
++ Monthly KPI and Capacity Signoff with Strategic Partner (Ericsson)
++ Process Audit and Implementation for technical function
++ Traffic analysis and augmentation planning for PoI ,Inter MSC and nodes
++ Identification of alternate solutions for coverage problems in gray areas
++ Processor load balancing - activity planning and tracking with SP
++ Contingency handling during major events for core and radio
+Sasken Communications Technologies Ltd
+Project Leader, - Nortel GPRS- 2G/GSM Network
+November 2004 - June 2007 (2 years 8 months)
+Bengaluru Area, India
++ Testing and Implementation support
++ Feature testing, Patch release validation 
++ Project planning and estimation 
++ Project responsibility assignment and implementation guidance
++ Evaluation of Performance metrics of the team Vs SLA of Nortel
+ 
+Page 3 of 5
+ 
+ 
++ Escalation management, Process implementation and Quality audit
++ Identifying the gaps and stream lining of the processes
++ Customer and Partner management
++ Interfacing with OEMs and Design team to fix issues 
++ Resource Management
+Bharti Telenet Limited (Broadband and Telephone of Airte ),
+Karnataka Circle
+Manager - Switch
+August 2001 - October 2004 (3 years 3 months)
+Bengaluru Area, India
++ VAS and Supplementary feature testing and Implementation
++ Preparation and Validation of feature documentation
++ PoI Acceptance testing
++ MSU and RSU load , system recovery  testing
++ Interface testing for V5.2 , VMS and SMS
++ Switch Planning, Routing and Charging planning and implementation
++ Traffic Analysis and PRI Planning
++ ISDN – BRI and PRI – Video Conference testing and implementation
++ CCR Improvement thru DCMS tool.
++ Team Management
+H T L limited, Chennai
+Engineer,EWSD System Expert
+January 1998 - July 2001 (3 years 7 months)
++ Ss7 Protocol and Call flow analysis and tracing
++ Patch Validation and bug identification
++ Performance Testing for Call Processor , Switching Network in EWSD
++ Subscriber Feature testing ( ISUP , SCCP , TCAP  and INAP )
++ APS ( software load ) Validation Testing 
++ Acceptance Testing for PoI , V5.2 interfaces.
++ Load testing and Recovery testing for EWSD
++ Database Generation and System Dimensioning
++ TAC activities
+Punwire Mobile Communications Limited.(Page Me)
+Operations Engineer- Pager
+January 1998 - May 1998 (5 months)
+Coimbatore Area, India
++ Operation and Maintenance of Zetron Paging terminal
+ 
+Page 4 of 5
+ 
+ 
++ Activation and Deactivation of Pagers
++ Message retrieval and support
+Computer Software College (CSC) Training centre
+Faculty
+March 1997 - December 1997 (10 months)
+Coimbatore
++ Faculty for C,Sybase,Oracle and Visual Basic
+Education
+VLB Janakiammal College of Engg & Tech, Bharathiar
+University,Coimbatore
+B.E, ECE · (1994 - 1997)
+Infodrive,Coimbatore
+Diploma In Database Management System (DDMS), Computer Programming,
+Database Applications · (1997 - 1998)
+ 
+Page 5 of 5

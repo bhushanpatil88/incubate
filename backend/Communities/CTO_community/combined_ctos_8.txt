@@ -1,0 +1,881 @@
+CTO/Sean Bassily.txt CTO/Vincent Seeley.txt CTO/Ashish Tiwari.txt CTO/William Jacob.txt CTO/Anand Fadte.txt CTO/Kalpesh Vic Parmar.txt CTO/Ishan Mahajan.txt CTO/Vara Prasad PVenkata.txt CTO/Radhakrishnan Mudliar.txt CTO/Dr. Saravanan Muthiah.txt
+ 
+ 
+Contact
+www.linkedin.com/in/seanbassily
+(LinkedIn)
+Top Skills
+Business-to-Business (B2B)
+B2C e-commerce
+Software as a Service (SaaS)
+Sean Bassily
+COO | CTO | CIO | MBA 2024 | Advisor | Board Member
+United States
+Summary
+Executive COO who successfully weaves together vision and
+momentum to bring about exceptional results.
+Dynamic thinker who possesses a vast array of technical and
+marketing expertise across legal, business, and nonprofit sectors of
+industry.
+Wields C-Suite level experience with precision. Encompasses a
+wide-ranging, multi-faceted skill set toolbox that is an invaluable
+asset to any organization.
+A clear-cut and decisive decision maker with an entrepreneurial spirit
+and indomitable drive to succeed and win.
+3 key traits I possess that contribute to my success:
+• Vision - The ability to clearly envision and conceptualize new ideas
+and explain them with simplicity, competence, and focus.
+• Momentum - A pragmatic mind that can quickly adapt to find
+uniquely creative solutions to each potential challenge that comes
+across my desk.
+• Results - The capability to design and execute one-of-a-kind
+strategic blueprints with confidence and precision in order achieve
+breakthroughs and go above and beyond the original intended
+vision.
+Specialties: B2B | B2C | SaaS | SEO | Growth Hacking | Advanced
+Conversion Rate Tracking | Copywriting | Content Marketing |
+Email Funnels | Landing Page Copy | A/B Tests | Client Acquisition
+Channels | Referrals & Virality | Webflow | UI/UX Design | Lean Six
+Sigma
+Experience
+ 
+Page 1 of 3
+ 
+ 
+Sean Bassily Consulting
+Founder
+2021 - Present (3 years)
+Helping companies make more money by seeing the bigger picture.
+RAK Law Firm, PLLC
+Director Of Business Development
+2020 - 2021 (1 year)
+Tampa, Florida, United States
+Drove business growth while leading operations, strategic vision and long-
+range planning. Worked directly with senior partners, management, and
+marketing department to brainstorm, discuss strategy, and mitigate issues.
+Aaronson Law Firm
+Chief Technology Officer / Director of Technical Operations
+2018 - 2020 (2 years)
+Winter Park, Florida, United States
+Implemented foolproof system to track analytics and improve traceability
+across organizational systems. Produced regular reports for each lead source
+to evaluate performance, adjust strategies and maintain agile, sustainable
+operations.
+C. J. M. Group, Inc.
+Chief Operating Officer / Chief Information Officer
+2015 - 2018 (3 years)
+South River, New Jersey, United States
+Tracked revenue and analyzed key metrics in order to improve overall
+profitability and bring in new clientele. Achieved substantial results by using
+market expertise and business knowledge to make proactive decisions.
+Various - Startups and Nonprofits
+Executive Director
+2006 - 2015 (9 years)
+Comprehensive experience in many diverse aspects of innovation:
+fundraising, revenue models, process flows, operations strategy, and customer
+engagement.
+Education
+Rollins College
+ 
+Page 2 of 3
+ 
+ 
+Rutgers University
+ 
+Page 3 of 3
+ 
+ 
+Contact
+www.linkedin.com/in/vincent-
+seeley-a054001a0 (LinkedIn)
+Top Skills
+Technology Acceleration
+Integrated Systems
+Electronic Data Interchange (EDI)
+Certifications
+Microsoft Certified Professional
+Associate of (ISC)²
+Vincent Seeley
+Chief Technology Officer at Vibility | Wharton CTO Program |
+Lifelong Learner
+Jacksonville, Florida, United States
+Experience
+Vibility
+Chief Technology Officer
+June 2022 - Present (1 year 10 months)
+Georgia, United States
+Estyle Corp., LLC
+Chief Technology Officer
+September 2020 - November 2022 (2 years 3 months)
+Jacksonville, Florida, United States
+UnitedHealth Group
+Director of Information Technology
+October 2000 - October 2022 (22 years 1 month)
+Continue to work as a consultant.
+Orthology Inc
+VP of Technology
+January 2017 - December 2020 (4 years)
+ 
+Page 1 of 1
+ 
+ 
+Contact
+www.linkedin.com/in/ashish-tiwari-
+(LinkedIn)
+Top Skills
+Risk Management
+Portfolio Management
+C++
+Languages
+English (Native or Bilingual)
+Hindi (Native or Bilingual)
+Certifications
+Web Analytics Fundamentals
+Strategic Planning Fundamentals
+Ashish Tiwari
+CTO and Co-Founder at PixoPal
+Pune, Maharashtra, India
+Summary
+Driving the team to create a technology platform for automating
+digital (image) post production processes with our standardization &
+objectivity. Business/Corporates can now leave their "processing the
+digital asset" worries with us.
+-- Winner of Blaze StartUp Summit 2019
+-- Top 5 in Million-at-Stake 2019, IITKGP
+Previously : Torux, Bentley, Afidium, IDRC
+Experience of 11+ years specializing in Software solutions, design
+& architect, UI/UX , Product development and Management in the
+industry of financial Risk and Portfolio management , Analytics &
+IOT.
+Led high performance teams with continuous improvement programs
+and excelled in managing Client engagement activities.
+Specialties:   Microsoft Technologies, Analytics, CAD, ML in Image
+Processing , Risk & Portfolio Management, Trade Life cycle,
+Hedging, IOT, Strategic Planning & Initiatives
+Experience
+PixoPal
+CTO, PixoPaL.com
+January 2017 - Present (7 years 3 months)
+Pune Area, India
+Driving the team to create a technology platform for automating digital (image)
+post production processes with our standardization & objectivity. Business/
+Corporates can now leave their "processing the digital asset" worries with us.
+IDRC
+Technical Solutions Consultant
+July 2014 - February 2015 (8 months)
+ 
+Page 1 of 2
+ 
+ 
+Designed & developed the “client side” UI interface & api’s to interact with
+analytics & data services.
+Populate indexes from different vendors with instruments of different weights
+and let users perform analytics based on inputs from index data, fact-set data,
+sector data. The information filters were created for a better visualization of
+the data.Calculation logic/expression parser were implemented for user-end
+analysis. 
+Usage of Dev-express tools for creating innovative visualization for client
+Torux Software
+Product Manager / Financial Engineer
+June 2010 - June 2014 (4 years 1 month)
+Creating Portfolio & Risk Management solutions for hedge funds and other
+institutions
+# Worked on creating Portfolio reports and Hedging Strategies for validating
+various modules
+#Knowledge of Risk Management and Hedging tools like VaR, Sensitivity
+Analysis & Hedging Scenarios
+Bentley Systems
+Software Engineer
+2005 - June 2010 (5 years)
+Involved with Development, designing of Plant infrastructure simulation
+software. Working on establishing distributed collaborative efforts
+Education
+IIT Bombay
+Dual Degree( B.Tech + M.Tech )  · (2004)
+ 
+Page 2 of 2
+ 
+ 
+Contact
+www.linkedin.com/in/william-jacob-
+aa641122a (LinkedIn)
+Top Skills
+Artificial Intelligence (AI)
+Machine Learning
+UX / UI Designer
+William Jacob
+CTO At Infotech Pvt Ltd
+India
+Summary
+Michael from an IT Firm, Doing same from last 13 yrs. Expertise
+area- 
+1. Web & Mobile App dev
+2.Customization & Maintenance   
+3.Project documentation
+4.Resource Augmentation skill set basis 
+5.Take over in-complete project 
+6.Google, Facebook ads
+Tech Stack Used: - [ WEB APPLICATIONS DEVELOPMENT]
+Technologies:    PHP, ASP.NET, JAVA, PYTHON, MERN,
+Framework:  (Laravel, CodeIgniter, Zend, YII), 
+(Web Forms, ASP.NET, ASP.NET   MVC, ASP.NET Webpage’s),
+(Spring Boot, Struts, Hibernate, JSF, ETC)
+Database: MYSQL, POSTGRESS, MONGO, ORACLE, ETC
+Tech Stack Used: - [ MOBILE APPLICATIONS DEVELOPMENT]
+Technologies:  NATIVE, HYBRID, CROSS PLATFORM,
+Framework: (ANDROID, IOS [SWIFT (KITURA), UIKIT]), KOTLIN, 
+XAMARIN, IONIC, APACHE CORDEVA [PHONEGAP], (REACT
+NATIVE, FLUTTER), 
+Database:   MYSQL, POSTGRESS, MONGO, ORACLE, ETC
+Kindly have a look at it & connect with us.
+Experience
+ 
+Page 1 of 3
+ 
+ 
+Infotech Pvt Ltd 
+Chief Technology Officer
+January 2023 - Present (1 year 3 months)
+We deal with Technical team along with Client Handling. Pleanning for Project
+Execution ,Expansion of team.
+Project discussion with clients. Help in Company business planning .
+Avantika Innovations Private Limited
+Chief Technology Officer
+November 2018 - November 2023 (5 years 1 month)
+Noida, Uttar Pradesh, India
+• Represent the technological agenda in staff meetings and when making
+hiring decisions
+• Maintain current knowledge of the technology landscape and developments
+• Consolidate our technology platforms and create plans for each
+• Track, analyze and monitor technology performance metrics
+• Identify new areas of digital marketing opportunities and create plans to
+implement them for our clients and us
+• Take the initiative in thought leadership, innovation, and creativity
+• Spearhead IT projects to increase our market reach and improve our USP
+• Oversee all system design and changes in system architecture
+AKT TECHNOLOGIES LIMITED
+Chief Operating Officer
+April 2012 - October 2019 (7 years 7 months)
+India
+• Design and implement business strategies, plans, and procedures
+• Set comprehensive goals for performance and growth
+• Establish policies that promote company culture and vision
+• Oversee daily operations of the company and the work of executives (IT,
+Marketing, Sales, Finance, etc.)
+• Lead employees to encourage maximum performance and dedication
+• Evaluate performance by analyzing and interpreting data and metrics
+• Write and submit reports to the CEO in all matters of importance
+• Assist CEO in fundraising ventures
+• Participate in expansion activities (investments, acquisitions, corporate
+alliances, etc.)
+• Manage relationships with partners/vendors
+Katyayani Technologies Private Limited
+ 
+Page 2 of 3
+ 
+ 
+Business Operation Head
+August 2008 - March 2012 (3 years 8 months)
+Noida, Uttar Pradesh, India
+• Organized events to increase staff motivation and engagement
+• Analyzed data to calculate the cost-benefit ratio
+• Located problems in the company’s supply chain through quality control
+checks
+• Created programmes for employees’ professional development
+• Established objectives for increased output and improved efficiency
+• Monitored the overall budget of the business as well as departmental budgets
+• Established corporate guidelines and carrying out frequent changes while
+ignoring workflow and procedure
+• Resolved disputes between departments about resources
+• Examined the company’s resource management and looking for ways to
+boost employee productivity
+• Developing tools to automate repetitious processes
+• Monitored on-site projects and field operations
+• Resolved inventory management concerns
+Education
+UPTU
+Master of Computer Applications - MCA, Computer Programming, Specific
+Applications · (July 2007 - June 2010)
+UPTU
+Master of Computer Applications - MCA, Computer Applications · (July
+2007 - June 2010)
+Uttar Pradesh Technical University 
+Master of Computer Applications - MCA, Computer  Application · (July
+2007 - June 2010)
+ 
+Page 3 of 3
+ 
+ 
+Contact
+www.linkedin.com/in/anandf-cto
+(LinkedIn)
+Top Skills
+Product Development
+Data Science
+Machine Learning
+Languages
+English (Full Professional)
+Marathi (Full Professional)
+Hindi (Professional Working)
+Certifications
+Project Management Professional
+(PMP)
+Associate in General Insurance
+(AINS)
+Advance Communication Silver
+(ACS)
+Certificate Program - Machine
+Learning
+CSM - Certified Scum Master
+Honors-Awards
+Feather in the Cap
+Feather in the Cap
+YouDunIt - Team Award
+First Runner Up - White Paper
+Contest
+Second Runner Up - Tieto Global
+Innovation Hackathon
+Anand Fadte
+Chief Technology Officer | Leverage AI | EdTech
+Pune, Maharashtra, India
+Summary
+I am a seasoned Technology Head, CXO and AI Practice Leader
+in Software Engineering, showcasing a proven track record in
+Techno-Functional Leadership across the Insurance and Financial
+sectors. I excel in devising innovative AI and ML solutions and
+accelerators. My expertise encompasses Python, Data Science, AI,
+public speaking, data analytics, machine learning, and mobile app
+development using Flutter and Dart.
+I have spearheaded extensive technology transformations across
+various platforms including Mainframe, .NET, Java, and Python. I
+possess in-depth experience in establishing AI/ML operations from
+the ground up, having developed numerous AI applications utilizing
+platforms like AWS SageMaker, H2O.ai, and Applied AI.
+I have successfully led and designed a variety of groundbreaking
+product solutions in AI and ML for the financial industry. My
+background includes establishing multiple global practices within the
+insurance and financial sectors, encompassing governance, domain-
+specific architecture, KPI and OKR definition, and the strategic
+structuring of teams across different geographies.
+My expertise extends to business architecture, where I have
+developed enterprise-level web and mobile applications/products
+leveraging Microservices/SOA, Angular, Ionic, Flutter & Dart, various
+cloud platforms, and NoSQL databases such as MongoDB and
+DynamoDB.
+With over 18 years of experience, my skills span solution
+architecture, key account management, business development,
+global team building, program management, product management,
+presales, and business analytics. I have a track record of
+establishing expansive technology teams internationally in regions
+like the USA, UK, Europe, and Australia, and my experience ranges
+from start-ups to leading IT MNCs and captives.
+ 
+Page 1 of 5
+ 
+ 
+Experience
+M Square Media (MSM)
+Chief Technology Officer
+April 2022 - Present (2 years)
+Pune, Maharashtra, India
+Chief Technology Officer with a proven track record in leading technology
+transformations and integrating AI enablers to create next-generation EdTech
+platforms. Expertise in leveraging artificial intelligence and machine learning
+to develop personalized, adaptive learning experiences that scale across
+diverse educational settings. Skilled in orchestrating large-scale technology
+transformations, driving the adoption of advanced digital solutions, and
+fostering a culture of innovation. Passionate about harnessing the power
+of AI to transform traditional study abroad platform. Committed to building
+and leading teams to develop cutting-edge EdTech solutions that are at the
+forefront of Study abroad
+Qorbital India
+Director : Head - Data Science & ML
+June 2021 - April 2022 (11 months)
+Pune, Maharashtra, India
+Practice Head -> Leading overall AI and Data Science Capabilities in
+delivering the next generation banking platform. Also overall practice lead in
+building mobile capabilities using Flutter and Dart. Key focus areas - Applied
+AI, AI-ML Ops, Buy vs Build Analysis. 
+Building AI Capabilities. Recruiting, Mentoring. Identifying various opportunities
+within the platform in leveraging AI to enhance or optimize the business
+processes.
+TietoEVRY
+7 years 3 months
+Manager Data Science -  CIO Office
+July 2020 - May 2021 (11 months)
+Pune, Maharashtra, India
+Lead and designed various transformation, automation and consolidation
+programs for CIO office. Worked in building NLP based AI Apps, such as
+Incident Analytics and Predictive analytics for service desk. 
+Head of Mainframe Technology Group
+February 2020 - July 2020 (6 months)
+ 
+Page 2 of 5
+ 
+ 
+Pune
+Lead a Mainframe Practice and setting up unit. Key activities such as
+Mainframe modernization, DevOps for Mainframe, building accelerators
+around mainframe. Building capabilities in the areas of Mainframe, Cobol,
+AS400, HP-nonstop, CoolGen, DB2, IMS, etc.
+Accelerators for AI Ops for Mainframe transformations and Analytics
+Head of Software Engineering
+April 2019 - January 2020 (10 months)
+Pune Area, India
+# Practice Head, with responsibility of 5 verticals - Database Specialist,
+Configuration Specialist - DevOps and Mainframe, AI & ML and Program
+Management
+# Lead Multiple Analytics Products across customer profiles.
+# Hands-on technical capabilities in building AI Apps using Python focusing
+largely on NLP and Deep Learning using frameworks such as PyTorch, Keras
+& TesnsorFlow
+# Leading Data Science Capabilities for unit in building AI accelerators using
+Python, Django, & Angular Framework.
+# Largely responsible for growth initiatives within unit in harvesting and
+building set of accelerators, products and solutions.
+# Managing a team of Program Managers, Product  Owners, Business
+Consultants and Software Associates in driving large scale customer delivery.
+# Played a role of Technical Architect / Product Manager for multiple products
+built on  SOA / Micro-services Architecture in building complex web/mobile
+applications using Angular, Ionic, AWS, DynamoDB, MongoDB, Python, etc.
+# Built domain based frameworks such as Pension Reference Models for
+Finnish Pension
+# Designed and Conceptualized Python / Open source community at Tieto
+India and currently the lead trainer in Python. Have trained over 800 people at
+Tieto in Python.
+# Build multiple products using Design Thinking centered approach.
+Insurance and Pension - Practice Head, Analytics Domain Head
+March 2014 - April 2019 (5 years 2 months)
+Pune, Maharashtra, India
+# Designed and Lead Pension and Insurance Practice at India Delivery Center.
+Key responsibility includes Delivery setup, Knowledge Transition, Knowledge
+Building, Building customer centric Pension and Insurance Practices.
+ 
+Page 3 of 5
+ 
+ 
+# Build multiple Products and Accelerators around AI and Machine Learning
+for Pension and Insurance domain.
+# Awarded top innovator multiple times during this tenure for AI driven models
+and automation accelerators.
+# Design and build comprehensive Pension Reference models and deployed
+across multiple customers in Nordic region.
+# Lead the overall Pension & Insurance practice serving multiple customers in
+Global Delivery Model.
+Accenture
+Manager - Business Analytics - Insurance
+July 2006 - February 2014 (7 years 8 months)
+Sydney, Australia
+# Key focus areas : Business Analytics, Decision Support Systems, AI
+Analytics, Data Analytics
+# Lead large scale BA transformations in setting Onshore / BA delivery Models
+for Insurance customers.
+# Lead multiple Products / Projects / Customer Deliveries into Pension and
+Insurance Analytics space. 
+# Worked on multiple AI and Analytics products within Insurance Domain
+# Product Manager for Insurance Products such as ALIP, DuckCreek, Siebel
+CRM, Pega, etc
+# BA Manager in managing a BA set up of ~ 50 functional consultant
+# Setting up the BA practice in geographies such as USA, UK, Belgium,
+Australia etc.
+# Transition Manager for large scale Insurance programs
+Reuters
+Application Developer
+July 2005 - June 2006 (1 year)
+Bengaluru Area, India
+Developed and designed Data analytics Tool - the data enhancement tool
+which retrieves the traded instruments and contributes to the Reuters network.
+Honeywell
+Software Engineer
+January 2004 - May 2005 (1 year 5 months)
+Bengaluru Area, India
+Application Developer using Microsoft technologies such as ASP, ASP.net,
+VB.net
+ 
+Page 4 of 5
+ 
+ 
+Acetek Solutions
+Founder, Head
+March 1999 - August 2001 (2 years 6 months)
+Goa
+Founder and Promoter of start up firm  - Acetek Solutions, largely focusing on
+IT training and Software Developement
+Education
+International Institute of Information Technology Bangalore
+Post Graduation - Data Science and Machine Learning, Machine
+Learning · (2018 - 2019)
+Post Graduate Diploma in Applied Statistics
+Post Graduation (PG, Mathematics and Statistics · (2017 - 2019)
+ICFAI Business School
+Master of Business Administration - MBA, Insurance · (2004 - 2006)
+Goa University
+Master of Computer Applications - MCA, Computer Science · (2001 - 2004)
+Govt.College of Arts Science & Commerce Khandola
+Bachelor's degree in Computer Science, Computer Science · (1996 - 1999)
+ 
+Page 5 of 5
+ 
+ 
+Contact
+www.linkedin.com/in/vicparmar
+(LinkedIn)
+www.flickr.com/photos/
+vicky300374/ (Personal)
+bdotnet.in/blogs/vic/ (Blog)
+www.infragistics.com/ (Company)
+Top Skills
+.NET
+WPF
+WCF
+Kalpesh Vic Parmar
+CTO at AaNeel Infotech
+Bengaluru, Karnataka, India
+Summary
+CTO | AI | ML | IoT | Cloud | Mobile | Public Speaker | 
+Cutting edge technologist with over 24 Years’ Experience delivering
+state of the art multi-dimensional system architecture, enabling
+specific business and operational outcome that are highly scalable
+on cloud and on premise. 
+Facilitating architecture domains such as business, data, application,
+technology integration and security. 
+Successful deployments on multiple business verticals and lately
+focusing primarily on healthcare like EMR, EHR, HealthPlan and
+other managed care solutions.
+Proven leadership experience ranging from evaluating technology to
+discovered niche products ranging from NFC based devices, to IoT
+Solutions and integrating AI ML into Healthcare.
+Experience
+AaNeel Infotech
+Chief Technology Officer
+January 2012 - Present (12 years 3 months)
+Bangalore
+Created a Startup
+Warm Regards,
+Vic
+Aditi Technologies
+Principal Architect
+July 2010 - February 2012 (1 year 8 months)
+Infragistics
+Technical Evangelist
+ 
+Page 1 of 2
+ 
+ 
+April 2007 - July 2010 (3 years 4 months)
+US Technology
+Solutions Architect
+March 2006 - April 2007 (1 year 2 months)
+Erasmic
+Designer
+2004 - 2006 (2 years)
+ 
+Page 2 of 2
+ 
+ 
+Contact
+www.linkedin.com/in/ishan-
+mahajan-2a2885212 (LinkedIn)
+Ishan Mahajan
+Chief Technology Officer at IQGE
+Chandigarh, India
+Experience
+IQGE
+Chief Technology Officer
+ 
+Page 1 of 1
+ 
+ 
+Contact
+www.linkedin.com/in/vara-prasad-
+pvenkata-264798293 (LinkedIn)
+Top Skills
+Service Delivery
+Enterprise Software
+Director level
+Vara Prasad PVenkata
+Chief Technology Officer at PENTAGON GLOBAL SOLUTIONS PVT
+LTD
+Hyderabad, Telangana, India
+Summary
+I am Vara Prasad, have been in the IT industry for 25+ years. In my
+career, gained extensive experience in end to end development &
+deployments of the large scale web and mobile applications. Well
+expertise on health care, Banking and E-Commerce projects.
+Experience
+PENTAGON GLOBAL SERVICES
+Chief Technology Officer
+PENTAGON GLOBAL SOLUTIONS PVT LTD
+9 years 9 months
+Chief Technology Officer
+November 2018 - Present (5 years 5 months)
+Chennai, Tamil Nadu, India
+Managing Director
+July 2014 - October 2018 (4 years 4 months)
+Chennai, Tamil Nadu, India
+UHG (Unified Healthcare Group)
+Head of Information Technology Operations
+November 2012 - June 2014 (1 year 8 months)
+Chennai, Tamil Nadu, India
+L&T Technology Services
+Module Lead
+September 2010 - October 2012 (2 years 2 months)
+Chennai, Tamil Nadu, India
+Capgemini
+Team Lead
+January 2008 - August 2010 (2 years 8 months)
+ 
+Page 1 of 2
+ 
+ 
+Chennai, Tamil Nadu, India
+Tata Consultancy Services
+Senior Software Engineer
+October 2003 - December 2007 (4 years 3 months)
+Greater Bengaluru Area
+Sonata Software
+Software Engineer
+January 1999 - September 2003 (4 years 9 months)
+Greater Bengaluru Area
+Education
+JNTUH College of Engineering Hyderabad
+Doctor of Philosophy - PhD, Computer Science · (August 2014 - December
+2019)
+JNTUH College of Engineering Hyderabad
+Bachelor of Technology - B.Tech, Computer Science · (April 1994 - May 1998)
+ 
+Page 2 of 2
+ 
+ 
+Contact
+www.linkedin.com/in/radhe83
+(LinkedIn)
+rtcamp.com/ (Company)
+Top Skills
+JavaScript
+PHP
+MySQL
+Languages
+Tamil
+English
+Hindi
+Radhakrishnan Mudliar
+CTO at rtCamp Solutions Pvt. Ltd.
+Pune, Maharashtra, India
+Experience
+rtCamp Solutions Pvt. Ltd.
+CTO
+April 2009 - Present (15 years)
+Education
+Savitribai Phule Pune University
+BE, Computers · (2003 - 2007)
+AISSMS COE PUNE-1
+Computer Science · (2003 - 2007)
+ 
+Page 1 of 1
+ 
+ 
+Contact
+www.linkedin.com/in/dr-saravanan-
+muthiah-b8428b2 (LinkedIn)
+Top Skills
+Automotive
+Kaizen
+Vehicles
+Languages
+English (Native or Bilingual)
+Tamil (Native or Bilingual)
+Hindi (Native or Bilingual)
+Sanskrit (Elementary)
+Honors-Awards
+Best Paper Award (Engine &
+Transmission Domain)
+Mahindra Rise Award [Levels 1 & 2]
+Mahindra Rise Award [Level 1]
+Mahindra RISE Award [Levels 1, 2 &
+3]
+The Scania Best Paper Award
+Patents
+A Chassis Dynamometer and a
+Method for Testing an Engine of a
+Vehicle
+A Chassis Dynamometer and a
+Method for Testing an Engine of a
+Vehicle (Automatic Transmission)
+Chassis Dynamometer and Method
+for Determining Engine and
+Drivetrain Inertia of a Vehicle
+Dr. Saravanan Muthiah
+Chief Technology Officer (CTO) - NRB Bearings Limited
+Navi Mumbai, Maharashtra, India
+Summary
+I have over 27 years of experience in the Automotive R&D function
+with close to a decade in US. I have worked with Automotive
+OEMs (Maruti, GM-USA and M&M), Academia (Pennsylvania
+Transportation Institute) and Tier 1 (NRB Bearings). This rich journey
+has given me the opportunity to work on all aspects of automotive
+R&D starting from Concept Strategy, Simulation, Product Design,
+Tool Design, Testing and Facility Development and learn from some
+of the finest in the Automotive Industry.
+My areas of interest include 
+- New Technology Development and Evaluation
+- Vehicle Attribute development - Fuel Economy, Performance &
+Drivability
+- Electric Vehicles
+- Automation / Robotics
+- Homologation/Regulations
+- Data Mining & Neural Networks
+Experience
+NRB Bearings Limited
+4 years
+Chief Technology Officer
+July 2022 - Present (1 year 9 months)
+In my role as the CTO of NRB Bearings Ltd, I lead Product Technology and
+R&D functions. Additionally, I serve as the Corporate MR (Management
+Representative) for Quality, Environment, Occupational Health & Safety
+Management Systems in NRB. I report to the MD.
+Chief Technology Officer
+July 2022 - Present (1 year 9 months)
+In my role as the CTO of NRB Bearings Ltd, I lead Product Technology and
+R&D functions. Additionally, I serve as the Corporate MR (Management
+ 
+Page 1 of 5
+ 
+ 
+Representative) for Quality, Environment, Occupational Health & Safety
+Management Systems in NRB. I report to the MD.
+Vice President - Engineering / Head - Engineering Centre
+April 2020 - July 2022 (2 years 4 months)
+Mumbai, Maharashtra, India
+- Head of Engineering/R&D function at NRB Bearings Ltd
+- Part of NRB's Leadership Team reporting to the MD
+- Job role entails Product/Process Engineering, New Product Development
+(NPD) and Innovation.
+Mahindra and Mahindra Limited [Automotive, Farm Equipment and
+Agri Business]
+Head of Advanced Technology
+April 2018 - April 2020 (2 years 1 month)
+Chennai Area, India
+Head - Advanced Technology
+Head of Advanced Technology function catering to Auto, Farm, Trucks
+& Buses, Agri, Genset and Powertrain divisions. I reported to the Chief
+Technology Officer. The main function was to chart the Technology Road Map
+for M&M and deliver proof of concepts (POC).
+Mahindra & Mahindra
+6 years 8 months
+General Manager
+August 2014 - March 2018 (3 years 8 months)
+Chennai Area, India
+Head - Vehicle Performance Simulation 
+Head - Powertrain Technology Development 
+at M&M catering to Auto/Farm/Truck & Bus applications.  
+Focus Areas: 
+- Vehicle Fuel Economy and Performance Development (Simulation & Testing)
+- Powertrain Selection for a given vehicle application
+- Evaluation of New Technologies for Powertrain
+- Engine Performance Simulation
+- Exhaust After-treatment Selection  
+- Hardware-in-Loop Evaluation of Powertrain
+ 
+Page 2 of 5
+ 
+ 
+- Vehicle Drivability Development
+- Fuel Efficiency Standards
+- CO2 reduction technologies
+Deputy General Manager
+August 2011 - July 2014 (3 years)
+Head - Vehicle Performance Simulation at M&M catering to Auto and Farm
+applications.  
+Focus Areas: 
+- Vehicle Fuel Economy and Performance Development (Simulation & Testing)
+- Engine Performance Simulation
+- Powertrain Selection for a given vehicle application
+- Vehicle Drivability Development
+- Fuel Efficiency Standards
+- CO2 reduction technologies 
+Maruti Suzuki India Limited
+Asst. General Manager
+October 2009 - August 2011 (1 year 11 months)
+Gurgaon
+Head – Powertrain Development 
+Focus Areas: Powertrain Testing, Simulation & Calibration
+- Vehicle Fuel Economy and Performance simulation (Initiated this function at
+MSIL) 
+- Engine Dynamometer Testing 
+- Chassis Dynamometer Testing (Gasoline/Diesel/Alternative Fuel)
+- Engine level & Vehicle level Calibration for Fuel economy & Emissions
+- Planning future powertrain test facility & manpower requirements
+(2011-2015)
+- Technical Training for new graduate engineer trainees (GETs) and
+employees with less than seven year experience
+- Fuel Economy Regulations
+General Motors (GM Powertrain), Pontiac, MI, USA
+Analyst - Vehicle Systems
+March 2007 - September 2009 (2 years 7 months)
+Pontiac, MI, USA
+Global Lead Analyst – Diesel Simulation
+ 
+Page 3 of 5
+ 
+ 
+Support Analyst – Small Gasoline/Small Block Engine Simulations   
+Focus Areas: 
+- Vehicle Fuel Economy & Performance Analysis for all GM Diesel models
+- Engine dynamometer test data validation for all GM diesel engines 
+- FE Simulation model development (Emissions, cylinder deactivation etc) and
+debugging
+- Simulation Model Support for GM-North America, GM-Europe and GM-Brazil
+markets
+- Engine configuration selection (displacement, NA/Turbo etc) for GM’s small
+gasoline engine 
+Pennsylvania Transportation Institute
+Research Assistant (Bus Testing Program)
+August 2000 - December 2006 (6 years 5 months)
+University Park, PA, USA
+Focus Areas: Vehicle Performance Modeling, Mobile Emission Measurement,
+Artificial Neural Networks, HEV, Vehicle Dynamics
+-  Neural network modeling of fuel economy, acceleration, reliability and pass-
+by noise for transit buses 
+- Development and validation of Penn State’s portable Mobile Vehicle
+Emission Sampling System (MVESS) 
+- Powertrain evaluation for Penn State’s hybrid electric vehicle (2001
+FutureTruck competition)
+- Influence of vehicle noise sources and pavement types on pass-by noise
+emissions
+- Impact of overloading on pavement damage
+- Handling ability of transient bus
+Maruti Udyog Limited
+Sr. Executive, Executive, GET
+October 1995 - July 2000 (4 years 10 months)
+Lead (Domestic Homologation/CMVR)
+Head (Mass Emission Lab -2)
+Focus Areas: Homologation & Mass Emission Testing
+- Homologation of all domestic models with Test Agencies (ARAI/VRDE) 
+ 
+Page 4 of 5
+ 
+ 
+- Design implication analysis of new vehicle standards (Central Motor Vehicle
+Rules)
+- Construction, commissioning and functioning of Maruti’s first diesel Emission
+testing facility (Emission Lab -2)
+- Homologation of Maruti vehicle models with FMSCI (Federation of Motor
+Sports Clubs of India)
+- Articulation of Maruti's point of view at AIAM/SIAM meetings on CMVR
+L&T, Powai, Mumbai
+Graduate Engineer Trainee
+September 1995 - October 1995 (2 months)
+Focus Area: Process Engineering
+GET in Eutectic Welding Alloys Ltd (EWAC) Division of L&T 
+Education
+Penn State University
+Doctor of Philosophy (Ph.D.), Mechanical Engineering · (2002 - 2006)
+Penn State University
+Master of Science (M.S.), Mechanical Engineering · (2000 - 2001)
+Delhi College of Engineering
+Bachelor of Engineering (B.E.), Mechanical Engineering · (1991 - 1995)
+D.T.E.A. Sr. Sec. School, Mandir Marg
+D.S.S.C.E.  · (1982 - 1991)
+ 
+Page 5 of 5

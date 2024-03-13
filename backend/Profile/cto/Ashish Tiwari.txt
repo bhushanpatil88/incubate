@@ -1,0 +1,77 @@
+ 
+ 
+Contact
+www.linkedin.com/in/ashish-tiwari-
+(LinkedIn)
+Top Skills
+Risk Management
+Portfolio Management
+C++
+Languages
+English (Native or Bilingual)
+Hindi (Native or Bilingual)
+Certifications
+Web Analytics Fundamentals
+Strategic Planning Fundamentals
+Ashish Tiwari
+CTO and Co-Founder at PixoPal
+Pune, Maharashtra, India
+Summary
+Driving the team to create a technology platform for automating
+digital (image) post production processes with our standardization &
+objectivity. Business/Corporates can now leave their "processing the
+digital asset" worries with us.
+-- Winner of Blaze StartUp Summit 2019
+-- Top 5 in Million-at-Stake 2019, IITKGP
+Previously : Torux, Bentley, Afidium, IDRC
+Experience of 11+ years specializing in Software solutions, design
+& architect, UI/UX , Product development and Management in the
+industry of financial Risk and Portfolio management , Analytics &
+IOT.
+Led high performance teams with continuous improvement programs
+and excelled in managing Client engagement activities.
+Specialties:   Microsoft Technologies, Analytics, CAD, ML in Image
+Processing , Risk & Portfolio Management, Trade Life cycle,
+Hedging, IOT, Strategic Planning & Initiatives
+Experience
+PixoPal
+CTO, PixoPaL.com
+January 2017 - Present (7 years 3 months)
+Pune Area, India
+Driving the team to create a technology platform for automating digital (image)
+post production processes with our standardization & objectivity. Business/
+Corporates can now leave their "processing the digital asset" worries with us.
+IDRC
+Technical Solutions Consultant
+July 2014 - February 2015 (8 months)
+ 
+Page 1 of 2
+ 
+ 
+Designed & developed the “client side” UI interface & api’s to interact with
+analytics & data services.
+Populate indexes from different vendors with instruments of different weights
+and let users perform analytics based on inputs from index data, fact-set data,
+sector data. The information filters were created for a better visualization of
+the data.Calculation logic/expression parser were implemented for user-end
+analysis. 
+Usage of Dev-express tools for creating innovative visualization for client
+Torux Software
+Product Manager / Financial Engineer
+June 2010 - June 2014 (4 years 1 month)
+Creating Portfolio & Risk Management solutions for hedge funds and other
+institutions
+# Worked on creating Portfolio reports and Hedging Strategies for validating
+various modules
+#Knowledge of Risk Management and Hedging tools like VaR, Sensitivity
+Analysis & Hedging Scenarios
+Bentley Systems
+Software Engineer
+2005 - June 2010 (5 years)
+Involved with Development, designing of Plant infrastructure simulation
+software. Working on establishing distributed collaborative efforts
+Education
+IIT Bombay
+Dual Degree( B.Tech + M.Tech )  · (2004)
+ 
+Page 2 of 2
