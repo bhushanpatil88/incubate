@@ -25,7 +25,7 @@ const Results = ({ results }) => {
               </h2>
               <p className="mt-2 font-bold text-black">
                 <span className="font-bold text-black">Score:</span>{" "}
-                {results[key][0]}
+                {results[key][0]}%
               </p>
               {results[key][1].map((person, index) => (
                 <div
@@ -66,7 +66,7 @@ const Results = ({ results }) => {
                   </p>
                 <p className="mt-2 font-bold text-black">
                   <span className="font-bold text-black">Score:</span>{" "}
-                  {results[key][1]}
+                  {results[key][1]}%
                 </p>
               </div>
               <a

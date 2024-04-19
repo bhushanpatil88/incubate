@@ -19,6 +19,12 @@ class WMD:
         self.cxo_desc_tweet = cxo_desc_tweet
         self.profiles_directory = profiles_directory
 
+    def manage_score(self,score):
+        score += 0.7
+        score = score * 100 - 10
+        return round(score,2)
+
+
     def preprocess_text(self, text):
         # Tokenize text
         tokens = word_tokenize(text)
@@ -40,7 +46,7 @@ class WMD:
         tfidf_matrix = vectorizer.fit_transform([doc1, doc2])
         # Calculate cosine similarity
         similarity = cosine_similarity(tfidf_matrix[0], tfidf_matrix[1])
-        return similarity[0][0] + 0.7
+        return similarity[0][0]
 
     def wmd(self):
         profile_similarity_scores = []
@@ -53,9 +59,9 @@ class WMD:
                 if linkedin is not None:
                     linkedin = linkedin.group(1).replace(" ","")
                 else: linkedin = ''
-                # similarity_score = self.calculate_similarity(self.cxo_desc_tweet, profile)
-                similarity_score = 0
-                profile_similarity_scores.append([profile_path[:-4], similarity_score, linkedin])
+                similarity_score = self.calculate_similarity(self.cxo_desc_tweet, profile)
+                # similarity_score = 0
+                profile_similarity_scores.append([profile_path[:-4], self.manage_score(similarity_score) , linkedin])
         sorted_profiles = sorted(profile_similarity_scores, key=lambda x: x[1], reverse=True)
         top_5_profiles = sorted_profiles[:5]
         # print(top_5_profiles)
@@ -71,8 +77,8 @@ class WMD:
                 profile = f.read()
                 people = profile.split('\n')[0].split(',')
                 profile  = profile.replace("\n"," ")
-                # similarity_score = self.calculate_similarity(self.cxo_desc_tweet, profile)
-                similarity_score = 0
+                similarity_score = self.calculate_similarity(self.cxo_desc_tweet, profile)
+                # similarity_score = 0
                 linkedin_links = []
                 print(people)
                 for person in people:
@@ -83,7 +89,7 @@ class WMD:
                             linkedin = linkedin.group(1).replace(" ","")
                         else: linkedin = ''
                         linkedin_links.append({person:linkedin})
-                community_similarity_scores.append([similarity_score, linkedin_links])
+                community_similarity_scores.append([self.manage_score(similarity_score), linkedin_links])
             sorted_communities = sorted(community_similarity_scores, key=lambda x: x[0], reverse=True)
             top_community = sorted_communities[0]
             return top_community

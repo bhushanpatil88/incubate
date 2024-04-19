@@ -41,7 +41,8 @@ def test(idea, designation):
     wmd.wmd_community(role)
 
 @app.route('/<idea>/<designation>')
-def hello(idea, designation):
+def main(idea, designation):
+    print(f'{idea}')
     designations = getDesignations(designation)
     if len(designations)==0:
         return jsonify({"error":"Error has occured"})
