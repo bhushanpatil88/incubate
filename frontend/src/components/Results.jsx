@@ -1,7 +1,7 @@
 import profile from "../assets/profile.png";
 
 const Results = ({ results }) => {
-  console.log(results);
+  console.log(results)
   return (
     <div className="p-4" style={{ backgroundColor: "#EBEBEB" }}>
       <h1 className="text-3xl font-bold mb-4" style={{ color: "#FF8991" }}>Search Results</h1>
@@ -56,27 +56,22 @@ const Results = ({ results }) => {
               <h2 className="text-lg text-black font-semibold">
                 {key.toUpperCase()}
               </h2>
-              <div className="flex flex-col items-center text-center">
+              {results[key].map((prf)=>(
+                <div className="flex flex-col items-center text-center">
                 
-                <img src={profile} className="w-14 h-14 m-2 rounded-full border-2 border-black" alt="Profile" />
-                  
-                <p className="mt-2 font-bold text-black">
-                  <span className="font-bold text-black">Name:</span>{" "}
-                  {results[key][0]}
+                  <img src={profile} className="w-14 h-14 m-2 rounded-full border-2 border-black" alt="Profile" />
+                    
+                  <p className="mt-2 font-bold text-black">
+                    <span className="font-bold text-black">Name:</span>{" "}
+                    {prf[0]}
+                    </p>
+                  <p className="mt-2 font-bold text-black">
+                    <span className="font-bold text-black">Score:</span>{" "}
+                    {prf[1]}%
                   </p>
-                <p className="mt-2 font-bold text-black">
-                  <span className="font-bold text-black">Score:</span>{" "}
-                  {results[key][1]}%
-                </p>
-              </div>
-              <a
-                href={`https:${results[key][2]}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-600 hover:underline"
-              >
-                LinkedIn Profile
-              </a>
+                </div>
+              ))}
+              
             </div>
           )
         )}

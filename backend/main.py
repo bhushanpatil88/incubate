@@ -3,6 +3,7 @@ from flask_cors import CORS
 import pandas as pd
 import csv
 from wmd import WMD
+from LLM import LLM
 import re
 
 app = Flask(__name__)
@@ -42,50 +43,57 @@ def test(idea, designation):
 
 @app.route('/<idea>/<designation>')
 def main(idea, designation):
-    print(f'{idea}')
     designations = getDesignations(designation)
     if len(designations)==0:
         return jsonify({"error":"Error has occured"})
-    res = {}
-    
-    for role in designations:
-        file = open(f"./resources/Ideas/{idea}/{idea}_{role}.txt", "r")
-        res[role] = file.read()
-        
+
+    # LLM Prompter
+    llm = LLM()
+    res = llm.get_ideal_profiles(idea=idea,designations=designations)
+
+    res = {
+        "ceo": "At the helm of the organization, an exceptional leader emerged, a visionary with an unparalleled ability to guide the company towards uncharted horizons. Possessing an insatiable curiosity and an unwavering belief in the power of innovation, this leader forged a path marked by strategic thinking and bold decisions. With a keen eye for emerging trends and a deep understanding of the industry landscape, they anticipated market shifts and identified growth opportunities that propelled the company to new heights. Their unwavering determination and risk-taking spirit inspired a culture of excellence within the organization, empowering employees to embrace challenges and strive for continuous improvement. By fostering collaboration and open communication, they created an environment where ideas thrived and transformative solutions were born. This visionary leader's exceptional decision-making skills, informed by rigorous data analysis and a deep comprehension of stakeholder perspectives, ensured that the company remained agile and responsive to market dynamics. Their unwavering belief in the power of people and their ability to drive change fostered a loyal and highly motivated workforce, dedicated to delivering exceptional results. Under their visionary leadership, the company scaled unprecedented heights, establishing itself as an industry leader and a beacon of innovation, leaving an indelible mark on the business world and beyond.",
+        "cmo": "",
+        "cto": "",
+    }
 
     # WMD Working
     final = {}
-    for role,data in res.items():
+    for role,description in res.items():
+        if description == "":
+            continue
+
         # for person profiles
-        wmd = WMD(data, f"./Profile/{role}")
-        top_5_profiles = wmd.wmd()
+        wmd = WMD(description, f"./Profile/{role}")
+        top_5_profiles = wmd.person_ranking()
         results = {}
-        print(role)
-        for i, (profile_path, similarity_score, linkedin) in enumerate(top_5_profiles, 1):
+        for i, (profile_path, similarity_score) in enumerate(top_5_profiles, 1):
             print(f"Top {i} Profile (Similarity Score: {similarity_score}): {profile_path}")
-            results[profile_path] = [similarity_score, linkedin]
-        final[role] = [top_5_profiles[0][0],top_5_profiles[0][1], top_5_profiles[0][2]]
+            results[profile_path] = similarity_score
+            if role not in final:
+                final[role] = []
+            final[role].append([profile_path, similarity_score])
         
         results_csv = f"{role}_results.csv"
-        fields = ["Name", "Score","Linkedin"]
+        fields = ["Name", "Score"]
         with open(results_csv, "w", encoding="utf-8") as f:
             csvwriter = csv.writer(f)
             csvwriter.writerow(fields)
-            for name, value in results.items():
-                csvwriter.writerow([name, value[0],value[1]])
+            for name, score in results.items():
+                csvwriter.writerow([name, score])
         # for community
-        wmd = WMD(data,f"./Communities/{role}_community")
-        top_community = wmd.wmd_community(role)
-        community_csv = f'{role}_community.csv'
-        fields = ["Name","Linkedin"]
-        print(top_community)
-        with open(community_csv, "w", encoding="utf-8") as f:
-            csvwriter = csv.writer(f)
-            csvwriter.writerow(fields)
-            for arr in top_community[1]:
-                for k,v in arr.items():
-                    csvwriter.writerow([k,v])
-        final[f'{role}_community'] = top_community
+        # wmd = WMD(description,f"./Communities/{role}_community")
+        # top_community = wmd.wmd_community(role)
+        # community_csv = f'{role}_community.csv'
+        # fields = ["Name","Linkedin"]
+        # print(top_community)
+        # with open(community_csv, "w", encoding="utf-8") as f:
+        #     csvwriter = csv.writer(f)
+        #     csvwriter.writerow(fields)
+        #     for arr in top_community[1]:
+        #         for k,v in arr.items():
+        #             csvwriter.writerow([k,v])
+        # final[f'{role}_community'] = top_community
     print(final)
     return jsonify(final)
 

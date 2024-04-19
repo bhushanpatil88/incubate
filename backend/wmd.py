@@ -3,7 +3,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-
+import sys
 import re
 import os
 
@@ -15,8 +15,8 @@ nltk.download('omw-1.4')
 
 
 class WMD:
-    def __init__(self, cxo_desc_tweet, profiles_directory):
-        self.cxo_desc_tweet = cxo_desc_tweet
+    def __init__(self, description, profiles_directory):
+        self.description = description
         self.profiles_directory = profiles_directory
 
     def manage_score(self,score):
@@ -48,25 +48,23 @@ class WMD:
         similarity = cosine_similarity(tfidf_matrix[0], tfidf_matrix[1])
         return similarity[0][0]
 
-    def wmd(self):
+    def person_ranking(self):
         profile_similarity_scores = []
         for filename in os.listdir(self.profiles_directory):
             profile_path = os.path.join(self.profiles_directory, filename)
             with open(profile_path, 'r', encoding="utf-8") as f:
                 profile = f.read()
-                profile  = profile.replace("\n"," ")
-                linkedin = re.search(r'Contact\s(.*?)\s\(LinkedIn\)', profile.strip())
-                if linkedin is not None:
-                    linkedin = linkedin.group(1).replace(" ","")
-                else: linkedin = ''
-                similarity_score = self.calculate_similarity(self.cxo_desc_tweet, profile)
+                similarity_score = self.calculate_similarity(self.description, profile)
                 # similarity_score = 0
-                profile_similarity_scores.append([profile_path[:-4], self.manage_score(similarity_score) , linkedin])
+                profile_similarity_scores.append([profile_path[:-4], self.manage_score(similarity_score)])
         sorted_profiles = sorted(profile_similarity_scores, key=lambda x: x[1], reverse=True)
         top_5_profiles = sorted_profiles[:5]
-        # print(top_5_profiles)
+
         for pr in top_5_profiles:
-            pr[0] = pr[0].split("\\")[-1]
+            if sys.platform == "win32":
+                pr[0] = pr[0].split("\\")[-1]
+            else:
+                pr[0] = pr[0].split("/")[-1]
         return top_5_profiles
 
     def wmd_community(self,role):
@@ -77,7 +75,7 @@ class WMD:
                 profile = f.read()
                 people = profile.split('\n')[0].split(',')
                 profile  = profile.replace("\n"," ")
-                similarity_score = self.calculate_similarity(self.cxo_desc_tweet, profile)
+                similarity_score = self.calculate_similarity(self.description, profile)
                 # similarity_score = 0
                 linkedin_links = []
                 print(people)
