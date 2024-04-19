@@ -1,0 +1,37 @@
+A highly skilled and experienced technology leader with a unique combination of UX/UI design and IaaS (Infrastructure as a Service) expertise. Possesses a deep understanding of user-centered design principles and a proven ability to create engaging and intuitive user experiences. Demonstrated proficiency in IaaS technologies, including cloud computing, virtualization, storage, and networking. Proven ability to design, develop, and implement complex IT systems and architectures that meet both business and user needs. Expertise in leveraging IaaS to optimize performance, scalability, and cost-effectiveness. A strategic thinker with a strong track record of driving innovation and delivering successful technology solutions.
+
+**Additional skills:**
+
+* UX/UI design tools (Figma, Adobe XD)
+* Agile methodologies (Scrum, Kanban)
+* Cloud computing (AWS, Azure, GCP)
+* Virtualization (VMware, Hyper-V)
+* Storage (SAN, NAS)
+* Networking (Cisco, Juniper)
+
+**Experience:**
+
+* Led the design and implementation of a cloud-based platform that improved user engagement by 20% and reduced infrastructure costs by 30%.
+* Developed and executed a UX strategy that resulted in a 15% increase in customer satisfaction and a 10% reduction in support tickets.
+* Designed and built a scalable and resilient IaaS infrastructure that supported the rapid growth of a high-traffic e-commerce website.
+
+**Education:**
+
+* Master's degree in Computer Science
+* Bachelor's degree in Human-Computer Interaction
+
+**Certifications:**
+
+* UX Designer Certification
+* AWS Certified Solutions Architect
+
+**Memberships:**
+
+* IEEE
+* ACM
+* UXPA
+
+**Awards and recognition:**
+
+* CTO of the Year Award
+* Innovation Leader of the Year Award

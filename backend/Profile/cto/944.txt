@@ -1,0 +1,37 @@
+A highly skilled and experienced technology leader with a unique combination of UX/UI design and API development expertise. Possesses a deep understanding of user-centered design principles and a proven ability to create engaging and intuitive user experiences. Expertise in API design, development, and management. Proven ability to create scalable, secure, and reliable APIs that meet the needs of both internal and external stakeholders. Demonstrated proficiency in integrating APIs with user interfaces to enhance functionality and improve the overall user experience. A strategic thinker with a strong track record of driving innovation and delivering successful technology solutions.
+
+**Additional skills:**
+
+* UX/UI design tools (Figma, Adobe XD)
+* Agile methodologies (Scrum, Kanban)
+* API design and development (REST, SOAP)
+* API management (API Gateway, API Management Platform)
+* API security (OAuth, JWT)
+
+**Experience:**
+
+* Led the design and implementation of a new API platform that increased API usage by 20% and improved customer satisfaction by 15%.
+* Developed and executed a UX strategy that resulted in a 10% increase in website traffic and a 5% increase in conversion rate.
+* Integrated APIs into user interfaces to provide real-time data and personalized experiences, resulting in a 15% increase in user engagement.
+
+**Education:**
+
+* Master's degree in Computer Science
+* Bachelor's degree in Human-Computer Interaction
+
+**Certifications:**
+
+* UX Designer Certification
+* API Developer Certification
+
+**Memberships:**
+
+* IEEE
+* ACM
+* UXPA
+* API Association
+
+**Awards and recognition:**
+
+* CTO of the Year Award
+* Innovation Leader of the Year Award
