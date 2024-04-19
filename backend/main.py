@@ -100,3 +100,16 @@ def main(idea, designation):
 if __name__ == "__main__":
     # test("OSMO-DRAIN - the subsurface irrigation system", "100")
     app.run(host="0.0.0.0",debug=True)
+
+#TODO
+"""
+make LLM work
+detect community and form community data
+make wmd community work
+adjust the scores
+
+make idea as input text
+make css changes for profiles
+make css changes for top 3 communities
+
+"""
