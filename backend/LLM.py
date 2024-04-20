@@ -15,12 +15,14 @@ class LLM:
         cmo_description = ''
         cto_description = ''
         if "ceo" in designations:
+            print("inside ceo")
             response_ceo = self.client.chat.completions.create(
                 model="llama2",                                       
                 messages=[
                     {"role": "system", "content": ceo_query },]
             )
             ceo_description = response_ceo.choices[0].message.content
+            print(ceo_description)
 
         if "cmo" in designations:
             response_cmo = self.client.chat.completions.create(
