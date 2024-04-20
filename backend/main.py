@@ -48,8 +48,8 @@ def main(idea, designation):
         return jsonify({"error":"Error has occured"})
 
     # LLM Prompter
-    llm = LLM()
-    res = llm.get_ideal_profiles(idea=idea,designations=designations)
+    # llm = LLM()
+    # res = llm.get_ideal_profiles(idea=idea,designations=designations)
 
     res = {
         "ceo": "At the helm of the organization, an exceptional leader emerged, a visionary with an unparalleled ability to guide the company towards uncharted horizons. Possessing an insatiable curiosity and an unwavering belief in the power of innovation, this leader forged a path marked by strategic thinking and bold decisions. With a keen eye for emerging trends and a deep understanding of the industry landscape, they anticipated market shifts and identified growth opportunities that propelled the company to new heights. Their unwavering determination and risk-taking spirit inspired a culture of excellence within the organization, empowering employees to embrace challenges and strive for continuous improvement. By fostering collaboration and open communication, they created an environment where ideas thrived and transformative solutions were born. This visionary leader's exceptional decision-making skills, informed by rigorous data analysis and a deep comprehension of stakeholder perspectives, ensured that the company remained agile and responsive to market dynamics. Their unwavering belief in the power of people and their ability to drive change fostered a loyal and highly motivated workforce, dedicated to delivering exceptional results. Under their visionary leadership, the company scaled unprecedented heights, establishing itself as an industry leader and a beacon of innovation, leaving an indelible mark on the business world and beyond.",
@@ -107,9 +107,4 @@ make LLM work
 detect community and form community data
 make wmd community work
 adjust the scores
-
-make idea as input text
-make css changes for profiles
-make css changes for top 3 communities
-
 """
