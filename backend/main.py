@@ -47,19 +47,17 @@ def main(idea, designation):
     if len(designations)==0:
         return jsonify({"error":"Error has occured"})
 
-    # LLM Prompter
-    llm = LLM()
-    res = llm.get_ideal_profiles(idea=idea,designations=designations)
-    print(res)
+    # LLM Prompter (Currently not working)
+    # llm = LLM()
+    # res = llm.get_ideal_profiles(idea=idea,designations=designations)
     res = {
         "ceo": "At the helm of the organization, an exceptional leader emerged, a visionary with an unparalleled ability to guide the company towards uncharted horizons. Possessing an insatiable curiosity and an unwavering belief in the power of innovation, this leader forged a path marked by strategic thinking and bold decisions. With a keen eye for emerging trends and a deep understanding of the industry landscape, they anticipated market shifts and identified growth opportunities that propelled the company to new heights. Their unwavering determination and risk-taking spirit inspired a culture of excellence within the organization, empowering employees to embrace challenges and strive for continuous improvement. By fostering collaboration and open communication, they created an environment where ideas thrived and transformative solutions were born. This visionary leader's exceptional decision-making skills, informed by rigorous data analysis and a deep comprehension of stakeholder perspectives, ensured that the company remained agile and responsive to market dynamics. Their unwavering belief in the power of people and their ability to drive change fostered a loyal and highly motivated workforce, dedicated to delivering exceptional results. Under their visionary leadership, the company scaled unprecedented heights, establishing itself as an industry leader and a beacon of innovation, leaving an indelible mark on the business world and beyond.",
         "cmo": "",
         "cto": "",
     }
-    print(res)  
 
     # WMD Working
-    final = {}
+    final_results = {}
     for role,description in res.items():
         if description == "":
             continue
@@ -67,36 +65,48 @@ def main(idea, designation):
         # for person profiles
         wmd = WMD(description, f"./Profile/{role}")
         top_5_profiles = wmd.person_ranking()
-        results = {}
-        for i, (profile_path, similarity_score) in enumerate(top_5_profiles, 1):
-            print(f"Top {i} Profile (Similarity Score: {similarity_score}): {profile_path}")
-            results[profile_path] = similarity_score
-            if role not in final:
-                final[role] = []
-            final[role].append([profile_path, similarity_score])
+        
+        profile_results = {}
+        for i, (profile_name, similarity_score) in enumerate(top_5_profiles, 1):
+            print(f"Top {i} Profile (Similarity Score: {similarity_score}): {profile_name}")
+            if role not in final_results:
+                final_results[role] = []
+            profile_results[profile_name] = similarity_score
+            # TODO: profile names should be generated on random based on LLM
+            final_results[role].append(["profile_name", similarity_score])
         
         results_csv = f"{role}_results.csv"
         fields = ["Name", "Score"]
         with open(results_csv, "w", encoding="utf-8") as f:
             csvwriter = csv.writer(f)
             csvwriter.writerow(fields)
-            for name, score in results.items():
+            for name, score in profile_results.items():
                 csvwriter.writerow([name, score])
+  
         # for community
-        # wmd = WMD(description,f"./Communities/{role}_community")
-        # top_community = wmd.wmd_community(role)
-        # community_csv = f'{role}_community.csv'
-        # fields = ["Name","Linkedin"]
-        # print(top_community)
-        # with open(community_csv, "w", encoding="utf-8") as f:
-        #     csvwriter = csv.writer(f)
-        #     csvwriter.writerow(fields)
-        #     for arr in top_community[1]:
-        #         for k,v in arr.items():
-        #             csvwriter.writerow([k,v])
-        # final[f'{role}_community'] = top_community
-    print(final)
-    return jsonify(final)
+        wmd = WMD(description,f"./Community/{role}")
+        top_3_communities = wmd.community_ranking()
+
+        community_results = {}
+        for i, (community_name, similarity_score) in enumerate(top_3_communities, 1):
+            print(f"Top {i} Community (Similarity Score: {similarity_score}): {community_name}")
+            if f'{role}_community' not in final_results:
+                final_results[f'{role}_community'] = []
+            community_results[community_name] = similarity_score
+            # TODO: Here the community_name, name1, name2, name3 should be random names from LLM also the count should not always be 3 it should be random greater than 5
+            final_results[f'{role}_community'].append([community_name, similarity_score, ['name1','name2','name3']])
+
+
+        community_csv = f'{role}_community.csv'
+        fields = ["Name","Score","Names"]
+        with open(community_csv, "w", encoding="utf-8") as f:
+            csvwriter = csv.writer(f)
+            csvwriter.writerow(fields)
+            for name, score in community_results.items():
+                csvwriter.writerow([name, score, "name1, name2, name3"])
+
+    print(final_results)
+    return jsonify(final_results)
 
 if __name__ == "__main__":
     # test("OSMO-DRAIN - the subsurface irrigation system", "100")
@@ -105,7 +115,6 @@ if __name__ == "__main__":
 #TODO
 """
 make LLM work
-detect community and form community data
-make wmd community work
+use llm for generating synthetic names for profiles, for community and for people inside the community
 adjust the scores
 """

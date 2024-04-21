@@ -35,7 +35,6 @@ class WMD:
         tokens = [lemmatizer.lemmatize(token) for token in tokens]
         return ' '.join(tokens)
 
-    # Function to calculate cosine similarity between two documents
 
     def calculate_similarity(self, doc1, doc2):
         # Preprocess documents
@@ -49,13 +48,19 @@ class WMD:
         return similarity[0][0]
 
     def person_ranking(self):
+        i = 0
         profile_similarity_scores = []
         for filename in os.listdir(self.profiles_directory):
             profile_path = os.path.join(self.profiles_directory, filename)
             with open(profile_path, 'r', encoding="utf-8") as f:
                 profile = f.read()
+                i += 1
+                print(f'Applying WMD on profile number : {i}')
+                if i==20:
+                    break
                 similarity_score = self.calculate_similarity(self.description, profile)
                 # similarity_score = 0
+                
                 profile_similarity_scores.append([profile_path[:-4], self.manage_score(similarity_score)])
         sorted_profiles = sorted(profile_similarity_scores, key=lambda x: x[1], reverse=True)
         top_5_profiles = sorted_profiles[:5]
@@ -67,27 +72,24 @@ class WMD:
                 pr[0] = pr[0].split("/")[-1]
         return top_5_profiles
 
-    def wmd_community(self,role):
+    def community_ranking(self):
         community_similarity_scores = []
+        i = 0
         for filename in os.listdir(self.profiles_directory):
-            profile_path = os.path.join(self.profiles_directory, filename)
-            with open(profile_path, 'r', encoding="utf-8") as f:
-                profile = f.read()
-                people = profile.split('\n')[0].split(',')
-                profile  = profile.replace("\n"," ")
-                similarity_score = self.calculate_similarity(self.description, profile)
-                # similarity_score = 0
-                linkedin_links = []
-                print(people)
-                for person in people:
-                    with open(f'./Profile/{role}/{person}.txt','r',encoding='utf-8') as p:
-                        data = p.read()
-                        linkedin = re.search(r'Contact\s(.*?)\s\(LinkedIn\)', profile.strip())
-                        if linkedin is not None:
-                            linkedin = linkedin.group(1).replace(" ","")
-                        else: linkedin = ''
-                        linkedin_links.append({person:linkedin})
-                community_similarity_scores.append([self.manage_score(similarity_score), linkedin_links])
-            sorted_communities = sorted(community_similarity_scores, key=lambda x: x[0], reverse=True)
-            top_community = sorted_communities[0]
-            return top_community
+            print(filename)
+            community_path = os.path.join(self.profiles_directory, filename)
+            with open(community_path, 'r', encoding="utf-8") as f:
+                community = f.read()
+                i += 1
+                print(f'Applying WMD on Community number : {i}')
+                # similarity_score = self.calculate_similarity(self.description, community)
+                similarity_score = 0
+                community_similarity_scores.append([community_path, self.manage_score(similarity_score)])
+        sorted_communities = sorted(community_similarity_scores, key=lambda x: x[0], reverse=True)
+        top_3_communities = sorted_communities[:3]
+        for com in top_3_communities:
+            if sys.platform == "win32":
+                com[0] = com[0].split("\\")[-1]
+            else:
+                com[0] = com[0].split("/")[-1]
+        return top_3_communities

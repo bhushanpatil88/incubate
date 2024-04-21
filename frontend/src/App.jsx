@@ -39,20 +39,20 @@ function App() {
         });
       });
   };
-  let res = {
-    ceo: [
-      ["1", 100],
-      ["2", 1000],
-      ["3", 2000],
-      ["4", 200],
-      ["5", 290392],
-    ],
-    ceo_community: [
-      ["community1", 1000, ["1", "2", "3"]],
-      ["community2", 100, ["4", "2", "3"]],
-      ["community3", 600, ["6", "2", "3"]],
-    ],
-  };
+  // let res = {
+  //   ceo: [
+  //     ["1", 100],
+  //     ["2", 1000],
+  //     ["3", 2000],
+  //     ["4", 200],
+  //     ["5", 290392],
+  //   ],
+  //   ceo_community: [
+  //     ["community1", 1000, ["1", "2", "3"]],
+  //     ["community2", 100, ["4", "2", "3"]],
+  //     ["community3", 600, ["6", "2", "3"]],
+  //   ],
+  // };
 
   return (
     <>
@@ -70,8 +70,7 @@ function App() {
           {isSelected.role && <CXO roles={roles} setValues={setRoles} />}
         </>
       )}
-      {isSelected.result && <Results results ={res} />}
-      {/* <Results results={res} /> */}
+      {isSelected.result && <Results results ={results} />}
     </>
   );
 }
