@@ -1,31 +1,33 @@
 from openai import OpenAI
 
 class LLM:
-    def __init__(self):
-        self.client = OpenAI(
+
+    def get_ideal_profiles(idea, designations):
+
+        client = OpenAI(
             base_url = 'http://localhost:11434/v1',
             api_key='llama',
         )
 
-    def get_ideal_profiles(self, idea, designations):
         ceo_query =  "what are the technical and management skills essentail for the CEO to implement the idea '"+idea+"'"
         cmo_query =  "what are the technical and marketing skills essentail for the CMO to implement the idea '"+idea+"'"
         cto_query =  "what are the technical and strategic skills essentail for the CTO to implement the idea '"+idea+"'"
         ceo_description = ''
         cmo_description = ''
         cto_description = ''
+
         if "ceo" in designations:
             print("inside ceo")
-            response_ceo = self.client.chat.completions.create(
+            response_ceo = client.chat.completions.create(
                 model="llama2",                                       
                 messages=[
                     {"role": "system", "content": ceo_query },]
             )
             ceo_description = response_ceo.choices[0].message.content
-            print(ceo_description)
 
         if "cmo" in designations:
-            response_cmo = self.client.chat.completions.create(
+            print("inside cmo")
+            response_cmo = client.chat.completions.create(
                 model="llama2",                                       
                 messages=[
                     {"role": "system", "content": cmo_query },]
@@ -33,7 +35,8 @@ class LLM:
             cmo_description = response_cmo.choices[0].message.content
 
         if "cto" in designations:
-            response_cto = self.client.chat.completions.create(
+            print("inside cto")
+            response_cto = client.chat.completions.create(
                 model="llama2",                                       
                 messages=[
                     {"role": "system", "content": cto_query },]
