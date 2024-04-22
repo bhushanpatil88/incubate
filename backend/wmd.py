@@ -89,7 +89,7 @@ class WMD:
         top_3_communities = sorted_communities[:3]
         for com in top_3_communities:
             if sys.platform == "win32":
-                com[0] = com[0].split("\\")[-1]
+                com[0] = com[0].split("\\")[-1][:-4]
             else:
-                com[0] = com[0].split("/")[-1]
+                com[0] = com[0].split("/")[-1][:-4]
         return top_3_communities
