@@ -53,39 +53,39 @@ communities = {}
 # with open("Graph.json",'w') as f:
 #     f.write(json_obj)
 G_dict = {
-    "Community_1": [ "cto_0, cmo_0, cmo_41, cmo_85, cmo_231, cmo_262, cmo_293, cmo_310, cmo_342,
-    cmo_410, cmo_446, cmo_490, cmo_497, cmo_509, cmo_578, cmo_711, cmo_735,
-    cmo_858, cmo_885, cmo_973, cmo_974, cmo_123, cmo_131, cmo_215, cmo_222,
-    cmo_343, cmo_391, cmo_439, cmo_494, cmo_545, cmo_794, cmo_798, cmo_810,
-    cmo_942, cmo_171, cmo_244, cmo_291, cmo_369, cmo_382, cmo_485, cmo_530,
-    cmo_543, cmo_608, cmo_760, cmo_768, cmo_948, cmo_166, cmo_176, cmo_230,
-    cmo_502, cmo_697, cmo_995, cmo_73, cmo_307, cmo_756, cmo_954, cmo_960,
-    cmo_80, cmo_179, cmo_187, cmo_472, cmo_488, cmo_774, cmo_874, cmo_128,
-    cmo_329, cmo_334, cmo_629, cmo_636, cmo_82, cmo_152, cmo_246, cmo_322,
-    cmo_938, cmo_966, cmo_664, cmo_746, cmo_825, cmo_944, cmo_76, cmo_180,
-    cmo_407, cmo_484, cmo_799, cmo_39, cmo_136, cmo_653, cmo_581, cmo_705,
-    cmo_872, cmo_383, cmo_737, cmo_772, cmo_124, cmo_216, cmo_450, cmo_596,
-    cmo_169, cmo_242, cmo_440, cmo_481, cmo_226, cmo_824, cmo_851, cmo_247,
-    cmo_767, cmo_538, cmo_998, cmo_397, cmo_888, cmo_153, cmo_738, cmo_129,
-    cmo_96, cmo_658, cmo_327, cmo_715, cmo_464, cmo_994, cto_28, cmo_224,
-    cmo_572, cmo_448, cmo_546, cmo_186, cmo_820, cmo_78, cmo_207, cmo_892,
-    cto_56, cmo_287, cto_62, cto_64, cto_70, cto_75, cto_78, cto_84, cto_101,
-    cto_103, cto_106, cto_115, cto_119, cto_142, cto_143, cto_149, cto_154,
-    cto_156, cto_162, cto_182, cto_194, cto_209, cto_215, cto_234, cto_251,
-    cto_253, cto_255, cto_260, cto_267, cto_296, cto_308, cto_311, cto_325,
-    cto_327, cto_329, cto_332, cto_350, cto_353, cto_355, cto_382, cto_384,
-    cto_390, cto_391, cto_413, cto_418, cto_440, cto_454, cto_461, cto_463,
-    cto_465, cto_473, cto_475, cto_482, cto_485, cto_505, cto_508, cto_515,
-    cto_517, cto_519, cto_521, cto_523, cto_527, cto_536, cto_540, cto_541,
-    cto_552, cto_565, cto_580, cto_583, cto_584, cto_600, cto_617, cto_620,
-    cto_659, cto_670, cto_671, cto_679, cto_695, cto_701, cto_704, cto_709,
-    cto_710, cto_711, cto_722, cto_723, cto_726, cto_734, cto_754, cto_765,
-    cto_769, cto_778, cto_779, cto_785, cto_786, cto_792, cto_796, cto_797,
-    cto_800, cto_802, cto_809, cto_810, cto_813, cto_819, cto_831, cto_842,
-    cto_843, cto_846, cto_852, cto_853, cto_855, cto_858, cto_872, cto_885,
-    cto_890, cto_923, cto_927, cto_932, cto_934, cto_936, cto_941, cto_953,
-    cto_960, cto_970, cto_979, cto_980, cto_990, cto_998, cto_1000, ceo_3,
-    ceo_63, ceo_84, ceo_85, ceo_152, ceo_215, ceo_253, ceo_309, ceo_430,
+    "Community_1": [ "cto_0, cmo_0, cmo_41, cmo_85, cmo_231, cmo_262, cmo_293, cmo_310, cmo_342,\
+    cmo_410, cmo_446, cmo_490, cmo_497, cmo_509, cmo_578, cmo_711, cmo_735,\
+    cmo_858, cmo_885, cmo_973, cmo_974, cmo_123, cmo_131, cmo_215, cmo_222,\
+    cmo_343, cmo_391, cmo_439, cmo_494, cmo_545, cmo_794, cmo_798, cmo_810,\
+    cmo_942, cmo_171, cmo_244, cmo_291, cmo_369, cmo_382, cmo_485, cmo_530,\
+    cmo_543, cmo_608, cmo_760, cmo_768, cmo_948, cmo_166, cmo_176, cmo_230,\
+    cmo_502, cmo_697, cmo_995, cmo_73, cmo_307, cmo_756, cmo_954, cmo_960,\
+    cmo_80, cmo_179, cmo_187, cmo_472, cmo_488, cmo_774, cmo_874, cmo_128,\
+    cmo_329, cmo_334, cmo_629, cmo_636, cmo_82, cmo_152, cmo_246, cmo_322,\
+    cmo_938, cmo_966, cmo_664, cmo_746, cmo_825, cmo_944, cmo_76, cmo_180,\
+    cmo_407, cmo_484, cmo_799, cmo_39, cmo_136, cmo_653, cmo_581, cmo_705,\
+    cmo_872, cmo_383, cmo_737, cmo_772, cmo_124, cmo_216, cmo_450, cmo_596,\
+    cmo_169, cmo_242, cmo_440, cmo_481, cmo_226, cmo_824, cmo_851, cmo_247,\
+    cmo_767, cmo_538, cmo_998, cmo_397, cmo_888, cmo_153, cmo_738, cmo_129,\
+    cmo_96, cmo_658, cmo_327, cmo_715, cmo_464, cmo_994, cto_28, cmo_224,\
+    cmo_572, cmo_448, cmo_546, cmo_186, cmo_820, cmo_78, cmo_207, cmo_892,\
+    cto_56, cmo_287, cto_62, cto_64, cto_70, cto_75, cto_78, cto_84, cto_101,\
+    cto_103, cto_106, cto_115, cto_119, cto_142, cto_143, cto_149, cto_154,\
+    cto_156, cto_162, cto_182, cto_194, cto_209, cto_215, cto_234, cto_251,\
+    cto_253, cto_255, cto_260, cto_267, cto_296, cto_308, cto_311, cto_325,\
+    cto_327, cto_329, cto_332, cto_350, cto_353, cto_355, cto_382, cto_384,\
+    cto_390, cto_391, cto_413, cto_418, cto_440, cto_454, cto_461, cto_463,\
+    cto_465, cto_473, cto_475, cto_482, cto_485, cto_505, cto_508, cto_515,\
+    cto_517, cto_519, cto_521, cto_523, cto_527, cto_536, cto_540, cto_541,\
+    cto_552, cto_565, cto_580, cto_583, cto_584, cto_600, cto_617, cto_620,\
+    cto_659, cto_670, cto_671, cto_679, cto_695, cto_701, cto_704, cto_709,\
+    cto_710, cto_711, cto_722, cto_723, cto_726, cto_734, cto_754, cto_765,\
+    cto_769, cto_778, cto_779, cto_785, cto_786, cto_792, cto_796, cto_797,\
+    cto_800, cto_802, cto_809, cto_810, cto_813, cto_819, cto_831, cto_842,\
+    cto_843, cto_846, cto_852, cto_853, cto_855, cto_858, cto_872, cto_885,\
+    cto_890, cto_923, cto_927, cto_932, cto_934, cto_936, cto_941, cto_953,\
+    cto_960, cto_970, cto_979, cto_980, cto_990, cto_998, cto_1000, ceo_3,\
+    ceo_63, ceo_84, ceo_85, ceo_152, ceo_215, ceo_253, ceo_309, ceo_430,\
     ceo_435, ceo_558, ceo_639, ceo_669, ceo_743, ceo_922, ceo_15, ceo_92,
     ceo_213, ceo_583, ceo_656, ceo_695, ceo_718, ceo_788, ceo_818, ceo_24,
     ceo_178, ceo_240, ceo_325, ceo_346, ceo_501, ceo_516, ceo_527, ceo_569,
@@ -266,15 +266,15 @@ G_dict = {
     ceo_956, ceo_114, ceo_355, ceo_884, ceo_749, ceo_766, ceo_383, ceo_840,
     ceo_9, ceo_933, ceo_793, ceo_821, ceo_883, ceo_341, ceo_390, ceo_719,
     ceo_99, ceo_254, ceo_267, ceo_61"],
-"Communtiy_6" :["cmo_105, cmo_125, cmo_146, cmo_199, cmo_223, cmo_241, cmo_254, cmo_363,
-    cmo_422, cmo_473, cmo_520, cmo_523, cmo_533, cmo_633, cmo_713, cmo_789,
-    cmo_842, cmo_898, cmo_940, cto_1, cmo_10, cmo_49, cmo_59, cmo_83, cmo_274,
-    cmo_301, cmo_308, cmo_403, cmo_644, cmo_646, cmo_765, cmo_953, cmo_150,
-    cmo_323, cmo_405, cmo_428, cmo_454, cmo_461, cmo_684, cmo_964, cmo_11,
-    cmo_112, cmo_277, cmo_302, cmo_316, cmo_599, cmo_648, cmo_724, cmo_866,
-    cmo_868, cto_4, cmo_48, cmo_159, cmo_173, cmo_438, cmo_544, cmo_567,
-    cmo_584, cmo_641, cmo_933, cmo_972, cmo_2, cmo_67, cmo_79, cmo_349,
-    cmo_424, cmo_455, cmo_563, cmo_594, cmo_694, cmo_935, cmo_118, cmo_370,
+"Communtiy_6" :["cmo_105, cmo_125, cmo_146, cmo_199, cmo_223, cmo_241, cmo_254, cmo_363,\
+    cmo_422, cmo_473, cmo_520, cmo_523, cmo_533, cmo_633, cmo_713, cmo_789,\
+    cmo_842, cmo_898, cmo_940, cto_1, cmo_10, cmo_49, cmo_59, cmo_83, cmo_274,\
+    cmo_301, cmo_308, cmo_403, cmo_644, cmo_646, cmo_765, cmo_953, cmo_150,\
+    cmo_323, cmo_405, cmo_428, cmo_454, cmo_461, cmo_684, cmo_964, cmo_11,\
+    cmo_112, cmo_277, cmo_302, cmo_316, cmo_599, cmo_648, cmo_724, cmo_866,\
+    cmo_868, cto_4, cmo_48, cmo_159, cmo_173, cmo_438, cmo_544, cmo_567,\
+    cmo_584, cmo_641, cmo_933, cmo_972, cmo_2, cmo_67, cmo_79, cmo_349,\
+    cmo_424, cmo_455, cmo_563, cmo_594, cmo_694, cmo_935, cmo_118, cmo_370,\
     cmo_517, cmo_71, cmo_157, cmo_628, cmo_696, cmo_846, cto_8, cmo_285,\
     cmo_321, cmo_401, cmo_685, cmo_782, cmo_33, cmo_416, cmo_660, cmo_860,\
     cmo_306, cmo_542, cmo_812, cmo_17, cmo_570, cmo_661, cmo_682, cmo_823,\
