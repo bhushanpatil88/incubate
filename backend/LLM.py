@@ -1,7 +1,8 @@
 from openai import OpenAI
+import re
+import random
 
 def get_ideal_profiles(idea, designations):
-
     client = OpenAI(
         base_url = 'http://localhost:11434/v1',
         api_key='llama',
@@ -48,3 +49,60 @@ def get_ideal_profiles(idea, designations):
     descriptions['cto'] = cto_description
 
     return descriptions
+
+def generate_profile_names():
+    client = OpenAI(
+    base_url = 'http://localhost:11434/v1',
+    api_key='llama',
+    )
+
+    response = client.chat.completions.create(
+    model="llama2",                                  
+    messages=[
+        {"role": "system", "content": "generate any 5 completely random indian names with surnames and just return the names in python list. give one line response"},]
+    )
+    names_string = str(response.choices[0].message.content)
+    print(names_string)
+
+    pattern = r'\b[A-Z][a-z]+\s[A-Z][a-z]+\b'
+    names = re.findall(pattern, names_string)
+
+    if names == []:
+        names = ['Rajiv Tiwari', 'Nivedita Sharma', 'Aravind Kumar', 'Megha Verma', 'Arjun Rai']
+
+    return names
+
+def generate_community_names():
+    client = OpenAI(
+    base_url = 'http://localhost:11434/v1',
+    api_key='llama',
+    )
+
+    response = client.chat.completions.create(
+    model="llama2",                                  
+    messages=[
+        {"role": "system", "content": "list down 90 unique and rare indian names with surnames in the format name surname. give one line response."},]
+    )
+    names_string = str(response.choices[0].message.content)
+    names = re.findall(r'\b[A-Z][a-z]+ [A-Z][a-z]+\b', names_string)
+
+    print(names)
+
+    list1 = ["Community_1"]
+    list2 = ["Community_2"]
+    list3 = ["Community_3"]
+
+    random_number1 = random.randint(12, 30)
+    names1 = names[0:random_number1]
+    random_number2 = random.randint(12, 30)
+    names2 = names[random_number1:random_number1+random_number2]
+    random_number3 = random.randint(12, 30)
+    names3 = names[random_number1+random_number2:random_number1+random_number2+random_number3]
+
+    list1 = list1 + names1
+    list2 = list2 + names2
+    list3 = list3 + names3
+
+    community = [list1, list2, list3]
+
+    return community
