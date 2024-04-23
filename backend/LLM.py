@@ -88,10 +88,6 @@ def generate_community_names():
 
     print(names)
 
-    list1 = ["Community_1"]
-    list2 = ["Community_2"]
-    list3 = ["Community_3"]
-
     random_number1 = random.randint(12, 30)
     names1 = names[0:random_number1]
     random_number2 = random.randint(12, 30)
@@ -99,10 +95,7 @@ def generate_community_names():
     random_number3 = random.randint(12, 30)
     names3 = names[random_number1+random_number2:random_number1+random_number2+random_number3]
 
-    list1 = list1 + names1
-    list2 = list2 + names2
-    list3 = list3 + names3
 
-    community = [list1, list2, list3]
+    community = [names1, names2, names3]
 
     return community

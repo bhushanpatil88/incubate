@@ -8,11 +8,10 @@ import re
 import os
 
 import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('omw-1.4')
-
+#nltk.download('punkt')
+# nltk.download('stopwords')
+# nltk.download('wordnet')
+# nltk.download('omw-1.4')
 
 class WMD:
     def __init__(self, description, profiles_directory):
@@ -23,7 +22,6 @@ class WMD:
         score += 0.7
         score = score * 100 - 10
         return round(score,2)
-
 
     def preprocess_text(self, text):
         # Tokenize text
