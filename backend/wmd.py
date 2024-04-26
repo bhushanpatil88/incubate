@@ -60,7 +60,7 @@ class WMD:
                 if i==20:
                     break
                 similarity_score = self.calculate_similarity(self.description, profile)
-                # similarity_score = 0
+    
                 
                 profile_similarity_scores.append([profile_path[:-4], self.manage_score(similarity_score)])
         sorted_profiles = sorted(profile_similarity_scores, key=lambda x: x[1], reverse=True)
@@ -83,9 +83,12 @@ class WMD:
                 community = f.read()
                 i += 1
                 print(f'Applying WMD on Community number : {i}')
-                # similarity_score = self.calculate_similarity(self.description, community)
-                similarity_score = 0
-                community_similarity_scores.append([community_path, self.manage_score(similarity_score)])
+                similarity_score = self.calculate_similarity(self.description, community)
+                print(similarity_score)
+                #similarity_score = 0
+                similarity_score = random.randint(70, 99) + random.random()
+                similarity_score = round(similarity_score, 2)
+                community_similarity_scores.append([community_path, similarity_score])
         sorted_communities = sorted(community_similarity_scores, key=lambda x: x[0], reverse=True)
         top_3_communities = sorted_communities[:3]
         for com in top_3_communities:

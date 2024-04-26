@@ -88,11 +88,11 @@ def generate_community_names():
 
     print(names)
 
-    random_number1 = random.randint(12, 30)
+    random_number1 = random.randint(8, 20)
     names1 = names[0:random_number1]
-    random_number2 = random.randint(12, 30)
+    random_number2 = random.randint(8, 20)
     names2 = names[random_number1:random_number1+random_number2]
-    random_number3 = random.randint(12, 30)
+    random_number3 = random.randint(8, 20)
     names3 = names[random_number1+random_number2:random_number1+random_number2+random_number3]
 
 
