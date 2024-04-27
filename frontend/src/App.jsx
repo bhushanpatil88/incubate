@@ -39,20 +39,13 @@ function App() {
         });
       });
   };
-  // let res = {
-  //   ceo: [
-  //     ["1", 100],
-  //     ["2", 1000],
-  //     ["3", 2000],
-  //     ["4", 200],
-  //     ["5", 290392],
-  //   ],
-  //   ceo_community: [
-  //     ["community1", 1000, ["1", "2", "3"]],
-  //     ["community2", 100, ["4", "2", "3"]],
-  //     ["community3", 600, ["6", "2", "3"]],
-  //   ],
-  // };
+  // let res = { 
+  //   "ceo": [ [ "Aravind Patel", 73.94 ], [ "Rajveer Jha", 71.57 ], [ "Nisha Bhatnagar", 69.55 ], [ "Sahil Chauhan", 69.2 ], [ "Tanya Sharma", 68.19 ] ] ,
+  //   "Community_1_community": [ [ "Community_1", 60, [ "Aahan Puri", "Avani Shah", "Aviraag Mishra", "Chandrika Sharma", "Dhruv Trikha", "Eshana Kumar", "Gauri Patel", "Harshit Jain", "Ishaan Verma", "Kaavya Bhatnagar", "Mahi Malhotra", "Nihal Chauhan", "Paridhi Sharma", "Rohan Jha", "Sachin Kumar", "Sanskruti Thakkar", "Swara Bahl", "Tanya Bhatia", "Uday Sharma", "Vedant Chaturvedi" ] ] ], 
+  //   "Community_2_community": [ [ "Community_2", 60, [ "Viraaj Mehta", "Yashvi Jain", "Zara Siddiqui", "Aditi Singh", "Aarav Bhatia", "Ahaana Kodur", "Anushka Sharma", "Ayushman Chauhan", "Divyansh Jain", "Eesha Mishra", "Gauri Singh", "Harshit Suri", "Iravati Patel", "Kaavya Rastogi", "Khushi Jha" ] ] ], 
+  //   "Community_3_community": [ [ "Community_3", 60, [ "Niharika Singh", "Param Bajaj", "Priyanka Sharma", "Riya Mishra", "Saurabh Trivedi", "Shruti Sawant", "Swaroop Chauhan", "Tejas Rane", "Utsav Jha", "Vedanshi Sharma", "Vikram Sharma", "Yashaswini Raje", "Aadya Gupta", "Anushka Mehta", "Ayushi Sharma", "Chhavi Jain", "Drishti Kumar" ] ] ], 
+  //   "cto": [ [ "Aravind Patel", 73.94 ], [ "Rajveer Jha", 71.57 ], [ "Nisha Bhatnagar", 69.55 ], [ "Sahil Chauhan", 69.2 ], [ "Tanya Sharma", 68.19 ] ] ,
+  // }
 
   return (
     <>
