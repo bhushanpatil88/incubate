@@ -27,8 +27,7 @@ def test(idea, designation):
     # for role in designations:
     #     print(role)
     #     file = open(f"./resources/Ideas/{idea}/{idea}_{role}.txt", "r")
-    #     res[role] = file.read()
-    
+    #     res[role] = file.read()    
     # print(res)
 
     # name = "PRAMOD GAIKWAD"
